@@ -1,0 +1,1511 @@
+{
+  "items": [
+    {
+      "description": "Packages that extend the Admin interface, adding or improving features.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "pyramid_sacrud",
+          "description": "Pyramid CRUD interface. Provides an administration web interface for Pyramid. Unlike classic CRUD, pyramid_sacrud allows overrides and flexibility to customize your interface, similar to django.contrib.admin but uses a different backend to provide resources. New Architecture built on the resources and mechanism traversal, allows to use it in various cases.",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "ps_alchemy",
+              "description": "extension for pyramid_sacrud which provides SQLAlchemy models.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2024-03-10T21:39:29Z",
+                "owner": "sacrud",
+                "repo": "ps_alchemy",
+                "stars": 7
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ps_tree",
+              "description": "extension for pyramid_sacrud which displays a list of records as tree. This works fine with models from sqlalchemy_mptt.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2015-07-10T07:39:25Z",
+                "owner": "sacrud",
+                "repo": "ps_tree",
+                "stars": 3
+              }
+            }
+          ],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-04-29T22:42:45Z",
+            "owner": "sacrud",
+            "repo": "pyramid_sacrud",
+            "stars": 53
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pyramid_formalchemy",
+          "description": "provides a CRUD interface for pyramid based on FormAlchemy.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-03-28T03:39:04Z",
+            "owner": "FormAlchemy",
+            "repo": "pyramid_formalchemy",
+            "stars": 45
+          }
+        }
+      ],
+      "title": "Admin interface"
+    },
+    {
+      "description": "Packages that help manage the static assets of a project.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "pyramid_webassets",
+          "description": "Pyramid extension for working with the webassets library.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2018-11-03T20:40:06Z",
+            "owner": "sontek",
+            "repo": "pyramid_webassets",
+            "stars": 65
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pyramid_bowerstatic",
+          "description": "integration of Bowerstatic in Pyramid",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-03-28T03:48:06Z",
+            "owner": "mrijken",
+            "repo": "pyramid_bowerstatic",
+            "stars": 14
+          }
+        }
+      ],
+      "title": "Asset Management"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "gevent-socketio",
+          "description": "gevent-socketio is a Python implementation of the Socket.IO protocol, developed originally for Node.js by LearnBoost and then ported to other languages.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-09-17T20:57:58Z",
+            "owner": "abourget",
+            "repo": "gevent-socketio",
+            "stars": 1204
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "aiopyramid",
+          "description": "Run pyramid using asyncio.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-07-20T15:09:15Z",
+            "owner": "housleyjk",
+            "repo": "aiopyramid",
+            "stars": 78
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "channelstream",
+          "description": "websocket communication server (gevent).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-01-01T16:30:30Z",
+            "owner": "Channelstream",
+            "repo": "channelstream",
+            "stars": 63
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Stargate",
+          "description": "Stargate is a package for adding WebSockets support to pyramid applications using the excellent eventlet library for long running connections.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-03-28T05:49:15Z",
+            "owner": "commandodev",
+            "repo": "stargate",
+            "stars": 39
+          }
+        }
+      ],
+      "title": "Async"
+    },
+    {
+      "description": "Packages that improve or extend the authentication methods of Pyramid.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Python Social Auth",
+          "description": "Social authentication/registration mechanism with support for a large number of providers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-07-01T19:07:30Z",
+            "owner": "omab",
+            "repo": "python-social-auth",
+            "stars": 2801
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Authomatic",
+          "description": "Simple yet powerful authorization / authentication client library for Python web applications.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-12-12T08:28:51Z",
+            "owner": "authomatic",
+            "repo": "authomatic",
+            "stars": 1053
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "velruse",
+          "description": "Simplifying third-party authentication for web applications. it supports most of auth providers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-01-16T10:14:09Z",
+            "owner": "bbangert",
+            "repo": "velruse",
+            "stars": 251
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "apex",
+          "description": "Toolkit for Pyramid, a Pylons Project, to add Authentication and Authorization using Velruse (OAuth) and/or a local database, CSRF, ReCaptcha, Sessions, Flash messages and I18N.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2026-04-15T22:12:48Z",
+            "owner": "cd34",
+            "repo": "apex",
+            "stars": 95
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pyramid_jwt",
+          "description": "This package implements an authentication policy for Pyramid that using JSON Web Tokens. This standard (RFC 7519) is often used to secure backens APIs. The excellent PyJWT library is used for the JWT encoding / decoding logic.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-11-25T20:05:06Z",
+            "owner": "wichert",
+            "repo": "pyramid_jwt",
+            "stars": 75
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pyramid_simpleauth",
+          "description": "session based authentication and role based security for Pyramid application",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-11-30T22:11:23Z",
+            "owner": "thruflo",
+            "repo": "pyramid_simpleauth",
+            "stars": 33
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pyramid_authsanity",
+          "description": "That will make it simpler to have a secure authentication policy with an easy to use backend.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-12-06T13:38:56Z",
+            "owner": "usingnamespace",
+            "repo": "pyramid_authsanity",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pyramid_ldap3",
+          "description": "Provides LDAP authentication services for your Pyramid application based on the ldap3 package.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-12-20T14:24:57Z",
+            "owner": "Cito",
+            "repo": "pyramid_ldap3",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pyramid_ipauth",
+          "description": "Pyramid authentication policy based on remote ip address.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2020-03-28T20:42:31Z",
+            "owner": "mozilla-services",
+            "repo": "pyramid_ipauth",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pyramid_who",
+          "description": "Authentication policy for pyramid using repoze.who 2.0 API.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2012-04-03T00:55:14Z",
+            "owner": "Pylons",
+            "repo": "pyramid_who",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pyramid_ldap",
+          "description": "an LDAP authentication policy for Pyramid.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-02T21:31:44Z",
+            "owner": "Pylons",
+            "repo": "pyramid_ldap",
+            "stars": 9
+          }
+        }
+      ],
+      "title": "Authentication"
+    },
+    {
+      "description": "Packages related to authorization infrastructure and permissions.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "ziggurat_foundations",
+          "description": "Framework agnostic set of sqlalchemy classes that make building applications that require permissions an easy task.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-03-08T11:08:09Z",
+            "owner": "ergo",
+            "repo": "ziggurat_foundations",
+            "stars": 71
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pyramid_multiauth",
+          "description": "An authentication policy for Pyramid that proxies to a stack of other authentication policies.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-21T08:14:14Z",
+            "owner": "mozilla-services",
+            "repo": "pyramid_multiauth",
+            "stars": 41
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "horus",
+          "description": "User registration and login system for the Pyramid Web Framework.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-02T21:31:26Z",
+            "owner": "Pylons",
+            "repo": "horus",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pyramid_authstack",
+          "description": "Use multiple authentication policies with Pyramid.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-03-28T20:49:12Z",
+            "owner": "wichert",
+            "repo": "pyramid_authstack",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pyramid_yosai",
+          "description": "Pyramid integration with security Framework for Python applications featuring Authorization (rbac permissions and roles), Authentication (2fa totp), Session Management and an extensive Audit Trail https://yosaiproject.github.io/yosai/",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2016-09-02T14:52:47Z",
+            "owner": "YosaiProject",
+            "repo": "pyramid_yosai",
+            "stars": 5
+          }
+        }
+      ],
+      "title": "Authorization"
+    },
+    {
+      "description": "Packages that help with caching and session.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "pyramid_beaker",
+          "description": "A Beaker session factory backend for Pyramid, also cache configurator.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-04-05T06:17:07Z",
+            "owner": "Pylons",
+            "repo": "pyramid_beaker",
+            "stars": 49
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pyramid_redis_sessions",
+          "description": "Pyramid web framework session factory backed by Redis.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2017-08-22T15:10:01Z",
+            "owner": "ericrasmussen",
+            "repo": "pyramid_redis_sessions",
+            "stars": 42
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pyramid_nacl_session",
+          "description": "defines an encrypting, pickle-based cookie serializer, using PyNaCl to generate the symmetric encryption for the cookie state.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-02T20:25:56Z",
+            "owner": "Pylons",
+            "repo": "pyramid_nacl_session",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pyramid_dogpile_cache",
+          "description": "dogpile.cache configuration package for Pyramid",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-03-19T00:13:50Z",
+            "owner": "moriyoshi",
+            "repo": "pyramid_dogpile_cache",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pyramid_sessions",
+          "description": "Multiple session support for the Pyramid Web Framework",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-03-28T21:22:23Z",
+            "owner": "joulez",
+            "repo": "pyramid_sessions",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Caching & Session"
+    },
+    {
+      "description": "Packages that help hunt down bugs.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "pyramid_debugtoolbar",
+          "description": "provides a debug toolbar useful while you're developing your Pyramid application.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-02T20:21:55Z",
+            "owner": "Pylons",
+            "repo": "pyramid_debugtoolbar",
+            "stars": 96
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pyramid_exclog",
+          "description": "a package which logs exceptions from Pyramid applications.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-02T20:33:43Z",
+            "owner": "Pylons",
+            "repo": "pyramid_exclog",
+            "stars": 21
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pyramid_ipython",
+          "description": "IPython bindings for Pyramid's pshell",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2017-04-11T04:22:18Z",
+            "owner": "Pylons",
+            "repo": "pyramid_ipython",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pyramid_pycallgraph",
+          "description": "Pyramid tween to generate a callgraph image for every request",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2015-12-21T11:48:05Z",
+            "owner": "disko",
+            "repo": "pyramid_pycallgraph",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pyramid_debugtoolbar_dogpile",
+          "description": "dogpile caching support for pyramid_debugtoolbar",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-09-21T00:59:05Z",
+            "owner": "jvanasco",
+            "repo": "pyramid_debugtoolbar_dogpile",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pyramid_bpython",
+          "description": "bpython bindings for Pyramid's pshell",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2017-04-11T04:22:41Z",
+            "owner": "Pylons",
+            "repo": "pyramid_bpython",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Debugging"
+    },
+    {
+      "description": "Packages that help manage email sending.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "pyramid_mailer",
+          "description": "A package for sending email from your Pyramid application.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-02T21:30:30Z",
+            "owner": "Pylons",
+            "repo": "pyramid_mailer",
+            "stars": 51
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pyramid_marrowmailer",
+          "description": "Pyramid integration package for marrow.mailer, formerly known as TurboMail",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-03-30T07:57:47Z",
+            "owner": "domenkozar",
+            "repo": "pyramid_marrowmailer",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pyramid_mailgun",
+          "description": "Mailgun integration for Pyramid framework.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2016-01-28T02:57:04Z",
+            "owner": "evannook",
+            "repo": "pyramid_mailgun",
+            "stars": 2
+          }
+        }
+      ],
+      "title": "Email"
+    },
+    {
+      "description": "Packages that extend the functionality of forms or add new types of forms.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "marshmallow",
+          "description": "A lightweight library for converting complex objects to and from simple Python datatypes (i.e. (de)serialization and validation).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-09T14:31:56Z",
+            "owner": "marshmallow-code",
+            "repo": "marshmallow",
+            "stars": 7241
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WTForms",
+          "description": "is a flexible forms validation and rendering library for python web development.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-29T08:33:53Z",
+            "owner": "pallets-eco",
+            "repo": "wtforms",
+            "stars": 1580
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "colander",
+          "description": "A serialization/deserialization/validation library for strings, mappings and lists.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-02T20:19:54Z",
+            "owner": "Pylons",
+            "repo": "colander",
+            "stars": 462
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "deform",
+          "description": "is a Python HTML form generation library.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-02T21:28:16Z",
+            "owner": "Pylons",
+            "repo": "deform",
+            "stars": 423
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ColanderAlchemy",
+          "description": "helps you to auto-generate Colander schemas that are based on SQLAlchemy mapped classes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-07-11T12:59:38Z",
+            "owner": "stefanofontanelli",
+            "repo": "ColanderAlchemy",
+            "stars": 65
+          }
+        }
+      ],
+      "title": "Forms"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "pyramid_storage",
+          "description": "This is a package for handling file uploads in your Pyramid framework application.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-09T14:33:37Z",
+            "owner": "danjac",
+            "repo": "pyramid_storage",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pyramid_elfinder",
+          "description": "This is conector for elfinder file manager, written for pyramid framework.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2020-03-14T00:42:16Z",
+            "owner": "uralbash",
+            "repo": "pyramid_elfinder",
+            "stars": 2
+          }
+        }
+      ],
+      "title": "Media-Management"
+    },
+    {
+      "description": "Packages for developing RESTful APIs.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "webargs",
+          "description": "A friendly library for parsing HTTP request arguments, with built-in support for popular web frameworks.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-11T21:51:36Z",
+            "owner": "marshmallow-code",
+            "repo": "webargs",
+            "stars": 1408
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cornice",
+          "description": "provides helpers to build & document REST-ish Web Services with Pyramid, with decent default behaviors. It takes care of following the HTTP specification in an automated way where possible.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-04T14:48:16Z",
+            "owner": "Cornices",
+            "repo": "cornice",
+            "stars": 389
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ramses",
+          "description": "Generate a RESTful API using RAML. It uses Nefertari which provides ElasticSearch-powered views.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2020-03-29T11:37:48Z",
+            "owner": "ramses-tech",
+            "repo": "ramses",
+            "stars": 302
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pyramid-openapi3",
+          "description": "Validate Pyramid views against an OpenAPI 3.0 document. Similar to pyramid_swagger but for OpenAPI 3.0.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-01T13:11:04Z",
+            "owner": "Pylons",
+            "repo": "pyramid_openapi3",
+            "stars": 84
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cliquet",
+          "description": "Cliquet is a toolkit to ease the implementation of HTTP microservices, such as data-driven REST APIs.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2019-03-28T14:11:25Z",
+            "owner": "mozilla-services",
+            "repo": "cliquet",
+            "stars": 63
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pyramid_swagger",
+          "description": "Convenient tools for using Swagger to define and validate your interfaces in a Pyramid webapp. (Swagger 2.0 document)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-02T17:06:40Z",
+            "owner": "Yelp",
+            "repo": "pyramid_swagger",
+            "stars": 63
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "nefertari",
+          "description": "Nefertari is a REST API framework sitting on top of Pyramid and ElasticSearch.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2020-03-29T19:23:59Z",
+            "owner": "ramses-tech",
+            "repo": "nefertari",
+            "stars": 53
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rest_toolkit",
+          "description": "is a Python package which provides a very convenient way to build REST servers. It is build on top of Pyramid, but you do not need to know much about Pyramid to use rest_toolkit.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2022-03-21T22:18:05Z",
+            "owner": "wichert",
+            "repo": "rest_toolkit",
+            "stars": 36
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pyramid_jsonapi",
+          "description": "Automatically create a JSON API standard API from a database using the sqlAlchemy ORM and pyramid framework.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-10-05T14:45:17Z",
+            "owner": "colinhiggs",
+            "repo": "pyramid-jsonapi",
+            "stars": 27
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pyramid_royal",
+          "description": "Royal is a pyramid extension which eases writing RESTful web applications.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2020-03-29T11:36:46Z",
+            "owner": "hadrien",
+            "repo": "pyramid_royal",
+            "stars": 24
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pyramid_apispec",
+          "description": "Create an OpenAPI specification file using apispec and Marshmallow schemas.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-06-03T02:13:25Z",
+            "owner": "ergo",
+            "repo": "pyramid_apispec",
+            "stars": 23
+          }
+        }
+      ],
+      "title": "RESTful API"
+    },
+    {
+      "description": "Packages that improve the security of a project.",
+      "items": [],
+      "title": "Security"
+    },
+    {
+      "description": "Packages that help manage the configurability of projects.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "hupper",
+          "description": "A process monitor/reloader for developers that can watch files for changes and restart the process.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-02T20:28:24Z",
+            "owner": "Pylons",
+            "repo": "hupper",
+            "stars": 223
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pyramid_services",
+          "description": "defines a pattern and helper methods for accessing a pluggable service layer from within your Pyramid apps.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-11-20T20:05:59Z",
+            "owner": "mmerickel",
+            "repo": "pyramid_services",
+            "stars": 83
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pyramid_zcml",
+          "description": "Zope Configuration Markup Language configuration support for Pyramid.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-02T21:31:54Z",
+            "owner": "Pylons",
+            "repo": "pyramid_zcml",
+            "stars": 4
+          }
+        }
+      ],
+      "title": "Settings"
+    },
+    {
+      "description": "Packages that extend the functionality of the existing storage backend or provide new storage backends.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "pyramid_mongodb",
+          "description": "Basic Pyramid Scaffold to easily use MongoDB for persistence with the Pyramid Web framework",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-03-31T12:18:49Z",
+            "owner": "niallo",
+            "repo": "pyramid_mongodb",
+            "stars": 44
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pyramid_tm",
+          "description": "Centralized transaction management for Pyramid applications (without middleware).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-02T20:19:27Z",
+            "owner": "Pylons",
+            "repo": "pyramid_tm",
+            "stars": 36
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "zope.sqlalchemy",
+          "description": "Integration of SQLAlchemy with transaction management.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-11-25T07:02:49Z",
+            "owner": "zopefoundation",
+            "repo": "zope.sqlalchemy",
+            "stars": 35
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pyramid_sqlalchemy",
+          "description": "provides some basic glue to facilitate using SQLAlchemy with Pyramid.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-03-31T12:18:26Z",
+            "owner": "wichert",
+            "repo": "pyramid_sqlalchemy",
+            "stars": 26
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pyramid_mongoengine",
+          "description": "pyramid-mongoengine package based on flask-mongoengine",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-03-31T19:12:19Z",
+            "owner": "marioidival",
+            "repo": "pyramid_mongoengine",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pyramid-excel",
+          "description": "pyramid-excel is based on pyexcel and makes it easy to consume/produce information stored in excel files over HTTP protocol as well as on file system. This library can turn the excel data into a list of lists, a list of records(dictionaries), dictionaries of lists. And vice versa. Hence it lets you focus on data in Pyramid based web development, instead of file formats.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-11-23T13:56:30Z",
+            "owner": "pyexcel-webwares",
+            "repo": "pyramid-excel",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pyramid_zodbconn",
+          "description": "ZODB Database connection management for Pyramid.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-04-01T09:03:35Z",
+            "owner": "Pylons",
+            "repo": "pyramid_zodbconn",
+            "stars": 4
+          }
+        }
+      ],
+      "title": "Storage"
+    },
+    {
+      "description": "Packages that make working with task/background queues easier.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "pyramid_celery",
+          "description": "Pyramid configuration with celery integration. Allows you to use pyramid .ini files to configure celery and have your pyramid configuration inside celery tasks.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-07-23T05:36:00Z",
+            "owner": "sontek",
+            "repo": "pyramid_celery",
+            "stars": 105
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pyramid_rq",
+          "description": "Support using the rq queueing system with pyramid. The easiest way to monitor and use RQ in your Pyramid projects.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2016-06-30T08:46:58Z",
+            "owner": "wichert",
+            "repo": "pyramid_rq",
+            "stars": 9
+          }
+        }
+      ],
+      "title": "Task Queue"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "pyramid_jinja2",
+          "description": "Jinja2 templating system bindings for the Pyramid web framework.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-02T20:28:46Z",
+            "owner": "Pylons",
+            "repo": "pyramid_jinja2",
+            "stars": 72
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Kajiki",
+          "description": "provides fast well-formed XML templates, with Pyramid integration",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-05-05T05:24:03Z",
+            "owner": "jackrosenthal",
+            "repo": "kajiki",
+            "stars": 51
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pyramid_mako",
+          "description": "Mako templating system bindings for the Pyramid web framework.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-02T21:36:35Z",
+            "owner": "Pylons",
+            "repo": "pyramid_mako",
+            "stars": 23
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pyramid_chameleon",
+          "description": "Chameleon template compiler for pyramid.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-02T20:34:16Z",
+            "owner": "Pylons",
+            "repo": "pyramid_chameleon",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tonnikala",
+          "description": "Python templating engine with Pyramid integration",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2015-07-22T08:00:41Z",
+            "owner": "ztane",
+            "repo": "Tonnikala",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "Templates"
+    },
+    {
+      "description": "Packages help with the task of translating projects.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "lingua",
+          "description": "Lingua is a package with tools to extract translatable texts from your code, and to check existing translations. It replaces the use of the xgettext command from gettext, or pybabel from Babel.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-30T20:13:48Z",
+            "owner": "wichert",
+            "repo": "lingua",
+            "stars": 49
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pyramid_i18n_helper",
+          "description": "helper to create new smgid and translate msgid to local langs .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2018-02-04T10:44:55Z",
+            "owner": "sahama",
+            "repo": "pyramid_i18n_helper",
+            "stars": 3
+          }
+        }
+      ],
+      "title": "Translations"
+    },
+    {
+      "description": "Packages that do process, procedure and/or business tasks management.",
+      "items": [],
+      "title": "Workflows"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "waitress",
+          "description": "Waitress is meant to be a production-quality pure-Python WSGI server with very acceptable performance. It has no dependencies except ones which live in the Python standard library.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-03T00:18:26Z",
+            "owner": "Pylons",
+            "repo": "waitress",
+            "stars": 1593
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "paginate",
+          "description": "Python pagination module.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-08-25T20:26:42Z",
+            "owner": "Pylons",
+            "repo": "paginate",
+            "stars": 79
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pyramid_rpc",
+          "description": "RPC service add-on for Pyramid, supports XML-RPC in a more extensible manner than pyramid_xmlrpc with support for JSON-RPC and AMF.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-06-24T18:09:36Z",
+            "owner": "Pylons",
+            "repo": "pyramid_rpc",
+            "stars": 26
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pyramid_layout",
+          "description": "Pyramid add-on for managing UI layouts.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-02T20:40:56Z",
+            "owner": "Pylons",
+            "repo": "pyramid_layout",
+            "stars": 24
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pyramid_pages",
+          "description": "Provides a collections of tree pages to your Pyramid application. This is very similar to django.contrib.flatpages but with a tree structure and traversal algorithm in URL dispatch.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-03-24T06:14:20Z",
+            "owner": "uralbash",
+            "repo": "pyramid_pages",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pyramid_extdirect",
+          "description": "This pyramid plugin provides a router for the ExtDirect Sencha API included in ExtJS. ExtDirect allows to run server-side callbacks directly through JavaScript without the extra AJAX boilerplate.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-03-09T14:15:20Z",
+            "owner": "jenner",
+            "repo": "pyramid_extdirect",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pyramid_handlers",
+          "description": "analogue of Pylons-style “controllers” for Pyramid.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-02T21:31:39Z",
+            "owner": "Pylons",
+            "repo": "pyramid_handlers",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pyramid_retry",
+          "description": "pyramid_retry is an execution policy for Pyramid that wraps requests and can retry them a configurable number of times under certain \"retryable\" error conditions before indicating a failure to the client.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-02T20:26:15Z",
+            "owner": "Pylons",
+            "repo": "pyramid_retry",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pyramid_tablib",
+          "description": "tablib renderer (xlsx, xls, csv) for pyramid",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2015-03-12T13:33:29Z",
+            "owner": "lxneng",
+            "repo": "pyramid_tablib",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pyramid_skins",
+          "description": "This package provides a simple framework to integrate code with templates and resources.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-08-04T09:06:21Z",
+            "owner": "Pylons",
+            "repo": "pyramid_skins",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tomb_routes",
+          "description": "Simple utility library around pyramid routing",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2015-06-24T15:37:56Z",
+            "owner": "sontek",
+            "repo": "tomb_routes",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pyramid_autodoc",
+          "description": "Sphinx extension for documenting your Pyramid APIs.",
+          "children": []
+        }
+      ],
+      "title": "Other"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Kotti",
+          "description": "A user-friendly, light-weight and extensible web content management system. Based on Pyramid and SQLAlchemy.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-11-27T16:20:04Z",
+            "owner": "Kotti",
+            "repo": "Kotti",
+            "stars": 413
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "substanced",
+          "description": "An application server built upon the Pyramid web framework. It provides a user interface for managing content as well as libraries and utilities which make it easy to create applications.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-06-23T18:32:41Z",
+            "owner": "Pylons",
+            "repo": "substanced",
+            "stars": 160
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "nive_cms",
+          "description": "Nive is professional out the box content management system for mobile and desktop websites based on python and the webframework pyramid. Please refer to the website cms.nive.co for detailed information.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2020-04-01T19:44:09Z",
+            "owner": "nive",
+            "repo": "nive_cms",
+            "stars": 18
+          }
+        }
+      ],
+      "title": "CMS"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "e-Commerce"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "warehouse",
+          "description": "Warehouse is a next generation Python Package Repository designed to replace the legacy code base that currently powers PyPI.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T22:52:24Z",
+            "owner": "pypi",
+            "repo": "warehouse",
+            "stars": 4122
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "shootout",
+          "description": "An example “idea competition” application by Carlos de la Guardia and Lukasz Fidosz. It demonstrates URL dispatch, simple authentication, integration with SQLAlchemy and pyramid_simpleform.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2013-10-03T21:38:35Z",
+            "owner": "Pylons",
+            "repo": "shootout",
+            "stars": 105
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ptah",
+          "description": "Ptah is a fast, fun, open source high-level Python web development environment.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-04-02T11:41:05Z",
+            "owner": "ptahproject",
+            "repo": "ptah",
+            "stars": 72
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "travelcrm",
+          "description": "TravelCRM is effective free and open source application for the automation of customer relationships for travel agencies at all levels, from small to large networks.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-04-02T11:37:33Z",
+            "owner": "mazvv",
+            "repo": "travelcrm",
+            "stars": 31
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cluegun",
+          "description": "A simple pastebin application based on Rocky Burt’s ClueBin. It demonstrates form processing, security, and the use of ZODB within a Pyramid application.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2012-02-15T21:48:50Z",
+            "owner": "Pylons",
+            "repo": "cluegun",
+            "stars": 30
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "virginia",
+          "description": "A very simple dynamic file rendering application. It is willing to render structured text documents, HTML documents, and images from a filesystem directory. It’s also a good example of traversal. An earlier version of this application runs the repoze.org website.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-05-06T02:10:30Z",
+            "owner": "Pylons",
+            "repo": "virginia",
+            "stars": 24
+          }
+        }
+      ],
+      "title": "Other"
+    },
+    {
+      "description": "To the extent possible under law, @uralbash has waived all copyright and related or neighboring rights to this work.",
+      "items": [],
+      "title": "License"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T03:58:46.495Z",
+    "original_repository": "uralbash/awesome-pyramid",
+    "original_repository_sha": "b27d8b3ca5d8d5e0a0b9237da79e5fdbb262d542",
+    "enhanced_repository": "enhansome/enhansome-pyramid",
+    "enhanced_repository_description": null,
+    "title": "Awesome Pyramid with stars"
+  }
+}
