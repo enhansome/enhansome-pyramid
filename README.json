@@ -1199,7 +1199,7 @@
             "last_commit": "2026-08-03T00:18:26Z",
             "owner": "Pylons",
             "repo": "waitress",
-            "stars": 1593
+            "stars": 1594
           }
         },
         {
@@ -1415,10 +1415,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-12T22:52:24Z",
+            "last_commit": "2026-08-13T20:23:42Z",
             "owner": "pypi",
             "repo": "warehouse",
-            "stars": 4122
+            "stars": 4124
           }
         },
         {
@@ -1501,7 +1501,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T03:58:46.495Z",
+    "last_updated": "2026-08-13T22:35:56.340Z",
     "original_repository": "uralbash/awesome-pyramid",
     "original_repository_sha": "b27d8b3ca5d8d5e0a0b9237da79e5fdbb262d542",
     "enhanced_repository": "enhansome/enhansome-pyramid",
