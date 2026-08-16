@@ -111,7 +111,7 @@
             "last_commit": "2022-09-17T20:57:58Z",
             "owner": "abourget",
             "repo": "gevent-socketio",
-            "stars": 1204
+            "stars": 1205
           }
         },
         {
@@ -623,7 +623,7 @@
             "last_commit": "2026-08-14T16:18:58Z",
             "owner": "marshmallow-code",
             "repo": "marshmallow",
-            "stars": 7241
+            "stars": 7242
           }
         },
         {
@@ -1418,7 +1418,7 @@
             "last_commit": "2026-08-15T01:20:14Z",
             "owner": "pypi",
             "repo": "warehouse",
-            "stars": 4128
+            "stars": 4129
           }
         },
         {
@@ -1501,7 +1501,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T22:15:15.033Z",
+    "last_updated": "2026-08-16T22:15:16.354Z",
     "original_repository": "uralbash/awesome-pyramid",
     "original_repository_sha": "b27d8b3ca5d8d5e0a0b9237da79e5fdbb262d542",
     "enhanced_repository": "enhansome/enhansome-pyramid",
