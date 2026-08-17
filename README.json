@@ -173,7 +173,7 @@
             "last_commit": "2022-07-01T19:07:30Z",
             "owner": "omab",
             "repo": "python-social-auth",
-            "stars": 2801
+            "stars": 2800
           }
         },
         {
@@ -733,7 +733,7 @@
             "last_commit": "2026-08-13T23:48:02Z",
             "owner": "marshmallow-code",
             "repo": "webargs",
-            "stars": 1408
+            "stars": 1407
           }
         },
         {
@@ -1415,10 +1415,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-15T01:20:14Z",
+            "last_commit": "2026-08-17T21:59:24Z",
             "owner": "pypi",
             "repo": "warehouse",
-            "stars": 4129
+            "stars": 4130
           }
         },
         {
@@ -1501,7 +1501,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T22:15:16.354Z",
+    "last_updated": "2026-08-17T22:18:58.747Z",
     "original_repository": "uralbash/awesome-pyramid",
     "original_repository_sha": "b27d8b3ca5d8d5e0a0b9237da79e5fdbb262d542",
     "enhanced_repository": "enhansome/enhansome-pyramid",
