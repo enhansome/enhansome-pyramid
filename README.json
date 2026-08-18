@@ -620,7 +620,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-14T16:18:58Z",
+            "last_commit": "2026-08-18T12:09:59Z",
             "owner": "marshmallow-code",
             "repo": "marshmallow",
             "stars": 7242
@@ -842,7 +842,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2023-10-05T14:45:17Z",
+            "last_commit": "2026-08-18T08:50:11Z",
             "owner": "colinhiggs",
             "repo": "pyramid-jsonapi",
             "stars": 27
@@ -1415,10 +1415,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-17T21:59:24Z",
+            "last_commit": "2026-08-18T20:34:10Z",
             "owner": "pypi",
             "repo": "warehouse",
-            "stars": 4130
+            "stars": 4131
           }
         },
         {
@@ -1501,7 +1501,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T22:18:58.747Z",
+    "last_updated": "2026-08-18T22:17:35.055Z",
     "original_repository": "uralbash/awesome-pyramid",
     "original_repository_sha": "b27d8b3ca5d8d5e0a0b9237da79e5fdbb262d542",
     "enhanced_repository": "enhansome/enhansome-pyramid",
