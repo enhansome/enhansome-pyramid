@@ -661,7 +661,7 @@
             "archived": false,
             "id": 14284859,
             "language": "Python",
-            "last_commit": "2026-08-18T12:09:59Z",
+            "last_commit": "2026-08-21T16:13:36Z",
             "owner": "marshmallow-code",
             "repo": "marshmallow",
             "stars": 7242
@@ -1267,7 +1267,7 @@
             "last_commit": "2026-08-03T00:18:26Z",
             "owner": "Pylons",
             "repo": "waitress",
-            "stars": 1594
+            "stars": 1596
           }
         },
         {
@@ -1489,7 +1489,7 @@
                 "archived": false,
                 "id": 9120498,
                 "language": "Python",
-                "last_commit": "2026-08-20T20:06:27Z",
+                "last_commit": "2026-08-21T17:46:22Z",
                 "owner": "pypi",
                 "repo": "warehouse",
                 "stars": 4131
@@ -1580,7 +1580,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T22:21:34.117Z",
+    "last_updated": "2026-08-21T22:18:28.308Z",
     "original_repository": "uralbash/awesome-pyramid",
     "original_repository_id": 23701917,
     "original_repository_sha": "b27d8b3ca5d8d5e0a0b9237da79e5fdbb262d542",
