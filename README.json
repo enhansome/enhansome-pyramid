@@ -1492,7 +1492,7 @@
                 "last_commit": "2026-08-22T12:28:16Z",
                 "owner": "pypi",
                 "repo": "warehouse",
-                "stars": 4131
+                "stars": 4133
               }
             },
             {
@@ -1580,7 +1580,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T22:16:07.650Z",
+    "last_updated": "2026-08-23T22:16:32.603Z",
     "original_repository": "uralbash/awesome-pyramid",
     "original_repository_id": 23701917,
     "original_repository_sha": "b27d8b3ca5d8d5e0a0b9237da79e5fdbb262d542",
