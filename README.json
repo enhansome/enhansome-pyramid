@@ -938,6 +938,48 @@
       "title": "RESTful API"
     },
     {
+      "description": "Packages that provide search capabilities to projects.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "hypatia",
+          "description": "A Python indexing and searching system.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 4332505,
+            "language": "Python",
+            "last_commit": "2026-08-02T20:39:13Z",
+            "owner": "Pylons",
+            "repo": "hypatia",
+            "stars": 32
+          }
+        }
+      ],
+      "title": "Search"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "pyramid_sms",
+          "description": "SMS services for Pyramid web framework.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 57323488,
+            "language": "Python",
+            "last_commit": "2020-03-30T11:28:46Z",
+            "owner": "websauna",
+            "repo": "pyramid_sms",
+            "stars": 7
+          }
+        }
+      ],
+      "title": "Services"
+    },
+    {
       "description": "Packages that help manage the configurability of projects.",
       "items": [
         {
@@ -1430,6 +1472,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "cone.app",
+              "description": "A comprehensive web application stub on top of Pyramid.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1292401,
+                "language": "Python",
+                "last_commit": "2026-07-22T11:48:42Z",
+                "owner": "conestack",
+                "repo": "cone.app",
+                "stars": 10
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Framework"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "Kotti",
               "description": "A user-friendly, light-weight and extensible web content management system. Based on Pyramid and SQLAlchemy.",
               "children": [],
@@ -1482,6 +1546,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "Pyramid Runner",
+              "description": "A minimal Pyramid scaffold that aims to provide a starter template to build small to large web services.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 79733695,
+                "language": "Python",
+                "last_commit": "2022-11-01T19:07:43Z",
+                "owner": "asif-mahmud",
+                "repo": "pyramid_runner",
+                "stars": 5
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Cookiecutters"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "warehouse",
               "description": "Warehouse is a next generation Python Package Repository designed to replace the legacy code base that currently powers PyPI.",
               "children": [],
@@ -1489,7 +1575,7 @@
                 "archived": false,
                 "id": 9120498,
                 "language": "Python",
-                "last_commit": "2026-08-22T12:28:16Z",
+                "last_commit": "2026-08-24T06:57:43Z",
                 "owner": "pypi",
                 "repo": "warehouse",
                 "stars": 4133
@@ -1580,7 +1666,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T22:16:32.603Z",
+    "last_updated": "2026-08-24T14:20:51.037Z",
     "original_repository": "uralbash/awesome-pyramid",
     "original_repository_id": 23701917,
     "original_repository_sha": "b27d8b3ca5d8d5e0a0b9237da79e5fdbb262d542",
