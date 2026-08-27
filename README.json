@@ -1575,10 +1575,10 @@
                 "archived": false,
                 "id": 9120498,
                 "language": "Python",
-                "last_commit": "2026-08-26T22:12:42Z",
+                "last_commit": "2026-08-27T09:46:06Z",
                 "owner": "pypi",
                 "repo": "warehouse",
-                "stars": 4137
+                "stars": 4136
               }
             },
             {
@@ -1666,9 +1666,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T02:49:08.516Z",
-    "original_repository": "uralbash/awesome-pyramid",
-    "original_repository_id": 23701917,
+    "last_updated": "2026-08-27T11:59:23.322Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 23701917,
+      "language": null,
+      "last_commit": "2021-07-08T12:28:10Z",
+      "owner": "uralbash",
+      "repo": "awesome-pyramid",
+      "stars": 576
+    },
     "original_repository_sha": "b27d8b3ca5d8d5e0a0b9237da79e5fdbb262d542",
     "enhanced_repository": "enhansome/enhansome-pyramid",
     "enhanced_repository_description": null,
