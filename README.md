@@ -1,11 +1,11 @@
 # Awesome Pyramid with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 499,905 | 🐛 106 | 📅 2026-08-21
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 500,264 | 🐛 105 | 📅 2026-08-21
 [![IRC
 Freenode](https://img.shields.io/badge/irc-freenode-blue.svg)](https://webchat.freenode.net/?channels=pyramid)
 
 A curated list of awesome Pyramid apps, projects and resources. Inspired by and
-based on [awesome-python](https://github.com/vinta/awesome-python/) ⭐ 316,049 | 🐛 15 | 🌐 Python | 📅 2026-08-25.
+based on [awesome-python](https://github.com/vinta/awesome-python/) ⭐ 316,286 | 🐛 15 | 🌐 Python | 📅 2026-08-25.
 
 * [Awesome Pyramid](#awesome-pyramid)
   * [Admin Interface](#admin-interface)
@@ -192,7 +192,7 @@ based on [awesome-python](https://github.com/vinta/awesome-python/) ⭐ 316,049 
 
 *Packages that extend the functionality of forms or add new types of forms.*
 
-* [marshmallow](https://github.com/marshmallow-code/marshmallow) ⭐ 7,242 | 🐛 145 | 🌐 Python | 📅 2026-08-21 - A
+* [marshmallow](https://github.com/marshmallow-code/marshmallow) ⭐ 7,242 | 🐛 145 | 🌐 Python | 📅 2026-08-26 - A
   lightweight library for converting complex objects to and from simple Python
   datatypes (i.e. (de)serialization and validation).
 * [WTForms](https://github.com/wtforms/wtforms) ⭐ 1,579 | 🐛 25 | 🌐 Python | 📅 2026-06-29 - is a flexible forms
@@ -216,7 +216,7 @@ based on [awesome-python](https://github.com/vinta/awesome-python/) ⭐ 316,049 
 
 *Packages for developing RESTful APIs.*
 
-* [webargs](https://github.com/sloria/webargs) ⭐ 1,406 | 🐛 8 | 🌐 Python | 📅 2026-08-13 - A friendly library for parsing
+* [webargs](https://github.com/sloria/webargs) ⭐ 1,406 | 🐛 8 | 🌐 Python | 📅 2026-08-26 - A friendly library for parsing
   HTTP request arguments, with built-in support for popular web frameworks.
 * [cornice](https://github.com/Cornices/cornice) ⭐ 389 | 🐛 56 | 🌐 Python | 📅 2026-06-04 - provides helpers to
   build & document REST-ish Web Services with Pyramid, with decent default
@@ -344,10 +344,10 @@ provide new storage backends.*
 
 ## Other
 
-* [waitress](https://github.com/Pylons/waitress) ⭐ 1,597 | 🐛 32 | 🌐 Python | 📅 2026-08-03 - Waitress is meant to be a
+* [waitress](https://github.com/Pylons/waitress) ⭐ 1,598 | 🐛 32 | 🌐 Python | 📅 2026-08-03 - Waitress is meant to be a
   production-quality pure-Python WSGI server with very acceptable performance.
   It has no dependencies except ones which live in the Python standard library.
-* [paginate](https://github.com/Pylons/paginate) ⭐ 79 | 🐛 1 | 🌐 Python | 📅 2024-08-25 - Python pagination module.
+* [paginate](https://github.com/Pylons/paginate) ⭐ 80 | 🐛 1 | 🌐 Python | 📅 2024-08-25 - Python pagination module.
 * [pyramid\_rpc](https://github.com/Pylons/pyramid_rpc) ⭐ 26 | 🐛 5 | 🌐 Python | 📅 2024-06-24 - RPC service add-on for
   Pyramid, supports XML-RPC in a more extensible manner than pyramid\_xmlrpc
   with support for JSON-RPC and AMF.
@@ -417,7 +417,7 @@ provide new storage backends.*
 
 ## Other
 
-* [warehouse](https://github.com/pypa/warehouse) ⭐ 4,135 | 🐛 583 | 🌐 Python | 📅 2026-08-25 - Warehouse is a next
+* [warehouse](https://github.com/pypa/warehouse) ⭐ 4,137 | 🐛 585 | 🌐 Python | 📅 2026-08-26 - Warehouse is a next
   generation Python Package Repository designed to replace the legacy code base
   that currently powers PyPI.
 * [shootout](https://github.com/Pylons/shootout) ⭐ 105 | 🐛 1 | 🌐 Python | 📅 2013-10-03 - An example “idea
@@ -513,4 +513,4 @@ or neighboring rights to this work.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-27._
