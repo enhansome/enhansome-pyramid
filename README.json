@@ -21,7 +21,8 @@
                 "owner": "sacrud",
                 "repo": "ps_alchemy",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-28T05:54:53.954Z"
             },
             {
               "node_type": "item",
@@ -36,7 +37,8 @@
                 "owner": "sacrud",
                 "repo": "ps_tree",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T05:54:53.954Z"
             }
           ],
           "repo_info": {
@@ -47,7 +49,8 @@
             "owner": "sacrud",
             "repo": "pyramid_sacrud",
             "stars": 53
-          }
+          },
+          "first_seen": "2026-08-28T05:54:53.954Z"
         },
         {
           "node_type": "item",
@@ -62,7 +65,8 @@
             "owner": "FormAlchemy",
             "repo": "pyramid_formalchemy",
             "stars": 45
-          }
+          },
+          "first_seen": "2026-08-28T05:54:53.954Z"
         }
       ],
       "title": "Admin interface"
@@ -83,7 +87,8 @@
             "owner": "sontek",
             "repo": "pyramid_webassets",
             "stars": 65
-          }
+          },
+          "first_seen": "2026-08-28T05:54:53.954Z"
         },
         {
           "node_type": "item",
@@ -98,7 +103,8 @@
             "owner": "mrijken",
             "repo": "pyramid_bowerstatic",
             "stars": 14
-          }
+          },
+          "first_seen": "2026-08-28T05:54:53.954Z"
         }
       ],
       "title": "Asset Management"
@@ -119,7 +125,8 @@
             "owner": "abourget",
             "repo": "gevent-socketio",
             "stars": 1205
-          }
+          },
+          "first_seen": "2026-08-28T05:54:53.954Z"
         },
         {
           "node_type": "item",
@@ -134,7 +141,8 @@
             "owner": "housleyjk",
             "repo": "aiopyramid",
             "stars": 78
-          }
+          },
+          "first_seen": "2026-08-28T05:54:53.954Z"
         },
         {
           "node_type": "item",
@@ -149,7 +157,8 @@
             "owner": "Channelstream",
             "repo": "channelstream",
             "stars": 63
-          }
+          },
+          "first_seen": "2026-08-28T05:54:53.954Z"
         },
         {
           "node_type": "item",
@@ -164,7 +173,8 @@
             "owner": "commandodev",
             "repo": "stargate",
             "stars": 39
-          }
+          },
+          "first_seen": "2026-08-28T05:54:53.954Z"
         }
       ],
       "title": "Async"
@@ -185,7 +195,8 @@
             "owner": "omab",
             "repo": "python-social-auth",
             "stars": 2800
-          }
+          },
+          "first_seen": "2026-08-28T05:54:53.954Z"
         },
         {
           "node_type": "item",
@@ -200,7 +211,8 @@
             "owner": "authomatic",
             "repo": "authomatic",
             "stars": 1053
-          }
+          },
+          "first_seen": "2026-08-28T05:54:53.954Z"
         },
         {
           "node_type": "item",
@@ -215,7 +227,8 @@
             "owner": "bbangert",
             "repo": "velruse",
             "stars": 251
-          }
+          },
+          "first_seen": "2026-08-28T05:54:53.954Z"
         },
         {
           "node_type": "item",
@@ -230,7 +243,8 @@
             "owner": "cd34",
             "repo": "apex",
             "stars": 95
-          }
+          },
+          "first_seen": "2026-08-28T05:54:53.954Z"
         },
         {
           "node_type": "item",
@@ -245,7 +259,8 @@
             "owner": "wichert",
             "repo": "pyramid_jwt",
             "stars": 75
-          }
+          },
+          "first_seen": "2026-08-28T05:54:53.954Z"
         },
         {
           "node_type": "item",
@@ -260,7 +275,8 @@
             "owner": "thruflo",
             "repo": "pyramid_simpleauth",
             "stars": 33
-          }
+          },
+          "first_seen": "2026-08-28T05:54:53.954Z"
         },
         {
           "node_type": "item",
@@ -275,7 +291,8 @@
             "owner": "usingnamespace",
             "repo": "pyramid_authsanity",
             "stars": 14
-          }
+          },
+          "first_seen": "2026-08-28T05:54:53.954Z"
         },
         {
           "node_type": "item",
@@ -290,7 +307,8 @@
             "owner": "Cito",
             "repo": "pyramid_ldap3",
             "stars": 11
-          }
+          },
+          "first_seen": "2026-08-28T05:54:53.954Z"
         },
         {
           "node_type": "item",
@@ -305,7 +323,8 @@
             "owner": "mozilla-services",
             "repo": "pyramid_ipauth",
             "stars": 11
-          }
+          },
+          "first_seen": "2026-08-28T05:54:53.954Z"
         },
         {
           "node_type": "item",
@@ -320,7 +339,8 @@
             "owner": "Pylons",
             "repo": "pyramid_who",
             "stars": 10
-          }
+          },
+          "first_seen": "2026-08-28T05:54:53.954Z"
         },
         {
           "node_type": "item",
@@ -335,7 +355,8 @@
             "owner": "Pylons",
             "repo": "pyramid_ldap",
             "stars": 9
-          }
+          },
+          "first_seen": "2026-08-28T05:54:53.954Z"
         }
       ],
       "title": "Authentication"
@@ -356,7 +377,8 @@
             "owner": "ergo",
             "repo": "ziggurat_foundations",
             "stars": 71
-          }
+          },
+          "first_seen": "2026-08-28T05:54:53.954Z"
         },
         {
           "node_type": "item",
@@ -367,11 +389,12 @@
             "archived": false,
             "id": 2618039,
             "language": "Python",
-            "last_commit": "2026-07-21T08:14:14Z",
+            "last_commit": "2026-08-27T22:12:17Z",
             "owner": "mozilla-services",
             "repo": "pyramid_multiauth",
             "stars": 41
-          }
+          },
+          "first_seen": "2026-08-28T05:54:53.954Z"
         },
         {
           "node_type": "item",
@@ -386,7 +409,8 @@
             "owner": "Pylons",
             "repo": "horus",
             "stars": 14
-          }
+          },
+          "first_seen": "2026-08-28T05:54:53.954Z"
         },
         {
           "node_type": "item",
@@ -401,7 +425,8 @@
             "owner": "wichert",
             "repo": "pyramid_authstack",
             "stars": 10
-          }
+          },
+          "first_seen": "2026-08-28T05:54:53.954Z"
         },
         {
           "node_type": "item",
@@ -416,7 +441,8 @@
             "owner": "YosaiProject",
             "repo": "pyramid_yosai",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T05:54:53.954Z"
         }
       ],
       "title": "Authorization"
@@ -437,7 +463,8 @@
             "owner": "Pylons",
             "repo": "pyramid_beaker",
             "stars": 49
-          }
+          },
+          "first_seen": "2026-08-28T05:54:53.954Z"
         },
         {
           "node_type": "item",
@@ -452,7 +479,8 @@
             "owner": "ericrasmussen",
             "repo": "pyramid_redis_sessions",
             "stars": 42
-          }
+          },
+          "first_seen": "2026-08-28T05:54:53.954Z"
         },
         {
           "node_type": "item",
@@ -467,7 +495,8 @@
             "owner": "Pylons",
             "repo": "pyramid_nacl_session",
             "stars": 9
-          }
+          },
+          "first_seen": "2026-08-28T05:54:53.954Z"
         },
         {
           "node_type": "item",
@@ -482,7 +511,8 @@
             "owner": "moriyoshi",
             "repo": "pyramid_dogpile_cache",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-28T05:54:53.954Z"
         },
         {
           "node_type": "item",
@@ -497,7 +527,8 @@
             "owner": "joulez",
             "repo": "pyramid_sessions",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T05:54:53.954Z"
         }
       ],
       "title": "Caching & Session"
@@ -518,7 +549,8 @@
             "owner": "Pylons",
             "repo": "pyramid_debugtoolbar",
             "stars": 96
-          }
+          },
+          "first_seen": "2026-08-28T05:54:53.954Z"
         },
         {
           "node_type": "item",
@@ -533,7 +565,8 @@
             "owner": "Pylons",
             "repo": "pyramid_exclog",
             "stars": 21
-          }
+          },
+          "first_seen": "2026-08-28T05:54:53.954Z"
         },
         {
           "node_type": "item",
@@ -548,7 +581,8 @@
             "owner": "Pylons",
             "repo": "pyramid_ipython",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-28T05:54:53.954Z"
         },
         {
           "node_type": "item",
@@ -563,7 +597,8 @@
             "owner": "disko",
             "repo": "pyramid_pycallgraph",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T05:54:53.954Z"
         },
         {
           "node_type": "item",
@@ -578,7 +613,8 @@
             "owner": "jvanasco",
             "repo": "pyramid_debugtoolbar_dogpile",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T05:54:53.954Z"
         },
         {
           "node_type": "item",
@@ -593,7 +629,8 @@
             "owner": "Pylons",
             "repo": "pyramid_bpython",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T05:54:53.954Z"
         }
       ],
       "title": "Debugging"
@@ -614,7 +651,8 @@
             "owner": "Pylons",
             "repo": "pyramid_mailer",
             "stars": 51
-          }
+          },
+          "first_seen": "2026-08-28T05:54:53.954Z"
         },
         {
           "node_type": "item",
@@ -629,7 +667,8 @@
             "owner": "domenkozar",
             "repo": "pyramid_marrowmailer",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T05:54:53.954Z"
         },
         {
           "node_type": "item",
@@ -644,7 +683,8 @@
             "owner": "evannook",
             "repo": "pyramid_mailgun",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T05:54:53.954Z"
         }
       ],
       "title": "Email"
@@ -665,7 +705,8 @@
             "owner": "marshmallow-code",
             "repo": "marshmallow",
             "stars": 7242
-          }
+          },
+          "first_seen": "2026-08-28T05:54:53.954Z"
         },
         {
           "node_type": "item",
@@ -680,7 +721,8 @@
             "owner": "pallets-eco",
             "repo": "wtforms",
             "stars": 1579
-          }
+          },
+          "first_seen": "2026-08-28T05:54:53.954Z"
         },
         {
           "node_type": "item",
@@ -695,7 +737,8 @@
             "owner": "Pylons",
             "repo": "colander",
             "stars": 462
-          }
+          },
+          "first_seen": "2026-08-28T05:54:53.954Z"
         },
         {
           "node_type": "item",
@@ -710,7 +753,8 @@
             "owner": "Pylons",
             "repo": "deform",
             "stars": 423
-          }
+          },
+          "first_seen": "2026-08-28T05:54:53.954Z"
         },
         {
           "node_type": "item",
@@ -725,7 +769,8 @@
             "owner": "stefanofontanelli",
             "repo": "ColanderAlchemy",
             "stars": 65
-          }
+          },
+          "first_seen": "2026-08-28T05:54:53.954Z"
         }
       ],
       "title": "Forms"
@@ -746,7 +791,8 @@
             "owner": "danjac",
             "repo": "pyramid_storage",
             "stars": 17
-          }
+          },
+          "first_seen": "2026-08-28T05:54:53.954Z"
         },
         {
           "node_type": "item",
@@ -761,7 +807,8 @@
             "owner": "uralbash",
             "repo": "pyramid_elfinder",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T05:54:53.954Z"
         }
       ],
       "title": "Media-Management"
@@ -778,11 +825,12 @@
             "archived": false,
             "id": 16899445,
             "language": "Python",
-            "last_commit": "2026-08-26T20:08:57Z",
+            "last_commit": "2026-08-27T22:12:12Z",
             "owner": "marshmallow-code",
             "repo": "webargs",
             "stars": 1406
-          }
+          },
+          "first_seen": "2026-08-28T05:54:53.954Z"
         },
         {
           "node_type": "item",
@@ -797,7 +845,8 @@
             "owner": "Cornices",
             "repo": "cornice",
             "stars": 389
-          }
+          },
+          "first_seen": "2026-08-28T05:54:53.954Z"
         },
         {
           "node_type": "item",
@@ -812,7 +861,8 @@
             "owner": "ramses-tech",
             "repo": "ramses",
             "stars": 302
-          }
+          },
+          "first_seen": "2026-08-28T05:54:53.954Z"
         },
         {
           "node_type": "item",
@@ -823,11 +873,12 @@
             "archived": false,
             "id": 138299589,
             "language": "Python",
-            "last_commit": "2026-08-01T13:11:04Z",
+            "last_commit": "2026-08-27T22:15:10Z",
             "owner": "Pylons",
             "repo": "pyramid_openapi3",
             "stars": 84
-          }
+          },
+          "first_seen": "2026-08-28T05:54:53.954Z"
         },
         {
           "node_type": "item",
@@ -842,7 +893,8 @@
             "owner": "mozilla-services",
             "repo": "cliquet",
             "stars": 63
-          }
+          },
+          "first_seen": "2026-08-28T05:54:53.954Z"
         },
         {
           "node_type": "item",
@@ -857,7 +909,8 @@
             "owner": "Yelp",
             "repo": "pyramid_swagger",
             "stars": 63
-          }
+          },
+          "first_seen": "2026-08-28T05:54:53.954Z"
         },
         {
           "node_type": "item",
@@ -872,7 +925,8 @@
             "owner": "ramses-tech",
             "repo": "nefertari",
             "stars": 53
-          }
+          },
+          "first_seen": "2026-08-28T05:54:53.954Z"
         },
         {
           "node_type": "item",
@@ -887,7 +941,8 @@
             "owner": "wichert",
             "repo": "rest_toolkit",
             "stars": 36
-          }
+          },
+          "first_seen": "2026-08-28T05:54:53.954Z"
         },
         {
           "node_type": "item",
@@ -902,7 +957,8 @@
             "owner": "colinhiggs",
             "repo": "pyramid-jsonapi",
             "stars": 27
-          }
+          },
+          "first_seen": "2026-08-28T05:54:53.954Z"
         },
         {
           "node_type": "item",
@@ -917,7 +973,8 @@
             "owner": "hadrien",
             "repo": "pyramid_royal",
             "stars": 24
-          }
+          },
+          "first_seen": "2026-08-28T05:54:53.954Z"
         },
         {
           "node_type": "item",
@@ -932,7 +989,8 @@
             "owner": "ergo",
             "repo": "pyramid_apispec",
             "stars": 23
-          }
+          },
+          "first_seen": "2026-08-28T05:54:53.954Z"
         }
       ],
       "title": "RESTful API"
@@ -953,7 +1011,8 @@
             "owner": "Pylons",
             "repo": "hypatia",
             "stars": 32
-          }
+          },
+          "first_seen": "2026-08-28T05:54:53.954Z"
         }
       ],
       "title": "Search"
@@ -974,7 +1033,8 @@
             "owner": "websauna",
             "repo": "pyramid_sms",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-28T05:54:53.954Z"
         }
       ],
       "title": "Services"
@@ -995,7 +1055,8 @@
             "owner": "Pylons",
             "repo": "hupper",
             "stars": 223
-          }
+          },
+          "first_seen": "2026-08-28T05:54:53.954Z"
         },
         {
           "node_type": "item",
@@ -1010,7 +1071,8 @@
             "owner": "mmerickel",
             "repo": "pyramid_services",
             "stars": 83
-          }
+          },
+          "first_seen": "2026-08-28T05:54:53.954Z"
         },
         {
           "node_type": "item",
@@ -1025,7 +1087,8 @@
             "owner": "Pylons",
             "repo": "pyramid_zcml",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T05:54:53.954Z"
         }
       ],
       "title": "Settings"
@@ -1046,7 +1109,8 @@
             "owner": "niallo",
             "repo": "pyramid_mongodb",
             "stars": 44
-          }
+          },
+          "first_seen": "2026-08-28T05:54:53.954Z"
         },
         {
           "node_type": "item",
@@ -1061,7 +1125,8 @@
             "owner": "Pylons",
             "repo": "pyramid_tm",
             "stars": 36
-          }
+          },
+          "first_seen": "2026-08-28T05:54:53.954Z"
         },
         {
           "node_type": "item",
@@ -1076,7 +1141,8 @@
             "owner": "zopefoundation",
             "repo": "zope.sqlalchemy",
             "stars": 35
-          }
+          },
+          "first_seen": "2026-08-28T05:54:53.954Z"
         },
         {
           "node_type": "item",
@@ -1091,7 +1157,8 @@
             "owner": "wichert",
             "repo": "pyramid_sqlalchemy",
             "stars": 26
-          }
+          },
+          "first_seen": "2026-08-28T05:54:53.954Z"
         },
         {
           "node_type": "item",
@@ -1106,7 +1173,8 @@
             "owner": "marioidival",
             "repo": "pyramid_mongoengine",
             "stars": 13
-          }
+          },
+          "first_seen": "2026-08-28T05:54:53.954Z"
         },
         {
           "node_type": "item",
@@ -1121,7 +1189,8 @@
             "owner": "pyexcel-webwares",
             "repo": "pyramid-excel",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-28T05:54:53.954Z"
         },
         {
           "node_type": "item",
@@ -1136,7 +1205,8 @@
             "owner": "Pylons",
             "repo": "pyramid_zodbconn",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T05:54:53.954Z"
         }
       ],
       "title": "Storage"
@@ -1157,7 +1227,8 @@
             "owner": "sontek",
             "repo": "pyramid_celery",
             "stars": 105
-          }
+          },
+          "first_seen": "2026-08-28T05:54:53.954Z"
         },
         {
           "node_type": "item",
@@ -1172,7 +1243,8 @@
             "owner": "wichert",
             "repo": "pyramid_rq",
             "stars": 9
-          }
+          },
+          "first_seen": "2026-08-28T05:54:53.954Z"
         }
       ],
       "title": "Task Queue"
@@ -1193,7 +1265,8 @@
             "owner": "Pylons",
             "repo": "pyramid_jinja2",
             "stars": 72
-          }
+          },
+          "first_seen": "2026-08-28T05:54:53.954Z"
         },
         {
           "node_type": "item",
@@ -1208,7 +1281,8 @@
             "owner": "jackrosenthal",
             "repo": "kajiki",
             "stars": 51
-          }
+          },
+          "first_seen": "2026-08-28T05:54:53.954Z"
         },
         {
           "node_type": "item",
@@ -1223,7 +1297,8 @@
             "owner": "Pylons",
             "repo": "pyramid_mako",
             "stars": 23
-          }
+          },
+          "first_seen": "2026-08-28T05:54:53.954Z"
         },
         {
           "node_type": "item",
@@ -1238,7 +1313,8 @@
             "owner": "Pylons",
             "repo": "pyramid_chameleon",
             "stars": 9
-          }
+          },
+          "first_seen": "2026-08-28T05:54:53.954Z"
         },
         {
           "node_type": "item",
@@ -1253,7 +1329,8 @@
             "owner": "ztane",
             "repo": "Tonnikala",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T05:54:53.954Z"
         }
       ],
       "title": "Templates"
@@ -1274,7 +1351,8 @@
             "owner": "wichert",
             "repo": "lingua",
             "stars": 49
-          }
+          },
+          "first_seen": "2026-08-28T05:54:53.954Z"
         },
         {
           "node_type": "item",
@@ -1289,7 +1367,8 @@
             "owner": "sahama",
             "repo": "pyramid_i18n_helper",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T05:54:53.954Z"
         }
       ],
       "title": "Translations"
@@ -1310,7 +1389,8 @@
             "owner": "Pylons",
             "repo": "waitress",
             "stars": 1598
-          }
+          },
+          "first_seen": "2026-08-28T05:54:53.954Z"
         },
         {
           "node_type": "item",
@@ -1325,7 +1405,8 @@
             "owner": "Pylons",
             "repo": "paginate",
             "stars": 80
-          }
+          },
+          "first_seen": "2026-08-28T05:54:53.954Z"
         },
         {
           "node_type": "item",
@@ -1340,7 +1421,8 @@
             "owner": "Pylons",
             "repo": "pyramid_rpc",
             "stars": 26
-          }
+          },
+          "first_seen": "2026-08-28T05:54:53.954Z"
         },
         {
           "node_type": "item",
@@ -1355,7 +1437,8 @@
             "owner": "Pylons",
             "repo": "pyramid_layout",
             "stars": 24
-          }
+          },
+          "first_seen": "2026-08-28T05:54:53.954Z"
         },
         {
           "node_type": "item",
@@ -1370,7 +1453,8 @@
             "owner": "uralbash",
             "repo": "pyramid_pages",
             "stars": 12
-          }
+          },
+          "first_seen": "2026-08-28T05:54:53.954Z"
         },
         {
           "node_type": "item",
@@ -1385,7 +1469,8 @@
             "owner": "jenner",
             "repo": "pyramid_extdirect",
             "stars": 10
-          }
+          },
+          "first_seen": "2026-08-28T05:54:53.954Z"
         },
         {
           "node_type": "item",
@@ -1400,7 +1485,8 @@
             "owner": "Pylons",
             "repo": "pyramid_handlers",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-28T05:54:53.954Z"
         },
         {
           "node_type": "item",
@@ -1415,7 +1501,8 @@
             "owner": "Pylons",
             "repo": "pyramid_retry",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-28T05:54:53.954Z"
         },
         {
           "node_type": "item",
@@ -1430,7 +1517,8 @@
             "owner": "lxneng",
             "repo": "pyramid_tablib",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T05:54:53.954Z"
         },
         {
           "node_type": "item",
@@ -1445,7 +1533,8 @@
             "owner": "Pylons",
             "repo": "pyramid_skins",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T05:54:53.954Z"
         },
         {
           "node_type": "item",
@@ -1460,7 +1549,8 @@
             "owner": "sontek",
             "repo": "tomb_routes",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T05:54:53.954Z"
         }
       ],
       "title": "Other"
@@ -1483,7 +1573,8 @@
                 "owner": "conestack",
                 "repo": "cone.app",
                 "stars": 10
-              }
+              },
+              "first_seen": "2026-08-28T05:54:53.954Z"
             }
           ],
           "description": null,
@@ -1505,7 +1596,8 @@
                 "owner": "Kotti",
                 "repo": "Kotti",
                 "stars": 413
-              }
+              },
+              "first_seen": "2026-08-28T05:54:53.954Z"
             },
             {
               "node_type": "item",
@@ -1520,7 +1612,8 @@
                 "owner": "Pylons",
                 "repo": "substanced",
                 "stars": 160
-              }
+              },
+              "first_seen": "2026-08-28T05:54:53.954Z"
             },
             {
               "node_type": "item",
@@ -1535,7 +1628,8 @@
                 "owner": "nive",
                 "repo": "nive_cms",
                 "stars": 18
-              }
+              },
+              "first_seen": "2026-08-28T05:54:53.954Z"
             }
           ],
           "description": null,
@@ -1557,7 +1651,8 @@
                 "owner": "asif-mahmud",
                 "repo": "pyramid_runner",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T05:54:53.954Z"
             }
           ],
           "description": null,
@@ -1575,11 +1670,12 @@
                 "archived": false,
                 "id": 9120498,
                 "language": "Python",
-                "last_commit": "2026-08-27T09:46:06Z",
+                "last_commit": "2026-08-27T23:18:29Z",
                 "owner": "pypi",
                 "repo": "warehouse",
-                "stars": 4136
-              }
+                "stars": 4138
+              },
+              "first_seen": "2026-08-28T05:54:53.954Z"
             },
             {
               "node_type": "item",
@@ -1594,7 +1690,8 @@
                 "owner": "Pylons",
                 "repo": "shootout",
                 "stars": 105
-              }
+              },
+              "first_seen": "2026-08-28T05:54:53.954Z"
             },
             {
               "node_type": "item",
@@ -1609,7 +1706,8 @@
                 "owner": "ptahproject",
                 "repo": "ptah",
                 "stars": 72
-              }
+              },
+              "first_seen": "2026-08-28T05:54:53.954Z"
             },
             {
               "node_type": "item",
@@ -1624,7 +1722,8 @@
                 "owner": "mazvv",
                 "repo": "travelcrm",
                 "stars": 31
-              }
+              },
+              "first_seen": "2026-08-28T05:54:53.954Z"
             },
             {
               "node_type": "item",
@@ -1639,7 +1738,8 @@
                 "owner": "Pylons",
                 "repo": "cluegun",
                 "stars": 30
-              }
+              },
+              "first_seen": "2026-08-28T05:54:53.954Z"
             },
             {
               "node_type": "item",
@@ -1654,7 +1754,8 @@
                 "owner": "Pylons",
                 "repo": "virginia",
                 "stars": 24
-              }
+              },
+              "first_seen": "2026-08-28T05:54:53.954Z"
             }
           ],
           "description": null,
@@ -1666,7 +1767,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:59:23.322Z",
+    "last_updated": "2026-08-28T05:54:53.954Z",
     "original_repository_info": {
       "archived": false,
       "id": 23701917,
