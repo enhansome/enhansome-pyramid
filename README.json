@@ -1151,8 +1151,8 @@
             "id": 16899445,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-08-27T22:12:12Z",
-            "open_issues": 9,
+            "last_commit": "2026-08-29T19:39:05Z",
+            "open_issues": 8,
             "owner": "marshmallow-code",
             "repo": "webargs",
             "stars": 1406,
@@ -1932,10 +1932,10 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-08-03T00:18:26Z",
-            "open_issues": 32,
+            "open_issues": 33,
             "owner": "Pylons",
             "repo": "waitress",
-            "stars": 1598,
+            "stars": 1599,
             "topics": [
               "http-server",
               "python",
@@ -2307,7 +2307,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-08-29T02:01:00Z",
-                "open_issues": 585,
+                "open_issues": 589,
                 "owner": "pypi",
                 "repo": "warehouse",
                 "stars": 4140,
@@ -2436,7 +2436,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:41:11.389Z",
+    "last_updated": "2026-08-29T23:50:52.452Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Pyramid apps, projects and resources.",
