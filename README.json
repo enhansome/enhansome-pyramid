@@ -873,7 +873,7 @@
             "archived": false,
             "id": 138299589,
             "language": "Python",
-            "last_commit": "2026-08-27T22:15:10Z",
+            "last_commit": "2026-08-28T16:54:41Z",
             "owner": "Pylons",
             "repo": "pyramid_openapi3",
             "stars": 84
@@ -1670,10 +1670,10 @@
                 "archived": false,
                 "id": 9120498,
                 "language": "Python",
-                "last_commit": "2026-08-27T23:18:29Z",
+                "last_commit": "2026-08-29T02:01:00Z",
                 "owner": "pypi",
                 "repo": "warehouse",
-                "stars": 4138
+                "stars": 4140
               },
               "first_seen": "2026-08-28T05:54:53.954Z"
             },
@@ -1721,7 +1721,7 @@
                 "last_commit": "2020-04-02T11:37:33Z",
                 "owner": "mazvv",
                 "repo": "travelcrm",
-                "stars": 31
+                "stars": 32
               },
               "first_seen": "2026-08-28T05:54:53.954Z"
             },
@@ -1767,7 +1767,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T05:54:53.954Z",
+    "last_updated": "2026-08-29T03:27:29.696Z",
     "original_repository_info": {
       "archived": false,
       "id": 23701917,

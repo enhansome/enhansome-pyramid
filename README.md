@@ -1,11 +1,11 @@
 # Awesome Pyramid with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 500,609 | 🐛 105 | 📅 2026-08-21
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 500,885 | 🐛 105 | 📅 2026-08-21
 [![IRC
 Freenode](https://img.shields.io/badge/irc-freenode-blue.svg)](https://webchat.freenode.net/?channels=pyramid)
 
 A curated list of awesome Pyramid apps, projects and resources. Inspired by and
-based on [awesome-python](https://github.com/vinta/awesome-python/) ⭐ 316,574 | 🐛 17 | 🌐 Python | 📅 2026-08-25.
+based on [awesome-python](https://github.com/vinta/awesome-python/) ⭐ 316,803 | 🐛 18 | 🌐 Python | 📅 2026-08-25.
 
 * [Awesome Pyramid](#awesome-pyramid)
   * [Admin Interface](#admin-interface)
@@ -224,7 +224,7 @@ based on [awesome-python](https://github.com/vinta/awesome-python/) ⭐ 316,574 
   way where possible.
 * [ramses](https://github.com/ramses-tech/ramses) ⚠️ Archived - Generate a RESTful API using
   RAML. It uses Nefertari which provides ElasticSearch-powered views.
-* [pyramid-openapi3](https://github.com/niteoweb/pyramid_openapi3) ⭐ 84 | 🐛 21 | 🌐 Python | 📅 2026-08-27 - Validate Pyramid views against an OpenAPI 3.0 document. Similar to pyramid\_swagger but for OpenAPI 3.0.
+* [pyramid-openapi3](https://github.com/niteoweb/pyramid_openapi3) ⭐ 84 | 🐛 20 | 🌐 Python | 📅 2026-08-28 - Validate Pyramid views against an OpenAPI 3.0 document. Similar to pyramid\_swagger but for OpenAPI 3.0.
 * [cliquet](https://github.com/mozilla-services/cliquet) ⚠️ Archived - Cliquet is a toolkit
   to ease the implementation of HTTP microservices, such as data-driven REST
   APIs.
@@ -417,7 +417,7 @@ provide new storage backends.*
 
 ## Other
 
-* [warehouse](https://github.com/pypa/warehouse) ⭐ 4,138 | 🐛 581 | 🌐 Python | 📅 2026-08-27 - Warehouse is a next
+* [warehouse](https://github.com/pypa/warehouse) ⭐ 4,140 | 🐛 585 | 🌐 Python | 📅 2026-08-29 - Warehouse is a next
   generation Python Package Repository designed to replace the legacy code base
   that currently powers PyPI.
 * [shootout](https://github.com/Pylons/shootout) ⭐ 105 | 🐛 1 | 🌐 Python | 📅 2013-10-03 - An example “idea
@@ -426,7 +426,7 @@ provide new storage backends.*
   and pyramid\_simpleform.
 * [Ptah](https://github.com/ptahproject/ptah) ⭐ 72 | 🐛 6 | 🌐 Python | 📅 2020-04-02 - Ptah is a fast, fun, open
   source high-level Python web development environment.
-* [travelcrm](https://github.com/mazvv/travelcrm) ⭐ 31 | 🐛 5 | 🌐 Python | 📅 2020-04-02 - TravelCRM is effective free and open source application for the automation of customer relationships for travel agencies at all levels, from small to large networks.
+* [travelcrm](https://github.com/mazvv/travelcrm) ⭐ 32 | 🐛 5 | 🌐 Python | 📅 2020-04-02 - TravelCRM is effective free and open source application for the automation of customer relationships for travel agencies at all levels, from small to large networks.
 * [cluegun](https://github.com/Pylons/cluegun) ⭐ 30 | 🐛 0 | 🌐 Python | 📅 2012-02-15 - A simple pastebin application
   based on Rocky Burt’s ClueBin. It demonstrates form processing, security, and
   the use of ZODB within a Pyramid application.
@@ -513,4 +513,4 @@ or neighboring rights to this work.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._
