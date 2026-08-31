@@ -163,7 +163,7 @@
             "open_issues": 105,
             "owner": "abourget",
             "repo": "gevent-socketio",
-            "stars": 1205,
+            "stars": 1204,
             "topics": []
           },
           "first_seen": "2026-08-28T05:54:53.954Z"
@@ -270,7 +270,7 @@
             "open_issues": 24,
             "owner": "omab",
             "repo": "python-social-auth",
-            "stars": 2800,
+            "stars": 2801,
             "topics": []
           },
           "first_seen": "2026-08-28T05:54:53.954Z"
@@ -964,11 +964,11 @@
             "id": 14284859,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-08-26T19:50:20Z",
-            "open_issues": 145,
+            "last_commit": "2026-08-30T18:33:11Z",
+            "open_issues": 148,
             "owner": "marshmallow-code",
             "repo": "marshmallow",
-            "stars": 7242,
+            "stars": 7240,
             "topics": [
               "deserialization",
               "marshalling",
@@ -1931,11 +1931,11 @@
             "id": 2999982,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-08-03T00:18:26Z",
-            "open_issues": 33,
+            "last_commit": "2026-08-30T08:06:43Z",
+            "open_issues": 31,
             "owner": "Pylons",
             "repo": "waitress",
-            "stars": 1599,
+            "stars": 1598,
             "topics": [
               "http-server",
               "python",
@@ -2307,10 +2307,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-08-29T02:01:00Z",
-                "open_issues": 589,
+                "open_issues": 591,
                 "owner": "pypi",
                 "repo": "warehouse",
-                "stars": 4140,
+                "stars": 4141,
                 "topics": [
                   "package-registry",
                   "package-repository",
@@ -2436,7 +2436,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T23:50:52.452Z",
+    "last_updated": "2026-08-31T00:09:23.543Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Pyramid apps, projects and resources.",
