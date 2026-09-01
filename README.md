@@ -1,11 +1,11 @@
 # Awesome Pyramid with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 501,741 | 🐛 105 | 📅 2026-08-21
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 502,044 | 🐛 105 | 📅 2026-08-21
 [![IRC
 Freenode](https://img.shields.io/badge/irc-freenode-blue.svg)](https://webchat.freenode.net/?channels=pyramid)
 
 A curated list of awesome Pyramid apps, projects and resources. Inspired by and
-based on [awesome-python](https://github.com/vinta/awesome-python/) ⭐ 317,420 | 🐛 19 | 🌐 Python | 📅 2026-08-25.
+based on [awesome-python](https://github.com/vinta/awesome-python/) ⭐ 317,802 | 🐛 16 | 🌐 Python | 📅 2026-09-01.
 
 * [Awesome Pyramid](#awesome-pyramid)
   * [Admin Interface](#admin-interface)
@@ -192,7 +192,7 @@ based on [awesome-python](https://github.com/vinta/awesome-python/) ⭐ 317,420 
 
 *Packages that extend the functionality of forms or add new types of forms.*
 
-* [marshmallow](https://github.com/marshmallow-code/marshmallow) ⭐ 7,240 | 🐛 150 | 🌐 Python | 📅 2026-09-01 - A
+* [marshmallow](https://github.com/marshmallow-code/marshmallow) ⭐ 7,240 | 🐛 148 | 🌐 Python | 📅 2026-09-01 - A
   lightweight library for converting complex objects to and from simple Python
   datatypes (i.e. (de)serialization and validation).
 * [WTForms](https://github.com/wtforms/wtforms) ⭐ 1,580 | 🐛 25 | 🌐 Python | 📅 2026-06-29 - is a flexible forms
@@ -216,7 +216,7 @@ based on [awesome-python](https://github.com/vinta/awesome-python/) ⭐ 317,420 
 
 *Packages for developing RESTful APIs.*
 
-* [webargs](https://github.com/sloria/webargs) ⭐ 1,406 | 🐛 10 | 🌐 Python | 📅 2026-09-01 - A friendly library for parsing
+* [webargs](https://github.com/sloria/webargs) ⭐ 1,406 | 🐛 8 | 🌐 Python | 📅 2026-09-01 - A friendly library for parsing
   HTTP request arguments, with built-in support for popular web frameworks.
 * [cornice](https://github.com/Cornices/cornice) ⭐ 389 | 🐛 56 | 🌐 Python | 📅 2026-06-04 - provides helpers to
   build & document REST-ish Web Services with Pyramid, with decent default
@@ -224,7 +224,7 @@ based on [awesome-python](https://github.com/vinta/awesome-python/) ⭐ 317,420 
   way where possible.
 * [ramses](https://github.com/ramses-tech/ramses) ⚠️ Archived - Generate a RESTful API using
   RAML. It uses Nefertari which provides ElasticSearch-powered views.
-* [pyramid-openapi3](https://github.com/niteoweb/pyramid_openapi3) ⭐ 84 | 🐛 20 | 🌐 Python | 📅 2026-08-28 - Validate Pyramid views against an OpenAPI 3.0 document. Similar to pyramid\_swagger but for OpenAPI 3.0.
+* [pyramid-openapi3](https://github.com/niteoweb/pyramid_openapi3) ⭐ 84 | 🐛 21 | 🌐 Python | 📅 2026-09-01 - Validate Pyramid views against an OpenAPI 3.0 document. Similar to pyramid\_swagger but for OpenAPI 3.0.
 * [cliquet](https://github.com/mozilla-services/cliquet) ⚠️ Archived - Cliquet is a toolkit
   to ease the implementation of HTTP microservices, such as data-driven REST
   APIs.
@@ -383,7 +383,7 @@ provide new storage backends.*
 
 ## CMS
 
-* [Kotti](https://github.com/Kotti/Kotti) ⭐ 413 | 🐛 51 | 🌐 Python | 📅 2025-11-27 - A user-friendly, light-weight and
+* [Kotti](https://github.com/Kotti/Kotti) ⭐ 412 | 🐛 51 | 🌐 Python | 📅 2025-11-27 - A user-friendly, light-weight and
   extensible web content management system. Based on Pyramid and SQLAlchemy.
 * [substanced](https://github.com/Pylons/substanced) ⭐ 160 | 🐛 53 | 🌐 Python | 📅 2025-06-23 - An application server
   built upon the Pyramid web framework. It provides a user interface for
@@ -417,7 +417,7 @@ provide new storage backends.*
 
 ## Other
 
-* [warehouse](https://github.com/pypa/warehouse) ⭐ 4,142 | 🐛 591 | 🌐 Python | 📅 2026-08-31 - Warehouse is a next
+* [warehouse](https://github.com/pypa/warehouse) ⭐ 4,142 | 🐛 592 | 🌐 Python | 📅 2026-09-01 - Warehouse is a next
   generation Python Package Repository designed to replace the legacy code base
   that currently powers PyPI.
 * [shootout](https://github.com/Pylons/shootout) ⭐ 105 | 🐛 1 | 🌐 Python | 📅 2013-10-03 - An example “idea
