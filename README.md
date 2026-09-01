@@ -1,11 +1,11 @@
 # Awesome Pyramid with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 501,451 | 🐛 105 | 📅 2026-08-21
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 501,741 | 🐛 105 | 📅 2026-08-21
 [![IRC
 Freenode](https://img.shields.io/badge/irc-freenode-blue.svg)](https://webchat.freenode.net/?channels=pyramid)
 
 A curated list of awesome Pyramid apps, projects and resources. Inspired by and
-based on [awesome-python](https://github.com/vinta/awesome-python/) ⭐ 317,197 | 🐛 18 | 🌐 Python | 📅 2026-08-25.
+based on [awesome-python](https://github.com/vinta/awesome-python/) ⭐ 317,420 | 🐛 19 | 🌐 Python | 📅 2026-08-25.
 
 * [Awesome Pyramid](#awesome-pyramid)
   * [Admin Interface](#admin-interface)
@@ -76,7 +76,7 @@ based on [awesome-python](https://github.com/vinta/awesome-python/) ⭐ 317,197 
 
 ## Async
 
-* [gevent-socketio](https://github.com/abourget/gevent-socketio) ⭐ 1,204 | 🐛 105 | 🌐 JavaScript | 📅 2022-09-17 -
+* [gevent-socketio](https://github.com/abourget/gevent-socketio) ⭐ 1,204 | 🐛 104 | 🌐 JavaScript | 📅 2022-09-17 -
   gevent-socketio is a Python implementation of the Socket.IO protocol,
   developed originally for Node.js by LearnBoost and then ported to other
   languages.
@@ -133,7 +133,7 @@ based on [awesome-python](https://github.com/vinta/awesome-python/) ⭐ 317,197 
 * [ziggurat\_foundations](https://github.com/ergo/ziggurat_foundations) ⭐ 71 | 🐛 7 | 🌐 Python | 📅 2023-03-08 -
   Framework agnostic set of sqlalchemy classes that make building applications
   that require permissions an easy task.
-* [pyramid\_multiauth](https://github.com/mozilla-services/pyramid_multiauth) ⭐ 41 | 🐛 2 | 🌐 Python | 📅 2026-08-27 -
+* [pyramid\_multiauth](https://github.com/mozilla-services/pyramid_multiauth) ⭐ 41 | 🐛 1 | 🌐 Python | 📅 2026-08-31 -
   An authentication policy for Pyramid that proxies to a stack of other
   authentication policies.
 * [horus](https://github.com/Pylons/horus) ⭐ 14 | 🐛 2 | 🌐 Python | 📅 2026-08-02 - User registration and login system
@@ -192,10 +192,10 @@ based on [awesome-python](https://github.com/vinta/awesome-python/) ⭐ 317,197 
 
 *Packages that extend the functionality of forms or add new types of forms.*
 
-* [marshmallow](https://github.com/marshmallow-code/marshmallow) ⭐ 7,240 | 🐛 148 | 🌐 Python | 📅 2026-08-30 - A
+* [marshmallow](https://github.com/marshmallow-code/marshmallow) ⭐ 7,240 | 🐛 150 | 🌐 Python | 📅 2026-09-01 - A
   lightweight library for converting complex objects to and from simple Python
   datatypes (i.e. (de)serialization and validation).
-* [WTForms](https://github.com/wtforms/wtforms) ⭐ 1,579 | 🐛 25 | 🌐 Python | 📅 2026-06-29 - is a flexible forms
+* [WTForms](https://github.com/wtforms/wtforms) ⭐ 1,580 | 🐛 25 | 🌐 Python | 📅 2026-06-29 - is a flexible forms
   validation and rendering library for python web development.
 * [colander](https://github.com/Pylons/colander) ⭐ 462 | 🐛 38 | 🌐 Python | 📅 2026-08-02 - A
   serialization/deserialization/validation library for strings, mappings and
@@ -216,7 +216,7 @@ based on [awesome-python](https://github.com/vinta/awesome-python/) ⭐ 317,197 
 
 *Packages for developing RESTful APIs.*
 
-* [webargs](https://github.com/sloria/webargs) ⭐ 1,406 | 🐛 8 | 🌐 Python | 📅 2026-08-29 - A friendly library for parsing
+* [webargs](https://github.com/sloria/webargs) ⭐ 1,406 | 🐛 10 | 🌐 Python | 📅 2026-09-01 - A friendly library for parsing
   HTTP request arguments, with built-in support for popular web frameworks.
 * [cornice](https://github.com/Cornices/cornice) ⭐ 389 | 🐛 56 | 🌐 Python | 📅 2026-06-04 - provides helpers to
   build & document REST-ish Web Services with Pyramid, with decent default
@@ -417,7 +417,7 @@ provide new storage backends.*
 
 ## Other
 
-* [warehouse](https://github.com/pypa/warehouse) ⭐ 4,141 | 🐛 591 | 🌐 Python | 📅 2026-08-29 - Warehouse is a next
+* [warehouse](https://github.com/pypa/warehouse) ⭐ 4,142 | 🐛 591 | 🌐 Python | 📅 2026-08-31 - Warehouse is a next
   generation Python Package Repository designed to replace the legacy code base
   that currently powers PyPI.
 * [shootout](https://github.com/Pylons/shootout) ⭐ 105 | 🐛 1 | 🌐 Python | 📅 2013-10-03 - An example “idea
@@ -513,4 +513,4 @@ or neighboring rights to this work.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-31._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-01._
