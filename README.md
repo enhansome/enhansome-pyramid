@@ -1,11 +1,11 @@
 # Awesome Pyramid with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 502,407 | 🐛 105 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 502,710 | 🐛 106 | 📅 2026-09-02
 [![IRC
 Freenode](https://img.shields.io/badge/irc-freenode-blue.svg)](https://webchat.freenode.net/?channels=pyramid)
 
 A curated list of awesome Pyramid apps, projects and resources. Inspired by and
-based on [awesome-python](https://github.com/vinta/awesome-python/) ⭐ 317,791 | 🐛 16 | 🌐 Python | 📅 2026-09-01.
+based on [awesome-python](https://github.com/vinta/awesome-python/) ⭐ 318,053 | 🐛 18 | 🌐 Python | 📅 2026-09-01.
 
 * [Awesome Pyramid](#awesome-pyramid)
   * [Admin Interface](#admin-interface)
@@ -192,7 +192,7 @@ based on [awesome-python](https://github.com/vinta/awesome-python/) ⭐ 317,791 
 
 *Packages that extend the functionality of forms or add new types of forms.*
 
-* [marshmallow](https://github.com/marshmallow-code/marshmallow) ⭐ 7,238 | 🐛 148 | 🌐 Python | 📅 2026-09-01 - A
+* [marshmallow](https://github.com/marshmallow-code/marshmallow) ⭐ 7,239 | 🐛 148 | 🌐 Python | 📅 2026-09-01 - A
   lightweight library for converting complex objects to and from simple Python
   datatypes (i.e. (de)serialization and validation).
 * [WTForms](https://github.com/wtforms/wtforms) ⭐ 1,580 | 🐛 25 | 🌐 Python | 📅 2026-06-29 - is a flexible forms
@@ -417,7 +417,7 @@ provide new storage backends.*
 
 ## Other
 
-* [warehouse](https://github.com/pypa/warehouse) ⭐ 4,142 | 🐛 591 | 🌐 Python | 📅 2026-09-02 - Warehouse is a next
+* [warehouse](https://github.com/pypa/warehouse) ⭐ 4,144 | 🐛 585 | 🌐 Python | 📅 2026-09-03 - Warehouse is a next
   generation Python Package Repository designed to replace the legacy code base
   that currently powers PyPI.
 * [shootout](https://github.com/Pylons/shootout) ⭐ 105 | 🐛 1 | 🌐 Python | 📅 2013-10-03 - An example “idea
@@ -426,7 +426,7 @@ provide new storage backends.*
   and pyramid\_simpleform.
 * [Ptah](https://github.com/ptahproject/ptah) ⭐ 72 | 🐛 6 | 🌐 Python | 📅 2020-04-02 - Ptah is a fast, fun, open
   source high-level Python web development environment.
-* [travelcrm](https://github.com/mazvv/travelcrm) ⭐ 32 | 🐛 5 | 🌐 Python | 📅 2020-04-02 - TravelCRM is effective free and open source application for the automation of customer relationships for travel agencies at all levels, from small to large networks.
+* [travelcrm](https://github.com/mazvv/travelcrm) ⭐ 33 | 🐛 5 | 🌐 Python | 📅 2020-04-02 - TravelCRM is effective free and open source application for the automation of customer relationships for travel agencies at all levels, from small to large networks.
 * [cluegun](https://github.com/Pylons/cluegun) ⭐ 30 | 🐛 0 | 🌐 Python | 📅 2012-02-15 - A simple pastebin application
   based on Rocky Burt’s ClueBin. It demonstrates form processing, security, and
   the use of ZODB within a Pyramid application.
@@ -513,4 +513,4 @@ or neighboring rights to this work.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-03._
