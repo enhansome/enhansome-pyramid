@@ -1,11 +1,11 @@
 # Awesome Pyramid with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 503,013 | 🐛 106 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 503,320 | 🐛 106 | 📅 2026-09-02
 [![IRC
 Freenode](https://img.shields.io/badge/irc-freenode-blue.svg)](https://webchat.freenode.net/?channels=pyramid)
 
 A curated list of awesome Pyramid apps, projects and resources. Inspired by and
-based on [awesome-python](https://github.com/vinta/awesome-python/) ⭐ 318,288 | 🐛 17 | 🌐 Python | 📅 2026-09-01.
+based on [awesome-python](https://github.com/vinta/awesome-python/) ⭐ 318,529 | 🐛 17 | 🌐 Python | 📅 2026-09-01.
 
 * [Awesome Pyramid](#awesome-pyramid)
   * [Admin Interface](#admin-interface)
@@ -195,14 +195,14 @@ based on [awesome-python](https://github.com/vinta/awesome-python/) ⭐ 318,288 
 * [marshmallow](https://github.com/marshmallow-code/marshmallow) ⭐ 7,238 | 🐛 148 | 🌐 Python | 📅 2026-09-01 - A
   lightweight library for converting complex objects to and from simple Python
   datatypes (i.e. (de)serialization and validation).
-* [WTForms](https://github.com/wtforms/wtforms) ⭐ 1,580 | 🐛 25 | 🌐 Python | 📅 2026-06-29 - is a flexible forms
+* [WTForms](https://github.com/wtforms/wtforms) ⭐ 1,580 | 🐛 26 | 🌐 Python | 📅 2026-06-29 - is a flexible forms
   validation and rendering library for python web development.
 * [colander](https://github.com/Pylons/colander) ⭐ 462 | 🐛 38 | 🌐 Python | 📅 2026-08-02 - A
   serialization/deserialization/validation library for strings, mappings and
   lists.
 * [deform](https://github.com/Pylons/deform) ⭐ 423 | 🐛 43 | 🌐 JavaScript | 📅 2026-08-02 - is a Python HTML form generation
   library.
-* [ColanderAlchemy](https://github.com/stefanofontanelli/ColanderAlchemy) ⭐ 65 | 🐛 18 | 🌐 Python | 📅 2023-07-11 -
+* [ColanderAlchemy](https://github.com/stefanofontanelli/ColanderAlchemy) ⭐ 65 | 🐛 17 | 🌐 Python | 📅 2023-07-11 -
   helps you to auto-generate Colander schemas that are based on SQLAlchemy
   mapped classes.
 
@@ -383,7 +383,7 @@ provide new storage backends.*
 
 ## CMS
 
-* [Kotti](https://github.com/Kotti/Kotti) ⭐ 412 | 🐛 51 | 🌐 Python | 📅 2025-11-27 - A user-friendly, light-weight and
+* [Kotti](https://github.com/Kotti/Kotti) ⭐ 411 | 🐛 51 | 🌐 Python | 📅 2025-11-27 - A user-friendly, light-weight and
   extensible web content management system. Based on Pyramid and SQLAlchemy.
 * [substanced](https://github.com/Pylons/substanced) ⭐ 160 | 🐛 53 | 🌐 Python | 📅 2025-06-23 - An application server
   built upon the Pyramid web framework. It provides a user interface for
@@ -513,4 +513,4 @@ or neighboring rights to this work.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-05._

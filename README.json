@@ -340,7 +340,7 @@
             "open_issues": 9,
             "owner": "cd34",
             "repo": "apex",
-            "stars": 95,
+            "stars": 94,
             "topics": []
           },
           "first_seen": "2026-08-28T05:54:53.954Z"
@@ -994,7 +994,7 @@
             "language": "Python",
             "license": "BSD-3-Clause",
             "last_commit": "2026-06-29T08:33:53Z",
-            "open_issues": 25,
+            "open_issues": 26,
             "owner": "pallets-eco",
             "repo": "wtforms",
             "stars": 1580,
@@ -1077,7 +1077,7 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2023-07-11T12:59:38Z",
-            "open_issues": 18,
+            "open_issues": 17,
             "owner": "stefanofontanelli",
             "repo": "ColanderAlchemy",
             "stars": 65,
@@ -2212,7 +2212,7 @@
                 "open_issues": 51,
                 "owner": "Kotti",
                 "repo": "Kotti",
-                "stars": 412,
+                "stars": 411,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:54:53.954Z"
@@ -2436,7 +2436,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T23:38:29.167Z",
+    "last_updated": "2026-09-05T23:29:42.484Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Pyramid apps, projects and resources.",
@@ -2448,7 +2448,7 @@
       "open_issues": 0,
       "owner": "uralbash",
       "repo": "awesome-pyramid",
-      "stars": 576,
+      "stars": 575,
       "topics": []
     },
     "original_repository_sha": "b27d8b3ca5d8d5e0a0b9237da79e5fdbb262d542",
