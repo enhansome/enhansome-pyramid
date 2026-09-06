@@ -1935,7 +1935,7 @@
             "open_issues": 27,
             "owner": "Pylons",
             "repo": "waitress",
-            "stars": 1598,
+            "stars": 1597,
             "topics": [
               "http-server",
               "python",
@@ -2307,7 +2307,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-04T12:53:16Z",
-                "open_issues": 585,
+                "open_issues": 586,
                 "owner": "pypi",
                 "repo": "warehouse",
                 "stars": 4144,
@@ -2436,7 +2436,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T23:29:42.484Z",
+    "last_updated": "2026-09-06T23:25:00.108Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Pyramid apps, projects and resources.",
