@@ -2306,11 +2306,11 @@
                 "id": 9120498,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-08T20:49:08Z",
-                "open_issues": 585,
+                "last_commit": "2026-09-09T15:34:50Z",
+                "open_issues": 582,
                 "owner": "pypi",
                 "repo": "warehouse",
-                "stars": 4147,
+                "stars": 4148,
                 "topics": [
                   "package-registry",
                   "package-repository",
@@ -2436,7 +2436,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T23:47:54.455Z",
+    "last_updated": "2026-09-09T23:46:41.819Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Pyramid apps, projects and resources.",
@@ -2448,7 +2448,7 @@
       "open_issues": 0,
       "owner": "uralbash",
       "repo": "awesome-pyramid",
-      "stars": 574,
+      "stars": 572,
       "topics": []
     },
     "original_repository_sha": "b27d8b3ca5d8d5e0a0b9237da79e5fdbb262d542",
