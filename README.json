@@ -964,11 +964,11 @@
             "id": 14284859,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-11T20:02:11Z",
+            "last_commit": "2026-09-15T12:05:02Z",
             "open_issues": 147,
             "owner": "marshmallow-code",
             "repo": "marshmallow",
-            "stars": 7239,
+            "stars": 7238,
             "topics": [
               "deserialization",
               "marshalling",
@@ -1151,11 +1151,11 @@
             "id": 16899445,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-08T04:15:28Z",
+            "last_commit": "2026-09-15T15:41:20Z",
             "open_issues": 8,
             "owner": "marshmallow-code",
             "repo": "webargs",
-            "stars": 1408,
+            "stars": 1410,
             "topics": [
               "aiohttp",
               "bottlepy",
@@ -1935,7 +1935,7 @@
             "open_issues": 27,
             "owner": "Pylons",
             "repo": "waitress",
-            "stars": 1599,
+            "stars": 1600,
             "topics": [
               "http-server",
               "python",
@@ -2306,8 +2306,8 @@
                 "id": 9120498,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-14T19:50:18Z",
-                "open_issues": 582,
+                "last_commit": "2026-09-15T20:53:08Z",
+                "open_issues": 581,
                 "owner": "pypi",
                 "repo": "warehouse",
                 "stars": 4154,
@@ -2436,7 +2436,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T00:11:00.878Z",
+    "last_updated": "2026-09-15T23:54:44.838Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Pyramid apps, projects and resources.",
