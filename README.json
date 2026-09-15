@@ -965,10 +965,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-09-11T20:02:11Z",
-            "open_issues": 146,
+            "open_issues": 147,
             "owner": "marshmallow-code",
             "repo": "marshmallow",
-            "stars": 7240,
+            "stars": 7239,
             "topics": [
               "deserialization",
               "marshalling",
@@ -1046,8 +1046,8 @@
             "id": 1372780,
             "language": "JavaScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-08-02T21:28:16Z",
-            "open_issues": 43,
+            "last_commit": "2026-09-14T15:19:41Z",
+            "open_issues": 44,
             "owner": "Pylons",
             "repo": "deform",
             "stars": 423,
@@ -1155,7 +1155,7 @@
             "open_issues": 8,
             "owner": "marshmallow-code",
             "repo": "webargs",
-            "stars": 1407,
+            "stars": 1408,
             "topics": [
               "aiohttp",
               "bottlepy",
@@ -1935,7 +1935,7 @@
             "open_issues": 27,
             "owner": "Pylons",
             "repo": "waitress",
-            "stars": 1598,
+            "stars": 1599,
             "topics": [
               "http-server",
               "python",
@@ -2306,8 +2306,8 @@
                 "id": 9120498,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-13T14:58:41Z",
-                "open_issues": 580,
+                "last_commit": "2026-09-14T19:50:18Z",
+                "open_issues": 582,
                 "owner": "pypi",
                 "repo": "warehouse",
                 "stars": 4154,
@@ -2436,7 +2436,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-13T23:50:54.908Z",
+    "last_updated": "2026-09-15T00:11:00.878Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Pyramid apps, projects and resources.",
