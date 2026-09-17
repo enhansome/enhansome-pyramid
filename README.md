@@ -1,11 +1,11 @@
 # Awesome Pyramid with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 506,403 | 🐛 106 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 506,785 | 🐛 106 | 📅 2026-09-02
 [![IRC
 Freenode](https://img.shields.io/badge/irc-freenode-blue.svg)](https://webchat.freenode.net/?channels=pyramid)
 
 A curated list of awesome Pyramid apps, projects and resources. Inspired by and
-based on [awesome-python](https://github.com/vinta/awesome-python/) ⭐ 320,875 | 🐛 18 | 🌐 Python | 📅 2026-09-15.
+based on [awesome-python](https://github.com/vinta/awesome-python/) ⭐ 321,101 | 🐛 19 | 🌐 Python | 📅 2026-09-15.
 
 * [Awesome Pyramid](#awesome-pyramid)
   * [Admin Interface](#admin-interface)
@@ -192,7 +192,7 @@ based on [awesome-python](https://github.com/vinta/awesome-python/) ⭐ 320,875 
 
 *Packages that extend the functionality of forms or add new types of forms.*
 
-* [marshmallow](https://github.com/marshmallow-code/marshmallow) ⭐ 7,238 | 🐛 147 | 🌐 Python | 📅 2026-09-15 - A
+* [marshmallow](https://github.com/marshmallow-code/marshmallow) ⭐ 7,238 | 🐛 145 | 🌐 Python | 📅 2026-09-15 - A
   lightweight library for converting complex objects to and from simple Python
   datatypes (i.e. (de)serialization and validation).
 * [WTForms](https://github.com/wtforms/wtforms) ⭐ 1,580 | 🐛 26 | 🌐 Python | 📅 2026-06-29 - is a flexible forms
@@ -200,7 +200,7 @@ based on [awesome-python](https://github.com/vinta/awesome-python/) ⭐ 320,875 
 * [colander](https://github.com/Pylons/colander) ⭐ 462 | 🐛 38 | 🌐 Python | 📅 2026-08-02 - A
   serialization/deserialization/validation library for strings, mappings and
   lists.
-* [deform](https://github.com/Pylons/deform) ⭐ 423 | 🐛 44 | 🌐 JavaScript | 📅 2026-09-14 - is a Python HTML form generation
+* [deform](https://github.com/Pylons/deform) ⭐ 423 | 🐛 44 | 🌐 JavaScript | 📅 2026-09-16 - is a Python HTML form generation
   library.
 * [ColanderAlchemy](https://github.com/stefanofontanelli/ColanderAlchemy) ⭐ 65 | 🐛 17 | 🌐 Python | 📅 2023-07-11 -
   helps you to auto-generate Colander schemas that are based on SQLAlchemy
@@ -417,7 +417,7 @@ provide new storage backends.*
 
 ## Other
 
-* [warehouse](https://github.com/pypa/warehouse) ⭐ 4,154 | 🐛 581 | 🌐 Python | 📅 2026-09-15 - Warehouse is a next
+* [warehouse](https://github.com/pypa/warehouse) ⭐ 4,153 | 🐛 581 | 🌐 Python | 📅 2026-09-16 - Warehouse is a next
   generation Python Package Repository designed to replace the legacy code base
   that currently powers PyPI.
 * [shootout](https://github.com/Pylons/shootout) ⭐ 105 | 🐛 1 | 🌐 Python | 📅 2013-10-03 - An example “idea
@@ -513,4 +513,4 @@ or neighboring rights to this work.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-17._
