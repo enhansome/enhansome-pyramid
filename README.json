@@ -2306,7 +2306,7 @@
                 "id": 9120498,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-19T19:50:09Z",
+                "last_commit": "2026-09-20T21:31:02Z",
                 "open_issues": 586,
                 "owner": "pypi",
                 "repo": "warehouse",
@@ -2436,7 +2436,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T23:50:50.972Z",
+    "last_updated": "2026-09-20T23:47:35.386Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Pyramid apps, projects and resources.",
