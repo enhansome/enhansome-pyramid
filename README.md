@@ -1,11 +1,11 @@
 # Awesome Pyramid with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 508,641 | 🐛 106 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 509,023 | 🐛 106 | 📅 2026-09-02
 [![IRC
 Freenode](https://img.shields.io/badge/irc-freenode-blue.svg)](https://webchat.freenode.net/?channels=pyramid)
 
 A curated list of awesome Pyramid apps, projects and resources. Inspired by and
-based on [awesome-python](https://github.com/vinta/awesome-python/) ⭐ 322,163 | 🐛 21 | 🌐 Python | 📅 2026-09-20.
+based on [awesome-python](https://github.com/vinta/awesome-python/) ⭐ 322,353 | 🐛 21 | 🌐 Python | 📅 2026-09-22.
 
 * [Awesome Pyramid](#awesome-pyramid)
   * [Admin Interface](#admin-interface)
@@ -360,7 +360,7 @@ provide new storage backends.*
 * [pyramid\_extdirect](https://github.com/jenner/pyramid_extdirect) ⭐ 10 | 🐛 0 | 🌐 Python | 📅 2021-03-09 - This pyramid plugin provides a router for the ExtDirect Sencha API included in ExtJS. ExtDirect allows to run server-side callbacks directly through JavaScript without the extra AJAX boilerplate.
 * [pyramid\_handlers](https://github.com/Pylons/pyramid_handlers) ⭐ 8 | 🐛 4 | 🌐 Python | 📅 2026-08-02 - analogue of
   Pylons-style “controllers” for Pyramid.
-* [pyramid\_retry](https://github.com/Pylons/pyramid_retry) ⭐ 6 | 🐛 6 | 🌐 Python | 📅 2026-08-02 - pyramid\_retry is an execution policy for Pyramid that wraps requests and can retry them a configurable number of times under certain "retryable" error conditions before indicating a failure to the client.
+* [pyramid\_retry](https://github.com/Pylons/pyramid_retry) ⭐ 6 | 🐛 7 | 🌐 Python | 📅 2026-08-02 - pyramid\_retry is an execution policy for Pyramid that wraps requests and can retry them a configurable number of times under certain "retryable" error conditions before indicating a failure to the client.
 * [pyramid\_tablib](https://github.com/lxneng/pyramid_tablib) ⭐ 5 | 🐛 0 | 🌐 Python | 📅 2015-03-12 - tablib renderer
   (xlsx, xls, csv) for pyramid
 * [pyramid\_skins](https://github.com/Pylons/pyramid_skins) ⭐ 2 | 🐛 1 | 🌐 Python | 📅 2022-08-04 - This package
@@ -376,7 +376,7 @@ provide new storage backends.*
 
 ## Framework
 
-* [cone.app](https://github.com/conestack/cone.app) ⭐ 10 | 🐛 10 | 🌐 Python | 📅 2026-09-08 - A comprehensive web application stub on top of Pyramid.
+* [cone.app](https://github.com/conestack/cone.app) ⭐ 10 | 🐛 10 | 🌐 Python | 📅 2026-09-22 - A comprehensive web application stub on top of Pyramid.
 * [Ringo](http://www.ringo-framework.org/) - Ringo is a Python based high level
   web application framework build on top of Pyramid. The framework can be used
   to build form based management or administration software.
@@ -417,7 +417,7 @@ provide new storage backends.*
 
 ## Other
 
-* [warehouse](https://github.com/pypa/warehouse) ⭐ 4,159 | 🐛 586 | 🌐 Python | 📅 2026-09-21 - Warehouse is a next
+* [warehouse](https://github.com/pypa/warehouse) ⭐ 4,159 | 🐛 587 | 🌐 Python | 📅 2026-09-22 - Warehouse is a next
   generation Python Package Repository designed to replace the legacy code base
   that currently powers PyPI.
 * [shootout](https://github.com/Pylons/shootout) ⭐ 105 | 🐛 1 | 🌐 Python | 📅 2013-10-03 - An example “idea

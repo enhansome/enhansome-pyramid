@@ -2089,7 +2089,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-08-02T20:26:15Z",
-            "open_issues": 6,
+            "open_issues": 7,
             "owner": "Pylons",
             "repo": "pyramid_retry",
             "stars": 6,
@@ -2180,7 +2180,7 @@
                 "id": 1292401,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-08T12:13:11Z",
+                "last_commit": "2026-09-22T15:34:18Z",
                 "open_issues": 10,
                 "owner": "conestack",
                 "repo": "cone.app",
@@ -2306,8 +2306,8 @@
                 "id": 9120498,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-21T22:13:50Z",
-                "open_issues": 586,
+                "last_commit": "2026-09-22T20:05:15Z",
+                "open_issues": 587,
                 "owner": "pypi",
                 "repo": "warehouse",
                 "stars": 4159,
@@ -2436,7 +2436,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-22T00:31:07.919Z",
+    "last_updated": "2026-09-22T23:57:20.910Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Pyramid apps, projects and resources.",
