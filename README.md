@@ -1,11 +1,11 @@
 # Awesome Pyramid with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 508,248 | 🐛 106 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 508,641 | 🐛 106 | 📅 2026-09-02
 [![IRC
 Freenode](https://img.shields.io/badge/irc-freenode-blue.svg)](https://webchat.freenode.net/?channels=pyramid)
 
 A curated list of awesome Pyramid apps, projects and resources. Inspired by and
-based on [awesome-python](https://github.com/vinta/awesome-python/) ⭐ 321,955 | 🐛 19 | 🌐 Python | 📅 2026-09-20.
+based on [awesome-python](https://github.com/vinta/awesome-python/) ⭐ 322,163 | 🐛 21 | 🌐 Python | 📅 2026-09-20.
 
 * [Awesome Pyramid](#awesome-pyramid)
   * [Admin Interface](#admin-interface)
@@ -192,7 +192,7 @@ based on [awesome-python](https://github.com/vinta/awesome-python/) ⭐ 321,955 
 
 *Packages that extend the functionality of forms or add new types of forms.*
 
-* [marshmallow](https://github.com/marshmallow-code/marshmallow) ⭐ 7,238 | 🐛 145 | 🌐 Python | 📅 2026-09-15 - A
+* [marshmallow](https://github.com/marshmallow-code/marshmallow) ⭐ 7,239 | 🐛 145 | 🌐 Python | 📅 2026-09-15 - A
   lightweight library for converting complex objects to and from simple Python
   datatypes (i.e. (de)serialization and validation).
 * [WTForms](https://github.com/wtforms/wtforms) ⭐ 1,580 | 🐛 26 | 🌐 Python | 📅 2026-06-29 - is a flexible forms
@@ -264,7 +264,7 @@ based on [awesome-python](https://github.com/vinta/awesome-python/) ⭐ 321,955 
 
 *Packages that help manage the configurability of projects.*
 
-* [hupper](https://github.com/Pylons/hupper) ⭐ 223 | 🐛 9 | 🌐 Python | 📅 2026-08-02 - A process monitor/reloader for developers
+* [hupper](https://github.com/Pylons/hupper) ⭐ 223 | 🐛 10 | 🌐 Python | 📅 2026-08-02 - A process monitor/reloader for developers
   that can watch files for changes and restart the process.
 * [pyramid\_services](https://github.com/mmerickel/pyramid_services) ⭐ 83 | 🐛 2 | 🌐 Python | 📅 2025-11-20 - defines a
   pattern and helper methods for accessing a pluggable service layer from
@@ -417,7 +417,7 @@ provide new storage backends.*
 
 ## Other
 
-* [warehouse](https://github.com/pypa/warehouse) ⭐ 4,159 | 🐛 586 | 🌐 Python | 📅 2026-09-20 - Warehouse is a next
+* [warehouse](https://github.com/pypa/warehouse) ⭐ 4,159 | 🐛 586 | 🌐 Python | 📅 2026-09-21 - Warehouse is a next
   generation Python Package Repository designed to replace the legacy code base
   that currently powers PyPI.
 * [shootout](https://github.com/Pylons/shootout) ⭐ 105 | 🐛 1 | 🌐 Python | 📅 2013-10-03 - An example “idea
@@ -513,4 +513,4 @@ or neighboring rights to this work.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-22._
