@@ -1,11 +1,11 @@
 # Awesome Pyramid with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 509,023 | 🐛 106 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 509,456 | 🐛 106 | 📅 2026-09-02
 [![IRC
 Freenode](https://img.shields.io/badge/irc-freenode-blue.svg)](https://webchat.freenode.net/?channels=pyramid)
 
 A curated list of awesome Pyramid apps, projects and resources. Inspired by and
-based on [awesome-python](https://github.com/vinta/awesome-python/) ⭐ 322,353 | 🐛 21 | 🌐 Python | 📅 2026-09-22.
+based on [awesome-python](https://github.com/vinta/awesome-python/) ⭐ 322,578 | 🐛 21 | 🌐 Python | 📅 2026-09-23.
 
 * [Awesome Pyramid](#awesome-pyramid)
   * [Admin Interface](#admin-interface)
@@ -192,7 +192,7 @@ based on [awesome-python](https://github.com/vinta/awesome-python/) ⭐ 322,353 
 
 *Packages that extend the functionality of forms or add new types of forms.*
 
-* [marshmallow](https://github.com/marshmallow-code/marshmallow) ⭐ 7,239 | 🐛 145 | 🌐 Python | 📅 2026-09-15 - A
+* [marshmallow](https://github.com/marshmallow-code/marshmallow) ⭐ 7,240 | 🐛 145 | 🌐 Python | 📅 2026-09-15 - A
   lightweight library for converting complex objects to and from simple Python
   datatypes (i.e. (de)serialization and validation).
 * [WTForms](https://github.com/wtforms/wtforms) ⭐ 1,580 | 🐛 26 | 🌐 Python | 📅 2026-06-29 - is a flexible forms
@@ -344,7 +344,7 @@ provide new storage backends.*
 
 ## Other
 
-* [waitress](https://github.com/Pylons/waitress) ⭐ 1,600 | 🐛 29 | 🌐 Python | 📅 2026-09-04 - Waitress is meant to be a
+* [waitress](https://github.com/Pylons/waitress) ⭐ 1,601 | 🐛 29 | 🌐 Python | 📅 2026-09-04 - Waitress is meant to be a
   production-quality pure-Python WSGI server with very acceptable performance.
   It has no dependencies except ones which live in the Python standard library.
 * [paginate](https://github.com/Pylons/paginate) ⭐ 80 | 🐛 1 | 🌐 Python | 📅 2024-08-25 - Python pagination module.
@@ -376,7 +376,7 @@ provide new storage backends.*
 
 ## Framework
 
-* [cone.app](https://github.com/conestack/cone.app) ⭐ 10 | 🐛 10 | 🌐 Python | 📅 2026-09-22 - A comprehensive web application stub on top of Pyramid.
+* [cone.app](https://github.com/conestack/cone.app) ⭐ 10 | 🐛 10 | 🌐 Python | 📅 2026-09-23 - A comprehensive web application stub on top of Pyramid.
 * [Ringo](http://www.ringo-framework.org/) - Ringo is a Python based high level
   web application framework build on top of Pyramid. The framework can be used
   to build form based management or administration software.
@@ -417,7 +417,7 @@ provide new storage backends.*
 
 ## Other
 
-* [warehouse](https://github.com/pypa/warehouse) ⭐ 4,159 | 🐛 587 | 🌐 Python | 📅 2026-09-22 - Warehouse is a next
+* [warehouse](https://github.com/pypa/warehouse) ⭐ 4,160 | 🐛 588 | 🌐 Python | 📅 2026-09-23 - Warehouse is a next
   generation Python Package Repository designed to replace the legacy code base
   that currently powers PyPI.
 * [shootout](https://github.com/Pylons/shootout) ⭐ 105 | 🐛 1 | 🌐 Python | 📅 2013-10-03 - An example “idea
@@ -513,4 +513,4 @@ or neighboring rights to this work.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-24._
