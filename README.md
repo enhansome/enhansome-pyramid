@@ -1,11 +1,11 @@
 # Awesome Pyramid with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 510,991 | 🐛 107 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 511,487 | 🐛 106 | 📅 2026-09-02
 [![IRC
 Freenode](https://img.shields.io/badge/irc-freenode-blue.svg)](https://webchat.freenode.net/?channels=pyramid)
 
 A curated list of awesome Pyramid apps, projects and resources. Inspired by and
-based on [awesome-python](https://github.com/vinta/awesome-python/) ⭐ 323,313 | 🐛 22 | 🌐 Python | 📅 2026-09-25.
+based on [awesome-python](https://github.com/vinta/awesome-python/) ⭐ 323,561 | 🐛 22 | 🌐 Python | 📅 2026-09-27.
 
 * [Awesome Pyramid](#awesome-pyramid)
   * [Admin Interface](#admin-interface)
@@ -192,10 +192,10 @@ based on [awesome-python](https://github.com/vinta/awesome-python/) ⭐ 323,313 
 
 *Packages that extend the functionality of forms or add new types of forms.*
 
-* [marshmallow](https://github.com/marshmallow-code/marshmallow) ⭐ 7,241 | 🐛 144 | 🌐 Python | 📅 2026-09-15 - A
+* [marshmallow](https://github.com/marshmallow-code/marshmallow) ⭐ 7,241 | 🐛 145 | 🌐 Python | 📅 2026-09-15 - A
   lightweight library for converting complex objects to and from simple Python
   datatypes (i.e. (de)serialization and validation).
-* [WTForms](https://github.com/wtforms/wtforms) ⭐ 1,580 | 🐛 26 | 🌐 Python | 📅 2026-06-29 - is a flexible forms
+* [WTForms](https://github.com/wtforms/wtforms) ⭐ 1,581 | 🐛 26 | 🌐 Python | 📅 2026-06-29 - is a flexible forms
   validation and rendering library for python web development.
 * [colander](https://github.com/Pylons/colander) ⭐ 462 | 🐛 38 | 🌐 Python | 📅 2026-08-02 - A
   serialization/deserialization/validation library for strings, mappings and
@@ -344,7 +344,7 @@ provide new storage backends.*
 
 ## Other
 
-* [waitress](https://github.com/Pylons/waitress) ⭐ 1,601 | 🐛 30 | 🌐 Python | 📅 2026-09-04 - Waitress is meant to be a
+* [waitress](https://github.com/Pylons/waitress) ⭐ 1,600 | 🐛 29 | 🌐 Python | 📅 2026-09-27 - Waitress is meant to be a
   production-quality pure-Python WSGI server with very acceptable performance.
   It has no dependencies except ones which live in the Python standard library.
 * [paginate](https://github.com/Pylons/paginate) ⭐ 80 | 🐛 1 | 🌐 Python | 📅 2024-08-25 - Python pagination module.
@@ -513,4 +513,4 @@ or neighboring rights to this work.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-28._
