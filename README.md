@@ -1,11 +1,11 @@
 # Awesome Pyramid with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 512,889 | 🐛 106 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 513,279 | 🐛 106 | 📅 2026-09-02
 [![IRC
 Freenode](https://img.shields.io/badge/irc-freenode-blue.svg)](https://webchat.freenode.net/?channels=pyramid)
 
 A curated list of awesome Pyramid apps, projects and resources. Inspired by and
-based on [awesome-python](https://github.com/vinta/awesome-python/) ⭐ 324,356 | 🐛 20 | 🌐 Python | 📅 2026-09-29.
+based on [awesome-python](https://github.com/vinta/awesome-python/) ⭐ 324,540 | 🐛 20 | 🌐 Python | 📅 2026-09-29.
 
 * [Awesome Pyramid](#awesome-pyramid)
   * [Admin Interface](#admin-interface)
@@ -91,10 +91,10 @@ based on [awesome-python](https://github.com/vinta/awesome-python/) ⭐ 324,356 
 
 *Packages that improve or extend the authentication methods of Pyramid.*
 
-* [Python Social Auth](https://github.com/omab/python-social-auth) ⭐ 2,801 | 🐛 24 | 🌐 Python | 📅 2022-07-01 - Social
+* [Python Social Auth](https://github.com/omab/python-social-auth) ⭐ 2,802 | 🐛 24 | 🌐 Python | 📅 2022-07-01 - Social
   authentication/registration mechanism with support for a large number of
-  [providers](https://github.com/omab/python-social-auth#auth-providers) ⭐ 2,801 | 🐛 24 | 🌐 Python | 📅 2022-07-01.
-* [Authomatic](https://github.com/authomatic/authomatic) ⭐ 1,054 | 🐛 64 | 🌐 Python | 📅 2025-12-12 -  Simple yet powerful
+  [providers](https://github.com/omab/python-social-auth#auth-providers) ⭐ 2,802 | 🐛 24 | 🌐 Python | 📅 2022-07-01.
+* [Authomatic](https://github.com/authomatic/authomatic) ⭐ 1,055 | 🐛 65 | 🌐 Python | 📅 2025-12-12 -  Simple yet powerful
   authorization / authentication client library for Python web applications.
 * [velruse](https://github.com/bbangert/velruse) ⭐ 251 | 🐛 38 | 🌐 Python | 📅 2024-01-16 - Simplifying third-party
   authentication for web applications. it supports most of auth
@@ -192,12 +192,12 @@ based on [awesome-python](https://github.com/vinta/awesome-python/) ⭐ 324,356 
 
 *Packages that extend the functionality of forms or add new types of forms.*
 
-* [marshmallow](https://github.com/marshmallow-code/marshmallow) ⭐ 7,242 | 🐛 149 | 🌐 Python | 📅 2026-10-01 - A
+* [marshmallow](https://github.com/marshmallow-code/marshmallow) ⭐ 7,242 | 🐛 147 | 🌐 Python | 📅 2026-10-01 - A
   lightweight library for converting complex objects to and from simple Python
   datatypes (i.e. (de)serialization and validation).
-* [WTForms](https://github.com/wtforms/wtforms) ⭐ 1,581 | 🐛 26 | 🌐 Python | 📅 2026-06-29 - is a flexible forms
+* [WTForms](https://github.com/wtforms/wtforms) ⭐ 1,582 | 🐛 26 | 🌐 Python | 📅 2026-06-29 - is a flexible forms
   validation and rendering library for python web development.
-* [colander](https://github.com/Pylons/colander) ⭐ 462 | 🐛 38 | 🌐 Python | 📅 2026-08-02 - A
+* [colander](https://github.com/Pylons/colander) ⭐ 462 | 🐛 39 | 🌐 Python | 📅 2026-08-02 - A
   serialization/deserialization/validation library for strings, mappings and
   lists.
 * [deform](https://github.com/Pylons/deform) ⭐ 423 | 🐛 44 | 🌐 JavaScript | 📅 2026-09-16 - is a Python HTML form generation
@@ -216,7 +216,7 @@ based on [awesome-python](https://github.com/vinta/awesome-python/) ⭐ 324,356 
 
 *Packages for developing RESTful APIs.*
 
-* [webargs](https://github.com/sloria/webargs) ⭐ 1,410 | 🐛 8 | 🌐 Python | 📅 2026-09-15 - A friendly library for parsing
+* [webargs](https://github.com/sloria/webargs) ⭐ 1,411 | 🐛 8 | 🌐 Python | 📅 2026-09-15 - A friendly library for parsing
   HTTP request arguments, with built-in support for popular web frameworks.
 * [cornice](https://github.com/Cornices/cornice) ⭐ 389 | 🐛 56 | 🌐 Python | 📅 2026-06-04 - provides helpers to
   build & document REST-ish Web Services with Pyramid, with decent default
@@ -289,7 +289,7 @@ provide new storage backends.*
   provides some basic glue to facilitate using SQLAlchemy with Pyramid.
 * [pyramid\_mongoengine](https://github.com/marioidival/pyramid_mongoengine) ⭐ 13 | 🐛 0 | 🌐 Python | 📅 2020-03-31 -
   pyramid-mongoengine package based on flask-mongoengine
-* [pyramid-excel](https://github.com/pyexcel-webwares/pyramid-excel) ⭐ 8 | 🐛 0 | 🌐 Python | 📅 2024-11-23 - pyramid-excel is based on [pyexcel](https://github.com/pyexcel/pyexcel) ⭐ 1,292 | 🐛 10 | 🌐 Python | 📅 2026-09-13 and makes it easy to consume/produce information stored in excel files over HTTP protocol as well as on file system. This library can turn the excel data into a list of lists, a list of records(dictionaries), dictionaries of lists. And vice versa. Hence it lets you focus on data in Pyramid based web development, instead of file formats.
+* [pyramid-excel](https://github.com/pyexcel-webwares/pyramid-excel) ⭐ 8 | 🐛 0 | 🌐 Python | 📅 2024-11-23 - pyramid-excel is based on [pyexcel](https://github.com/pyexcel/pyexcel) ⭐ 1,293 | 🐛 11 | 🌐 Python | 📅 2026-09-13 and makes it easy to consume/produce information stored in excel files over HTTP protocol as well as on file system. This library can turn the excel data into a list of lists, a list of records(dictionaries), dictionaries of lists. And vice versa. Hence it lets you focus on data in Pyramid based web development, instead of file formats.
 * [pyramid\_zodbconn](https://github.com/Pylons/pyramid_zodbconn) ⭐ 4 | 🐛 1 | 🌐 Python | 📅 2020-04-01 - ZODB
   Database connection management for Pyramid.
 
@@ -344,7 +344,7 @@ provide new storage backends.*
 
 ## Other
 
-* [waitress](https://github.com/Pylons/waitress) ⭐ 1,600 | 🐛 29 | 🌐 Python | 📅 2026-09-27 - Waitress is meant to be a
+* [waitress](https://github.com/Pylons/waitress) ⭐ 1,601 | 🐛 29 | 🌐 Python | 📅 2026-09-27 - Waitress is meant to be a
   production-quality pure-Python WSGI server with very acceptable performance.
   It has no dependencies except ones which live in the Python standard library.
 * [paginate](https://github.com/Pylons/paginate) ⭐ 80 | 🐛 1 | 🌐 Python | 📅 2024-08-25 - Python pagination module.
@@ -417,7 +417,7 @@ provide new storage backends.*
 
 ## Other
 
-* [warehouse](https://github.com/pypa/warehouse) ⭐ 4,162 | 🐛 578 | 🌐 Python | 📅 2026-09-30 - Warehouse is a next
+* [warehouse](https://github.com/pypa/warehouse) ⭐ 4,163 | 🐛 579 | 🌐 Python | 📅 2026-10-01 - Warehouse is a next
   generation Python Package Repository designed to replace the legacy code base
   that currently powers PyPI.
 * [shootout](https://github.com/Pylons/shootout) ⭐ 105 | 🐛 1 | 🌐 Python | 📅 2013-10-03 - An example “idea
@@ -513,4 +513,4 @@ or neighboring rights to this work.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-01._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-02._

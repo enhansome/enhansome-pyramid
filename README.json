@@ -270,7 +270,7 @@
             "open_issues": 24,
             "owner": "omab",
             "repo": "python-social-auth",
-            "stars": 2801,
+            "stars": 2802,
             "topics": []
           },
           "first_seen": "2026-08-28T05:54:53.954Z"
@@ -288,10 +288,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2025-12-12T08:28:51Z",
-            "open_issues": 64,
+            "open_issues": 65,
             "owner": "authomatic",
             "repo": "authomatic",
-            "stars": 1054,
+            "stars": 1055,
             "topics": [
               "authentication",
               "authorization",
@@ -964,8 +964,8 @@
             "id": 14284859,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-01T00:56:10Z",
-            "open_issues": 149,
+            "last_commit": "2026-10-01T04:01:40Z",
+            "open_issues": 147,
             "owner": "marshmallow-code",
             "repo": "marshmallow",
             "stars": 7242,
@@ -997,7 +997,7 @@
             "open_issues": 26,
             "owner": "pallets-eco",
             "repo": "wtforms",
-            "stars": 1581,
+            "stars": 1582,
             "topics": [
               "forms",
               "html",
@@ -1021,7 +1021,7 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-08-02T20:19:54Z",
-            "open_issues": 38,
+            "open_issues": 39,
             "owner": "Pylons",
             "repo": "colander",
             "stars": 462,
@@ -1155,7 +1155,7 @@
             "open_issues": 8,
             "owner": "marshmallow-code",
             "repo": "webargs",
-            "stars": 1410,
+            "stars": 1411,
             "topics": [
               "aiohttp",
               "bottlepy",
@@ -1935,7 +1935,7 @@
             "open_issues": 29,
             "owner": "Pylons",
             "repo": "waitress",
-            "stars": 1600,
+            "stars": 1601,
             "topics": [
               "http-server",
               "python",
@@ -2306,11 +2306,11 @@
                 "id": 9120498,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-30T21:18:11Z",
-                "open_issues": 578,
+                "last_commit": "2026-10-01T22:17:19Z",
+                "open_issues": 579,
                 "owner": "pypi",
                 "repo": "warehouse",
-                "stars": 4162,
+                "stars": 4163,
                 "topics": [
                   "package-registry",
                   "package-repository",
@@ -2436,7 +2436,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-01T01:01:23.255Z",
+    "last_updated": "2026-10-02T01:15:08.667Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Pyramid apps, projects and resources.",
