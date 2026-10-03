@@ -965,7 +965,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-10-01T04:01:40Z",
-            "open_issues": 147,
+            "open_issues": 145,
             "owner": "marshmallow-code",
             "repo": "marshmallow",
             "stars": 7242,
@@ -1024,7 +1024,7 @@
             "open_issues": 39,
             "owner": "Pylons",
             "repo": "colander",
-            "stars": 462,
+            "stars": 460,
             "topics": [
               "deserialization",
               "forms",
@@ -2306,11 +2306,11 @@
                 "id": 9120498,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-01T22:17:19Z",
+                "last_commit": "2026-10-03T00:01:50Z",
                 "open_issues": 579,
                 "owner": "pypi",
                 "repo": "warehouse",
-                "stars": 4163,
+                "stars": 4162,
                 "topics": [
                   "package-registry",
                   "package-repository",
@@ -2436,7 +2436,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T01:15:08.667Z",
+    "last_updated": "2026-10-03T00:53:14.552Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Pyramid apps, projects and resources.",
@@ -2448,7 +2448,7 @@
       "open_issues": 0,
       "owner": "uralbash",
       "repo": "awesome-pyramid",
-      "stars": 573,
+      "stars": 572,
       "topics": []
     },
     "original_repository_sha": "b27d8b3ca5d8d5e0a0b9237da79e5fdbb262d542",
