@@ -524,8 +524,8 @@
             "id": 12255047,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2023-03-08T11:08:09Z",
-            "open_issues": 7,
+            "last_commit": "2026-10-04T11:58:42Z",
+            "open_issues": 6,
             "owner": "ergo",
             "repo": "ziggurat_foundations",
             "stars": 71,
@@ -1932,7 +1932,7 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-09-27T20:31:11Z",
-            "open_issues": 29,
+            "open_issues": 30,
             "owner": "Pylons",
             "repo": "waitress",
             "stars": 1601,
@@ -2307,10 +2307,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-03T00:01:50Z",
-                "open_issues": 579,
+                "open_issues": 578,
                 "owner": "pypi",
                 "repo": "warehouse",
-                "stars": 4164,
+                "stars": 4165,
                 "topics": [
                   "package-registry",
                   "package-repository",
@@ -2436,7 +2436,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T00:19:06.027Z",
+    "last_updated": "2026-10-05T00:23:46.776Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Pyramid apps, projects and resources.",

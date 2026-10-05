@@ -1,11 +1,11 @@
 # Awesome Pyramid with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 514,166 | 🐛 107 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 514,691 | 🐛 107 | 📅 2026-09-02
 [![IRC
 Freenode](https://img.shields.io/badge/irc-freenode-blue.svg)](https://webchat.freenode.net/?channels=pyramid)
 
 A curated list of awesome Pyramid apps, projects and resources. Inspired by and
-based on [awesome-python](https://github.com/vinta/awesome-python/) ⭐ 324,948 | 🐛 22 | 🌐 Python | 📅 2026-10-02.
+based on [awesome-python](https://github.com/vinta/awesome-python/) ⭐ 325,200 | 🐛 21 | 🌐 Python | 📅 2026-10-02.
 
 * [Awesome Pyramid](#awesome-pyramid)
   * [Admin Interface](#admin-interface)
@@ -130,7 +130,7 @@ based on [awesome-python](https://github.com/vinta/awesome-python/) ⭐ 324,948 
 
 *Packages related to authorization infrastructure and permissions.*
 
-* [ziggurat\_foundations](https://github.com/ergo/ziggurat_foundations) ⭐ 71 | 🐛 7 | 🌐 Python | 📅 2023-03-08 -
+* [ziggurat\_foundations](https://github.com/ergo/ziggurat_foundations) ⭐ 71 | 🐛 6 | 🌐 Python | 📅 2026-10-04 -
   Framework agnostic set of sqlalchemy classes that make building applications
   that require permissions an easy task.
 * [pyramid\_multiauth](https://github.com/mozilla-services/pyramid_multiauth) ⭐ 41 | 🐛 1 | 🌐 Python | 📅 2026-08-31 -
@@ -344,7 +344,7 @@ provide new storage backends.*
 
 ## Other
 
-* [waitress](https://github.com/Pylons/waitress) ⭐ 1,601 | 🐛 29 | 🌐 Python | 📅 2026-09-27 - Waitress is meant to be a
+* [waitress](https://github.com/Pylons/waitress) ⭐ 1,601 | 🐛 30 | 🌐 Python | 📅 2026-09-27 - Waitress is meant to be a
   production-quality pure-Python WSGI server with very acceptable performance.
   It has no dependencies except ones which live in the Python standard library.
 * [paginate](https://github.com/Pylons/paginate) ⭐ 80 | 🐛 1 | 🌐 Python | 📅 2024-08-25 - Python pagination module.
@@ -417,7 +417,7 @@ provide new storage backends.*
 
 ## Other
 
-* [warehouse](https://github.com/pypa/warehouse) ⭐ 4,164 | 🐛 579 | 🌐 Python | 📅 2026-10-03 - Warehouse is a next
+* [warehouse](https://github.com/pypa/warehouse) ⭐ 4,165 | 🐛 578 | 🌐 Python | 📅 2026-10-03 - Warehouse is a next
   generation Python Package Repository designed to replace the legacy code base
   that currently powers PyPI.
 * [shootout](https://github.com/Pylons/shootout) ⭐ 105 | 🐛 1 | 🌐 Python | 📅 2013-10-03 - An example “idea
@@ -513,4 +513,4 @@ or neighboring rights to this work.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-05._
