@@ -525,7 +525,7 @@
             "language": "Python",
             "license": "BSD-3-Clause",
             "last_commit": "2026-10-04T11:58:42Z",
-            "open_issues": 6,
+            "open_issues": 5,
             "owner": "ergo",
             "repo": "ziggurat_foundations",
             "stars": 71,
@@ -968,7 +968,7 @@
             "open_issues": 146,
             "owner": "marshmallow-code",
             "repo": "marshmallow",
-            "stars": 7240,
+            "stars": 7241,
             "topics": [
               "deserialization",
               "marshalling",
@@ -1184,8 +1184,8 @@
             "id": 2562442,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-05T14:11:43Z",
-            "open_issues": 56,
+            "last_commit": "2026-10-06T08:02:23Z",
+            "open_issues": 55,
             "owner": "Cornices",
             "repo": "cornice",
             "stars": 389,
@@ -2306,8 +2306,8 @@
                 "id": 9120498,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-06T01:14:08Z",
-                "open_issues": 576,
+                "last_commit": "2026-10-06T09:48:28Z",
+                "open_issues": 578,
                 "owner": "pypi",
                 "repo": "warehouse",
                 "stars": 4164,
@@ -2436,7 +2436,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T02:01:34.871Z",
+    "last_updated": "2026-10-06T10:26:35.878Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Pyramid apps, projects and resources.",

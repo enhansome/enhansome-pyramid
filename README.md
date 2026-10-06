@@ -1,11 +1,11 @@
 # Awesome Pyramid with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 515,197 | 🐛 107 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 515,354 | 🐛 106 | 📅 2026-09-02
 [![IRC
 Freenode](https://img.shields.io/badge/irc-freenode-blue.svg)](https://webchat.freenode.net/?channels=pyramid)
 
 A curated list of awesome Pyramid apps, projects and resources. Inspired by and
-based on [awesome-python](https://github.com/vinta/awesome-python/) ⭐ 325,420 | 🐛 19 | 🌐 Python | 📅 2026-10-02.
+based on [awesome-python](https://github.com/vinta/awesome-python/) ⭐ 325,510 | 🐛 19 | 🌐 Python | 📅 2026-10-02.
 
 * [Awesome Pyramid](#awesome-pyramid)
   * [Admin Interface](#admin-interface)
@@ -130,7 +130,7 @@ based on [awesome-python](https://github.com/vinta/awesome-python/) ⭐ 325,420 
 
 *Packages related to authorization infrastructure and permissions.*
 
-* [ziggurat\_foundations](https://github.com/ergo/ziggurat_foundations) ⭐ 71 | 🐛 6 | 🌐 Python | 📅 2026-10-04 -
+* [ziggurat\_foundations](https://github.com/ergo/ziggurat_foundations) ⭐ 71 | 🐛 5 | 🌐 Python | 📅 2026-10-04 -
   Framework agnostic set of sqlalchemy classes that make building applications
   that require permissions an easy task.
 * [pyramid\_multiauth](https://github.com/mozilla-services/pyramid_multiauth) ⭐ 41 | 🐛 1 | 🌐 Python | 📅 2026-08-31 -
@@ -192,7 +192,7 @@ based on [awesome-python](https://github.com/vinta/awesome-python/) ⭐ 325,420 
 
 *Packages that extend the functionality of forms or add new types of forms.*
 
-* [marshmallow](https://github.com/marshmallow-code/marshmallow) ⭐ 7,240 | 🐛 146 | 🌐 Python | 📅 2026-10-05 - A
+* [marshmallow](https://github.com/marshmallow-code/marshmallow) ⭐ 7,241 | 🐛 146 | 🌐 Python | 📅 2026-10-05 - A
   lightweight library for converting complex objects to and from simple Python
   datatypes (i.e. (de)serialization and validation).
 * [WTForms](https://github.com/wtforms/wtforms) ⭐ 1,582 | 🐛 26 | 🌐 Python | 📅 2026-06-29 - is a flexible forms
@@ -218,7 +218,7 @@ based on [awesome-python](https://github.com/vinta/awesome-python/) ⭐ 325,420 
 
 * [webargs](https://github.com/sloria/webargs) ⭐ 1,411 | 🐛 8 | 🌐 Python | 📅 2026-10-05 - A friendly library for parsing
   HTTP request arguments, with built-in support for popular web frameworks.
-* [cornice](https://github.com/Cornices/cornice) ⭐ 389 | 🐛 56 | 🌐 Python | 📅 2026-10-05 - provides helpers to
+* [cornice](https://github.com/Cornices/cornice) ⭐ 389 | 🐛 55 | 🌐 Python | 📅 2026-10-06 - provides helpers to
   build & document REST-ish Web Services with Pyramid, with decent default
   behaviors. It takes care of following the HTTP specification in an automated
   way where possible.
@@ -417,7 +417,7 @@ provide new storage backends.*
 
 ## Other
 
-* [warehouse](https://github.com/pypa/warehouse) ⭐ 4,164 | 🐛 576 | 🌐 Python | 📅 2026-10-06 - Warehouse is a next
+* [warehouse](https://github.com/pypa/warehouse) ⭐ 4,164 | 🐛 578 | 🌐 Python | 📅 2026-10-06 - Warehouse is a next
   generation Python Package Repository designed to replace the legacy code base
   that currently powers PyPI.
 * [shootout](https://github.com/Pylons/shootout) ⭐ 105 | 🐛 1 | 🌐 Python | 📅 2013-10-03 - An example “idea
