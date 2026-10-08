@@ -291,7 +291,7 @@
             "open_issues": 65,
             "owner": "authomatic",
             "repo": "authomatic",
-            "stars": 1055,
+            "stars": 1054,
             "topics": [
               "authentication",
               "authorization",
@@ -968,7 +968,7 @@
             "open_issues": 146,
             "owner": "marshmallow-code",
             "repo": "marshmallow",
-            "stars": 7242,
+            "stars": 7241,
             "topics": [
               "deserialization",
               "marshalling",
@@ -1184,8 +1184,8 @@
             "id": 2562442,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-06T08:02:23Z",
-            "open_issues": 55,
+            "last_commit": "2026-10-07T09:04:41Z",
+            "open_issues": 51,
             "owner": "Cornices",
             "repo": "cornice",
             "stars": 389,
@@ -2306,11 +2306,11 @@
                 "id": 9120498,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-06T21:36:54Z",
-                "open_issues": 575,
+                "last_commit": "2026-10-08T00:46:10Z",
+                "open_issues": 580,
                 "owner": "pypi",
                 "repo": "warehouse",
-                "stars": 4165,
+                "stars": 4164,
                 "topics": [
                   "package-registry",
                   "package-repository",
@@ -2436,7 +2436,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T01:11:05.190Z",
+    "last_updated": "2026-10-08T01:31:20.465Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Pyramid apps, projects and resources.",

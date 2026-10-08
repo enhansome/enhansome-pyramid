@@ -1,11 +1,11 @@
 # Awesome Pyramid with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 515,634 | 🐛 106 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 516,121 | 🐛 106 | 📅 2026-09-02
 [![IRC
 Freenode](https://img.shields.io/badge/irc-freenode-blue.svg)](https://webchat.freenode.net/?channels=pyramid)
 
 A curated list of awesome Pyramid apps, projects and resources. Inspired by and
-based on [awesome-python](https://github.com/vinta/awesome-python/) ⭐ 325,671 | 🐛 20 | 🌐 Python | 📅 2026-10-02.
+based on [awesome-python](https://github.com/vinta/awesome-python/) ⭐ 325,921 | 🐛 20 | 🌐 Python | 📅 2026-10-07.
 
 * [Awesome Pyramid](#awesome-pyramid)
   * [Admin Interface](#admin-interface)
@@ -94,7 +94,7 @@ based on [awesome-python](https://github.com/vinta/awesome-python/) ⭐ 325,671 
 * [Python Social Auth](https://github.com/omab/python-social-auth) ⭐ 2,802 | 🐛 24 | 🌐 Python | 📅 2022-07-01 - Social
   authentication/registration mechanism with support for a large number of
   [providers](https://github.com/omab/python-social-auth#auth-providers) ⭐ 2,802 | 🐛 24 | 🌐 Python | 📅 2022-07-01.
-* [Authomatic](https://github.com/authomatic/authomatic) ⭐ 1,055 | 🐛 65 | 🌐 Python | 📅 2025-12-12 -  Simple yet powerful
+* [Authomatic](https://github.com/authomatic/authomatic) ⭐ 1,054 | 🐛 65 | 🌐 Python | 📅 2025-12-12 -  Simple yet powerful
   authorization / authentication client library for Python web applications.
 * [velruse](https://github.com/bbangert/velruse) ⭐ 251 | 🐛 38 | 🌐 Python | 📅 2024-01-16 - Simplifying third-party
   authentication for web applications. it supports most of auth
@@ -192,7 +192,7 @@ based on [awesome-python](https://github.com/vinta/awesome-python/) ⭐ 325,671 
 
 *Packages that extend the functionality of forms or add new types of forms.*
 
-* [marshmallow](https://github.com/marshmallow-code/marshmallow) ⭐ 7,242 | 🐛 146 | 🌐 Python | 📅 2026-10-06 - A
+* [marshmallow](https://github.com/marshmallow-code/marshmallow) ⭐ 7,241 | 🐛 146 | 🌐 Python | 📅 2026-10-06 - A
   lightweight library for converting complex objects to and from simple Python
   datatypes (i.e. (de)serialization and validation).
 * [WTForms](https://github.com/wtforms/wtforms) ⭐ 1,582 | 🐛 26 | 🌐 Python | 📅 2026-06-29 - is a flexible forms
@@ -218,7 +218,7 @@ based on [awesome-python](https://github.com/vinta/awesome-python/) ⭐ 325,671 
 
 * [webargs](https://github.com/sloria/webargs) ⭐ 1,411 | 🐛 8 | 🌐 Python | 📅 2026-10-05 - A friendly library for parsing
   HTTP request arguments, with built-in support for popular web frameworks.
-* [cornice](https://github.com/Cornices/cornice) ⭐ 389 | 🐛 55 | 🌐 Python | 📅 2026-10-06 - provides helpers to
+* [cornice](https://github.com/Cornices/cornice) ⭐ 389 | 🐛 51 | 🌐 Python | 📅 2026-10-07 - provides helpers to
   build & document REST-ish Web Services with Pyramid, with decent default
   behaviors. It takes care of following the HTTP specification in an automated
   way where possible.
@@ -417,7 +417,7 @@ provide new storage backends.*
 
 ## Other
 
-* [warehouse](https://github.com/pypa/warehouse) ⭐ 4,165 | 🐛 575 | 🌐 Python | 📅 2026-10-06 - Warehouse is a next
+* [warehouse](https://github.com/pypa/warehouse) ⭐ 4,164 | 🐛 580 | 🌐 Python | 📅 2026-10-08 - Warehouse is a next
   generation Python Package Repository designed to replace the legacy code base
   that currently powers PyPI.
 * [shootout](https://github.com/Pylons/shootout) ⭐ 105 | 🐛 1 | 🌐 Python | 📅 2013-10-03 - An example “idea
@@ -513,4 +513,4 @@ or neighboring rights to this work.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-08._
