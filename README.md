@@ -1,11 +1,11 @@
 # Awesome Pyramid with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 517,248 | 🐛 106 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 517,706 | 🐛 105 | 📅 2026-09-02
 [![IRC
 Freenode](https://img.shields.io/badge/irc-freenode-blue.svg)](https://webchat.freenode.net/?channels=pyramid)
 
 A curated list of awesome Pyramid apps, projects and resources. Inspired by and
-based on [awesome-python](https://github.com/vinta/awesome-python/) ⭐ 326,396 | 🐛 24 | 🌐 Python | 📅 2026-10-10.
+based on [awesome-python](https://github.com/vinta/awesome-python/) ⭐ 326,660 | 🐛 18 | 🌐 Python | 📅 2026-10-11.
 
 * [Awesome Pyramid](#awesome-pyramid)
   * [Admin Interface](#admin-interface)
@@ -102,7 +102,7 @@ based on [awesome-python](https://github.com/vinta/awesome-python/) ⭐ 326,396 
 * [apex](https://github.com/cd34/apex) ⚠️ Archived - Toolkit for Pyramid, a Pylons Project,
   to add Authentication and Authorization using Velruse (OAuth) and/or a local
   database, CSRF, ReCaptcha, Sessions, Flash messages and I18N.
-* [pyramid\_jwt](https://github.com/wichert/pyramid_jwt) ⭐ 75 | 🐛 23 | 🌐 Python | 📅 2024-11-25 - This package
+* [pyramid\_jwt](https://github.com/wichert/pyramid_jwt) ⭐ 75 | 🐛 24 | 🌐 Python | 📅 2024-11-25 - This package
   implements an authentication policy for Pyramid that using [JSON Web Tokens].
   This standard ([RFC 7519]) is often used to secure backens APIs. The
   excellent [PyJWT] library is used for the JWT encoding / decoding logic.
@@ -192,7 +192,7 @@ based on [awesome-python](https://github.com/vinta/awesome-python/) ⭐ 326,396 
 
 *Packages that extend the functionality of forms or add new types of forms.*
 
-* [marshmallow](https://github.com/marshmallow-code/marshmallow) ⭐ 7,243 | 🐛 147 | 🌐 Python | 📅 2026-10-06 - A
+* [marshmallow](https://github.com/marshmallow-code/marshmallow) ⭐ 7,243 | 🐛 152 | 🌐 Python | 📅 2026-10-06 - A
   lightweight library for converting complex objects to and from simple Python
   datatypes (i.e. (de)serialization and validation).
 * [WTForms](https://github.com/wtforms/wtforms) ⭐ 1,582 | 🐛 26 | 🌐 Python | 📅 2026-06-29 - is a flexible forms
@@ -216,7 +216,7 @@ based on [awesome-python](https://github.com/vinta/awesome-python/) ⭐ 326,396 
 
 *Packages for developing RESTful APIs.*
 
-* [webargs](https://github.com/sloria/webargs) ⭐ 1,411 | 🐛 8 | 🌐 Python | 📅 2026-10-05 - A friendly library for parsing
+* [webargs](https://github.com/sloria/webargs) ⭐ 1,411 | 🐛 9 | 🌐 Python | 📅 2026-10-05 - A friendly library for parsing
   HTTP request arguments, with built-in support for popular web frameworks.
 * [cornice](https://github.com/Cornices/cornice) ⭐ 389 | 🐛 52 | 🌐 Python | 📅 2026-10-08 - provides helpers to
   build & document REST-ish Web Services with Pyramid, with decent default
@@ -289,7 +289,7 @@ provide new storage backends.*
   provides some basic glue to facilitate using SQLAlchemy with Pyramid.
 * [pyramid\_mongoengine](https://github.com/marioidival/pyramid_mongoengine) ⭐ 13 | 🐛 0 | 🌐 Python | 📅 2020-03-31 -
   pyramid-mongoengine package based on flask-mongoengine
-* [pyramid-excel](https://github.com/pyexcel-webwares/pyramid-excel) ⭐ 8 | 🐛 0 | 🌐 Python | 📅 2024-11-23 - pyramid-excel is based on [pyexcel](https://github.com/pyexcel/pyexcel) ⭐ 1,293 | 🐛 13 | 🌐 Python | 📅 2026-09-13 and makes it easy to consume/produce information stored in excel files over HTTP protocol as well as on file system. This library can turn the excel data into a list of lists, a list of records(dictionaries), dictionaries of lists. And vice versa. Hence it lets you focus on data in Pyramid based web development, instead of file formats.
+* [pyramid-excel](https://github.com/pyexcel-webwares/pyramid-excel) ⭐ 8 | 🐛 0 | 🌐 Python | 📅 2024-11-23 - pyramid-excel is based on [pyexcel](https://github.com/pyexcel/pyexcel) ⭐ 1,294 | 🐛 14 | 🌐 Python | 📅 2026-09-13 and makes it easy to consume/produce information stored in excel files over HTTP protocol as well as on file system. This library can turn the excel data into a list of lists, a list of records(dictionaries), dictionaries of lists. And vice versa. Hence it lets you focus on data in Pyramid based web development, instead of file formats.
 * [pyramid\_zodbconn](https://github.com/Pylons/pyramid_zodbconn) ⭐ 4 | 🐛 1 | 🌐 Python | 📅 2020-04-01 - ZODB
   Database connection management for Pyramid.
 
@@ -417,7 +417,7 @@ provide new storage backends.*
 
 ## Other
 
-* [warehouse](https://github.com/pypa/warehouse) ⭐ 4,165 | 🐛 581 | 🌐 Python | 📅 2026-10-09 - Warehouse is a next
+* [warehouse](https://github.com/pypa/warehouse) ⭐ 4,165 | 🐛 581 | 🌐 Python | 📅 2026-10-11 - Warehouse is a next
   generation Python Package Repository designed to replace the legacy code base
   that currently powers PyPI.
 * [shootout](https://github.com/Pylons/shootout) ⭐ 105 | 🐛 1 | 🌐 Python | 📅 2013-10-03 - An example “idea
@@ -513,4 +513,4 @@ or neighboring rights to this work.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-11._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-12._
