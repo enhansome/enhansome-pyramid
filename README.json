@@ -968,7 +968,7 @@
             "open_issues": 153,
             "owner": "marshmallow-code",
             "repo": "marshmallow",
-            "stars": 7244,
+            "stars": 7247,
             "topics": [
               "deserialization",
               "marshalling",
@@ -997,7 +997,7 @@
             "open_issues": 26,
             "owner": "pallets-eco",
             "repo": "wtforms",
-            "stars": 1582,
+            "stars": 1583,
             "topics": [
               "forms",
               "html",
@@ -1229,8 +1229,8 @@
             "id": 138299589,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-13T21:42:40Z",
-            "open_issues": 21,
+            "last_commit": "2026-10-14T08:16:46Z",
+            "open_issues": 20,
             "owner": "Pylons",
             "repo": "pyramid_openapi3",
             "stars": 84,
@@ -2306,11 +2306,11 @@
                 "id": 9120498,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-13T21:48:06Z",
-                "open_issues": 583,
+                "last_commit": "2026-10-14T20:40:27Z",
+                "open_issues": 587,
                 "owner": "pypi",
                 "repo": "warehouse",
-                "stars": 4165,
+                "stars": 4166,
                 "topics": [
                   "package-registry",
                   "package-repository",
@@ -2436,7 +2436,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-14T00:49:16.898Z",
+    "last_updated": "2026-10-15T00:15:33.606Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Pyramid apps, projects and resources.",

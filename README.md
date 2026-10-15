@@ -1,11 +1,11 @@
 # Awesome Pyramid with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 518,662 | 🐛 105 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 519,010 | 🐛 105 | 📅 2026-09-02
 [![IRC
 Freenode](https://img.shields.io/badge/irc-freenode-blue.svg)](https://webchat.freenode.net/?channels=pyramid)
 
 A curated list of awesome Pyramid apps, projects and resources. Inspired by and
-based on [awesome-python](https://github.com/vinta/awesome-python/) ⭐ 327,193 | 🐛 17 | 🌐 Python | 📅 2026-10-12.
+based on [awesome-python](https://github.com/vinta/awesome-python/) ⭐ 327,452 | 🐛 19 | 🌐 Python | 📅 2026-10-14.
 
 * [Awesome Pyramid](#awesome-pyramid)
   * [Admin Interface](#admin-interface)
@@ -192,10 +192,10 @@ based on [awesome-python](https://github.com/vinta/awesome-python/) ⭐ 327,193 
 
 *Packages that extend the functionality of forms or add new types of forms.*
 
-* [marshmallow](https://github.com/marshmallow-code/marshmallow) ⭐ 7,244 | 🐛 153 | 🌐 Python | 📅 2026-10-06 - A
+* [marshmallow](https://github.com/marshmallow-code/marshmallow) ⭐ 7,247 | 🐛 153 | 🌐 Python | 📅 2026-10-06 - A
   lightweight library for converting complex objects to and from simple Python
   datatypes (i.e. (de)serialization and validation).
-* [WTForms](https://github.com/wtforms/wtforms) ⭐ 1,582 | 🐛 26 | 🌐 Python | 📅 2026-06-29 - is a flexible forms
+* [WTForms](https://github.com/wtforms/wtforms) ⭐ 1,583 | 🐛 26 | 🌐 Python | 📅 2026-06-29 - is a flexible forms
   validation and rendering library for python web development.
 * [colander](https://github.com/Pylons/colander) ⭐ 460 | 🐛 38 | 🌐 Python | 📅 2026-08-02 - A
   serialization/deserialization/validation library for strings, mappings and
@@ -224,7 +224,7 @@ based on [awesome-python](https://github.com/vinta/awesome-python/) ⭐ 327,193 
   way where possible.
 * [ramses](https://github.com/ramses-tech/ramses) ⚠️ Archived - Generate a RESTful API using
   RAML. It uses Nefertari which provides ElasticSearch-powered views.
-* [pyramid-openapi3](https://github.com/niteoweb/pyramid_openapi3) ⭐ 84 | 🐛 21 | 🌐 Python | 📅 2026-10-13 - Validate Pyramid views against an OpenAPI 3.0 document. Similar to pyramid\_swagger but for OpenAPI 3.0.
+* [pyramid-openapi3](https://github.com/niteoweb/pyramid_openapi3) ⭐ 84 | 🐛 20 | 🌐 Python | 📅 2026-10-14 - Validate Pyramid views against an OpenAPI 3.0 document. Similar to pyramid\_swagger but for OpenAPI 3.0.
 * [cliquet](https://github.com/mozilla-services/cliquet) ⚠️ Archived - Cliquet is a toolkit
   to ease the implementation of HTTP microservices, such as data-driven REST
   APIs.
@@ -417,7 +417,7 @@ provide new storage backends.*
 
 ## Other
 
-* [warehouse](https://github.com/pypa/warehouse) ⭐ 4,165 | 🐛 583 | 🌐 Python | 📅 2026-10-13 - Warehouse is a next
+* [warehouse](https://github.com/pypa/warehouse) ⭐ 4,166 | 🐛 587 | 🌐 Python | 📅 2026-10-14 - Warehouse is a next
   generation Python Package Repository designed to replace the legacy code base
   that currently powers PyPI.
 * [shootout](https://github.com/Pylons/shootout) ⭐ 105 | 🐛 1 | 🌐 Python | 📅 2013-10-03 - An example “idea
@@ -513,4 +513,4 @@ or neighboring rights to this work.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-15._
