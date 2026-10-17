@@ -1,11 +1,11 @@
 # Awesome Pyramid with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 520,006 | 🐛 105 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 520,488 | 🐛 105 | 📅 2026-09-02
 [![IRC
 Freenode](https://img.shields.io/badge/irc-freenode-blue.svg)](https://webchat.freenode.net/?channels=pyramid)
 
 A curated list of awesome Pyramid apps, projects and resources. Inspired by and
-based on [awesome-python](https://github.com/vinta/awesome-python/) ⭐ 327,970 | 🐛 22 | 🌐 Python | 📅 2026-10-16.
+based on [awesome-python](https://github.com/vinta/awesome-python/) ⭐ 328,221 | 🐛 21 | 🌐 Python | 📅 2026-10-17.
 
 * [Awesome Pyramid](#awesome-pyramid)
   * [Admin Interface](#admin-interface)
@@ -192,7 +192,7 @@ based on [awesome-python](https://github.com/vinta/awesome-python/) ⭐ 327,970 
 
 *Packages that extend the functionality of forms or add new types of forms.*
 
-* [marshmallow](https://github.com/marshmallow-code/marshmallow) ⭐ 7,249 | 🐛 155 | 🌐 Python | 📅 2026-10-06 - A
+* [marshmallow](https://github.com/marshmallow-code/marshmallow) ⭐ 7,248 | 🐛 154 | 🌐 Python | 📅 2026-10-06 - A
   lightweight library for converting complex objects to and from simple Python
   datatypes (i.e. (de)serialization and validation).
 * [WTForms](https://github.com/wtforms/wtforms) ⭐ 1,583 | 🐛 26 | 🌐 Python | 📅 2026-10-16 - is a flexible forms
@@ -417,7 +417,7 @@ provide new storage backends.*
 
 ## Other
 
-* [warehouse](https://github.com/pypa/warehouse) ⭐ 4,167 | 🐛 591 | 🌐 Python | 📅 2026-10-16 - Warehouse is a next
+* [warehouse](https://github.com/pypa/warehouse) ⭐ 4,169 | 🐛 591 | 🌐 Python | 📅 2026-10-16 - Warehouse is a next
   generation Python Package Repository designed to replace the legacy code base
   that currently powers PyPI.
 * [shootout](https://github.com/Pylons/shootout) ⭐ 105 | 🐛 1 | 🌐 Python | 📅 2013-10-03 - An example “idea
