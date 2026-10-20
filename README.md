@@ -1,11 +1,11 @@
 # Awesome Pyramid with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 520,971 | 🐛 105 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 521,489 | 🐛 105 | 📅 2026-09-02
 [![IRC
 Freenode](https://img.shields.io/badge/irc-freenode-blue.svg)](https://webchat.freenode.net/?channels=pyramid)
 
 A curated list of awesome Pyramid apps, projects and resources. Inspired by and
-based on [awesome-python](https://github.com/vinta/awesome-python/) ⭐ 328,484 | 🐛 17 | 🌐 Python | 📅 2026-10-17.
+based on [awesome-python](https://github.com/vinta/awesome-python/) ⭐ 328,753 | 🐛 16 | 🌐 Python | 📅 2026-10-19.
 
 * [Awesome Pyramid](#awesome-pyramid)
   * [Admin Interface](#admin-interface)
@@ -192,10 +192,10 @@ based on [awesome-python](https://github.com/vinta/awesome-python/) ⭐ 328,484 
 
 *Packages that extend the functionality of forms or add new types of forms.*
 
-* [marshmallow](https://github.com/marshmallow-code/marshmallow) ⭐ 7,248 | 🐛 154 | 🌐 Python | 📅 2026-10-18 - A
+* [marshmallow](https://github.com/marshmallow-code/marshmallow) ⭐ 7,247 | 🐛 155 | 🌐 Python | 📅 2026-10-19 - A
   lightweight library for converting complex objects to and from simple Python
   datatypes (i.e. (de)serialization and validation).
-* [WTForms](https://github.com/wtforms/wtforms) ⭐ 1,583 | 🐛 26 | 🌐 Python | 📅 2026-10-16 - is a flexible forms
+* [WTForms](https://github.com/wtforms/wtforms) ⭐ 1,583 | 🐛 26 | 🌐 Python | 📅 2026-10-19 - is a flexible forms
   validation and rendering library for python web development.
 * [colander](https://github.com/Pylons/colander) ⭐ 460 | 🐛 38 | 🌐 Python | 📅 2026-08-02 - A
   serialization/deserialization/validation library for strings, mappings and
@@ -279,7 +279,7 @@ provide new storage backends.*
 
 * [pyramid\_mongodb](https://github.com/niallo/pyramid_mongodb) ⭐ 44 | 🐛 5 | 🌐 Python | 📅 2020-03-31 -
   Basic Pyramid Scaffold to easily use MongoDB for persistence with the Pyramid Web framework
-* [pyramid\_tm](https://github.com/Pylons/pyramid_tm) ⭐ 36 | 🐛 3 | 🌐 Python | 📅 2026-08-02 - Centralized transaction
+* [pyramid\_tm](https://github.com/Pylons/pyramid_tm) ⭐ 36 | 🐛 4 | 🌐 Python | 📅 2026-08-02 - Centralized transaction
   management for Pyramid applications (without middleware).
 * [zope.sqlalchemy](https://github.com/zopefoundation/zope.sqlalchemy) ⭐ 35 | 🐛 9 | 🌐 Python | 📅 2025-11-25 -
   Integration of SQLAlchemy with transaction management.
@@ -344,7 +344,7 @@ provide new storage backends.*
 
 ## Other
 
-* [waitress](https://github.com/Pylons/waitress) ⭐ 1,602 | 🐛 30 | 🌐 Python | 📅 2026-09-27 - Waitress is meant to be a
+* [waitress](https://github.com/Pylons/waitress) ⭐ 1,603 | 🐛 30 | 🌐 Python | 📅 2026-09-27 - Waitress is meant to be a
   production-quality pure-Python WSGI server with very acceptable performance.
   It has no dependencies except ones which live in the Python standard library.
 * [paginate](https://github.com/Pylons/paginate) ⭐ 80 | 🐛 1 | 🌐 Python | 📅 2024-08-25 - Python pagination module.
@@ -417,7 +417,7 @@ provide new storage backends.*
 
 ## Other
 
-* [warehouse](https://github.com/pypa/warehouse) ⭐ 4,170 | 🐛 597 | 🌐 Python | 📅 2026-10-18 - Warehouse is a next
+* [warehouse](https://github.com/pypa/warehouse) ⭐ 4,170 | 🐛 594 | 🌐 Python | 📅 2026-10-20 - Warehouse is a next
   generation Python Package Repository designed to replace the legacy code base
   that currently powers PyPI.
 * [shootout](https://github.com/Pylons/shootout) ⭐ 105 | 🐛 1 | 🌐 Python | 📅 2013-10-03 - An example “idea
@@ -513,4 +513,4 @@ or neighboring rights to this work.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-20._
