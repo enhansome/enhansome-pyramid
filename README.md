@@ -1,11 +1,11 @@
 # Awesome Pyramid with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 522,384 | 🐛 105 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 523,170 | 🐛 105 | 📅 2026-09-02
 [![IRC
 Freenode](https://img.shields.io/badge/irc-freenode-blue.svg)](https://webchat.freenode.net/?channels=pyramid)
 
 A curated list of awesome Pyramid apps, projects and resources. Inspired by and
-based on [awesome-python](https://github.com/vinta/awesome-python/) ⭐ 329,271 | 🐛 17 | 🌐 Python | 📅 2026-10-21.
+based on [awesome-python](https://github.com/vinta/awesome-python/) ⭐ 329,505 | 🐛 18 | 🌐 Python | 📅 2026-10-22.
 
 * [Awesome Pyramid](#awesome-pyramid)
   * [Admin Interface](#admin-interface)
@@ -60,7 +60,7 @@ based on [awesome-python](https://github.com/vinta/awesome-python/) ⭐ 329,271 
   * [ps\_tree](https://github.com/sacrud/ps_tree) ⭐ 3 | 🐛 2 | 🌐 Python | 📅 2015-07-10 - extension for
     [pyramid\_sacrud](https://github.com/sacrud/pyramid_sacrud) ⭐ 53 | 🐛 10 | 🌐 Python | 📅 2020-04-29 which displays
     a list of records as tree. This works fine with models from
-    [sqlalchemy\_mptt](https://github.com/uralbash/sqlalchemy_mptt) ⭐ 200 | 🐛 14 | 🌐 Python | 📅 2026-06-22.
+    [sqlalchemy\_mptt](https://github.com/uralbash/sqlalchemy_mptt) ⭐ 200 | 🐛 15 | 🌐 Python | 📅 2026-10-23.
 * [pyramid\_formalchemy](https://github.com/FormAlchemy/pyramid_formalchemy) ⭐ 45 | 🐛 10 | 🌐 Python | 📅 2020-03-28 -
   provides a CRUD interface for pyramid based on FormAlchemy.
 * [Websauna](https://websauna.org/docs/) - a full stack application framework for Pyramid
@@ -195,9 +195,9 @@ based on [awesome-python](https://github.com/vinta/awesome-python/) ⭐ 329,271 
 * [marshmallow](https://github.com/marshmallow-code/marshmallow) ⭐ 7,246 | 🐛 159 | 🌐 Python | 📅 2026-10-19 - A
   lightweight library for converting complex objects to and from simple Python
   datatypes (i.e. (de)serialization and validation).
-* [WTForms](https://github.com/wtforms/wtforms) ⭐ 1,584 | 🐛 26 | 🌐 Python | 📅 2026-10-20 - is a flexible forms
+* [WTForms](https://github.com/wtforms/wtforms) ⭐ 1,584 | 🐛 25 | 🌐 Python | 📅 2026-10-22 - is a flexible forms
   validation and rendering library for python web development.
-* [colander](https://github.com/Pylons/colander) ⭐ 459 | 🐛 38 | 🌐 Python | 📅 2026-08-02 - A
+* [colander](https://github.com/Pylons/colander) ⭐ 459 | 🐛 39 | 🌐 Python | 📅 2026-08-02 - A
   serialization/deserialization/validation library for strings, mappings and
   lists.
 * [deform](https://github.com/Pylons/deform) ⭐ 423 | 🐛 44 | 🌐 JavaScript | 📅 2026-09-16 - is a Python HTML form generation
@@ -289,7 +289,7 @@ provide new storage backends.*
   provides some basic glue to facilitate using SQLAlchemy with Pyramid.
 * [pyramid\_mongoengine](https://github.com/marioidival/pyramid_mongoengine) ⭐ 13 | 🐛 0 | 🌐 Python | 📅 2020-03-31 -
   pyramid-mongoengine package based on flask-mongoengine
-* [pyramid-excel](https://github.com/pyexcel-webwares/pyramid-excel) ⭐ 8 | 🐛 0 | 🌐 Python | 📅 2024-11-23 - pyramid-excel is based on [pyexcel](https://github.com/pyexcel/pyexcel) ⭐ 1,295 | 🐛 15 | 🌐 Python | 📅 2026-09-13 and makes it easy to consume/produce information stored in excel files over HTTP protocol as well as on file system. This library can turn the excel data into a list of lists, a list of records(dictionaries), dictionaries of lists. And vice versa. Hence it lets you focus on data in Pyramid based web development, instead of file formats.
+* [pyramid-excel](https://github.com/pyexcel-webwares/pyramid-excel) ⭐ 8 | 🐛 0 | 🌐 Python | 📅 2024-11-23 - pyramid-excel is based on [pyexcel](https://github.com/pyexcel/pyexcel) ⭐ 1,295 | 🐛 14 | 🌐 Python | 📅 2026-09-13 and makes it easy to consume/produce information stored in excel files over HTTP protocol as well as on file system. This library can turn the excel data into a list of lists, a list of records(dictionaries), dictionaries of lists. And vice versa. Hence it lets you focus on data in Pyramid based web development, instead of file formats.
 * [pyramid\_zodbconn](https://github.com/Pylons/pyramid_zodbconn) ⭐ 4 | 🐛 1 | 🌐 Python | 📅 2020-04-01 - ZODB
   Database connection management for Pyramid.
 
@@ -417,7 +417,7 @@ provide new storage backends.*
 
 ## Other
 
-* [warehouse](https://github.com/pypa/warehouse) ⭐ 4,171 | 🐛 588 | 🌐 Python | 📅 2026-10-21 - Warehouse is a next
+* [warehouse](https://github.com/pypa/warehouse) ⭐ 4,171 | 🐛 560 | 🌐 Python | 📅 2026-10-22 - Warehouse is a next
   generation Python Package Repository designed to replace the legacy code base
   that currently powers PyPI.
 * [shootout](https://github.com/Pylons/shootout) ⭐ 105 | 🐛 1 | 🌐 Python | 📅 2013-10-03 - An example “idea
@@ -513,4 +513,4 @@ or neighboring rights to this work.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-23._
