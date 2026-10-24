@@ -1,11 +1,11 @@
 # Awesome Pyramid with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 523,170 | 🐛 105 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 523,655 | 🐛 105 | 📅 2026-09-02
 [![IRC
 Freenode](https://img.shields.io/badge/irc-freenode-blue.svg)](https://webchat.freenode.net/?channels=pyramid)
 
 A curated list of awesome Pyramid apps, projects and resources. Inspired by and
-based on [awesome-python](https://github.com/vinta/awesome-python/) ⭐ 329,505 | 🐛 18 | 🌐 Python | 📅 2026-10-22.
+based on [awesome-python](https://github.com/vinta/awesome-python/) ⭐ 329,738 | 🐛 17 | 🌐 Python | 📅 2026-10-22.
 
 * [Awesome Pyramid](#awesome-pyramid)
   * [Admin Interface](#admin-interface)
@@ -60,7 +60,7 @@ based on [awesome-python](https://github.com/vinta/awesome-python/) ⭐ 329,505 
   * [ps\_tree](https://github.com/sacrud/ps_tree) ⭐ 3 | 🐛 2 | 🌐 Python | 📅 2015-07-10 - extension for
     [pyramid\_sacrud](https://github.com/sacrud/pyramid_sacrud) ⭐ 53 | 🐛 10 | 🌐 Python | 📅 2020-04-29 which displays
     a list of records as tree. This works fine with models from
-    [sqlalchemy\_mptt](https://github.com/uralbash/sqlalchemy_mptt) ⭐ 200 | 🐛 15 | 🌐 Python | 📅 2026-10-23.
+    [sqlalchemy\_mptt](https://github.com/uralbash/sqlalchemy_mptt) ⭐ 200 | 🐛 14 | 🌐 Python | 📅 2026-10-23.
 * [pyramid\_formalchemy](https://github.com/FormAlchemy/pyramid_formalchemy) ⭐ 45 | 🐛 10 | 🌐 Python | 📅 2020-03-28 -
   provides a CRUD interface for pyramid based on FormAlchemy.
 * [Websauna](https://websauna.org/docs/) - a full stack application framework for Pyramid
@@ -91,9 +91,9 @@ based on [awesome-python](https://github.com/vinta/awesome-python/) ⭐ 329,505 
 
 *Packages that improve or extend the authentication methods of Pyramid.*
 
-* [Python Social Auth](https://github.com/omab/python-social-auth) ⭐ 2,802 | 🐛 24 | 🌐 Python | 📅 2022-07-01 - Social
+* [Python Social Auth](https://github.com/omab/python-social-auth) ⭐ 2,801 | 🐛 24 | 🌐 Python | 📅 2022-07-01 - Social
   authentication/registration mechanism with support for a large number of
-  [providers](https://github.com/omab/python-social-auth#auth-providers) ⭐ 2,802 | 🐛 24 | 🌐 Python | 📅 2022-07-01.
+  [providers](https://github.com/omab/python-social-auth#auth-providers) ⭐ 2,801 | 🐛 24 | 🌐 Python | 📅 2022-07-01.
 * [Authomatic](https://github.com/authomatic/authomatic) ⭐ 1,054 | 🐛 65 | 🌐 Python | 📅 2025-12-12 -  Simple yet powerful
   authorization / authentication client library for Python web applications.
 * [velruse](https://github.com/bbangert/velruse) ⭐ 251 | 🐛 38 | 🌐 Python | 📅 2024-01-16 - Simplifying third-party
@@ -192,10 +192,10 @@ based on [awesome-python](https://github.com/vinta/awesome-python/) ⭐ 329,505 
 
 *Packages that extend the functionality of forms or add new types of forms.*
 
-* [marshmallow](https://github.com/marshmallow-code/marshmallow) ⭐ 7,246 | 🐛 159 | 🌐 Python | 📅 2026-10-19 - A
+* [marshmallow](https://github.com/marshmallow-code/marshmallow) ⭐ 7,246 | 🐛 161 | 🌐 Python | 📅 2026-10-23 - A
   lightweight library for converting complex objects to and from simple Python
   datatypes (i.e. (de)serialization and validation).
-* [WTForms](https://github.com/wtforms/wtforms) ⭐ 1,584 | 🐛 25 | 🌐 Python | 📅 2026-10-22 - is a flexible forms
+* [WTForms](https://github.com/wtforms/wtforms) ⭐ 1,584 | 🐛 26 | 🌐 Python | 📅 2026-10-23 - is a flexible forms
   validation and rendering library for python web development.
 * [colander](https://github.com/Pylons/colander) ⭐ 459 | 🐛 39 | 🌐 Python | 📅 2026-08-02 - A
   serialization/deserialization/validation library for strings, mappings and
@@ -216,7 +216,7 @@ based on [awesome-python](https://github.com/vinta/awesome-python/) ⭐ 329,505 
 
 *Packages for developing RESTful APIs.*
 
-* [webargs](https://github.com/sloria/webargs) ⭐ 1,411 | 🐛 7 | 🌐 Python | 📅 2026-10-20 - A friendly library for parsing
+* [webargs](https://github.com/sloria/webargs) ⭐ 1,411 | 🐛 7 | 🌐 Python | 📅 2026-10-23 - A friendly library for parsing
   HTTP request arguments, with built-in support for popular web frameworks.
 * [cornice](https://github.com/Cornices/cornice) ⭐ 389 | 🐛 56 | 🌐 Python | 📅 2026-10-12 - provides helpers to
   build & document REST-ish Web Services with Pyramid, with decent default
@@ -224,7 +224,7 @@ based on [awesome-python](https://github.com/vinta/awesome-python/) ⭐ 329,505 
   way where possible.
 * [ramses](https://github.com/ramses-tech/ramses) ⚠️ Archived - Generate a RESTful API using
   RAML. It uses Nefertari which provides ElasticSearch-powered views.
-* [pyramid-openapi3](https://github.com/niteoweb/pyramid_openapi3) ⭐ 84 | 🐛 20 | 🌐 Python | 📅 2026-10-14 - Validate Pyramid views against an OpenAPI 3.0 document. Similar to pyramid\_swagger but for OpenAPI 3.0.
+* [pyramid-openapi3](https://github.com/niteoweb/pyramid_openapi3) ⭐ 84 | 🐛 20 | 🌐 Python | 📅 2026-10-23 - Validate Pyramid views against an OpenAPI 3.0 document. Similar to pyramid\_swagger but for OpenAPI 3.0.
 * [cliquet](https://github.com/mozilla-services/cliquet) ⚠️ Archived - Cliquet is a toolkit
   to ease the implementation of HTTP microservices, such as data-driven REST
   APIs.
@@ -344,7 +344,7 @@ provide new storage backends.*
 
 ## Other
 
-* [waitress](https://github.com/Pylons/waitress) ⭐ 1,603 | 🐛 31 | 🌐 Python | 📅 2026-09-27 - Waitress is meant to be a
+* [waitress](https://github.com/Pylons/waitress) ⭐ 1,602 | 🐛 31 | 🌐 Python | 📅 2026-09-27 - Waitress is meant to be a
   production-quality pure-Python WSGI server with very acceptable performance.
   It has no dependencies except ones which live in the Python standard library.
 * [paginate](https://github.com/Pylons/paginate) ⭐ 80 | 🐛 1 | 🌐 Python | 📅 2024-08-25 - Python pagination module.
@@ -417,14 +417,14 @@ provide new storage backends.*
 
 ## Other
 
-* [warehouse](https://github.com/pypa/warehouse) ⭐ 4,171 | 🐛 560 | 🌐 Python | 📅 2026-10-22 - Warehouse is a next
+* [warehouse](https://github.com/pypa/warehouse) ⭐ 4,172 | 🐛 558 | 🌐 Python | 📅 2026-10-24 - Warehouse is a next
   generation Python Package Repository designed to replace the legacy code base
   that currently powers PyPI.
 * [shootout](https://github.com/Pylons/shootout) ⭐ 105 | 🐛 1 | 🌐 Python | 📅 2013-10-03 - An example “idea
   competition” application by Carlos de la Guardia and Lukasz Fidosz. It
   demonstrates URL dispatch, simple authentication, integration with SQLAlchemy
   and pyramid\_simpleform.
-* [Ptah](https://github.com/ptahproject/ptah) ⭐ 72 | 🐛 6 | 🌐 Python | 📅 2020-04-02 - Ptah is a fast, fun, open
+* [Ptah](https://github.com/ptahproject/ptah) ⚠️ Archived - Ptah is a fast, fun, open
   source high-level Python web development environment.
 * [travelcrm](https://github.com/mazvv/travelcrm) ⭐ 33 | 🐛 5 | 🌐 Python | 📅 2020-04-02 - TravelCRM is effective free and open source application for the automation of customer relationships for travel agencies at all levels, from small to large networks.
 * [cluegun](https://github.com/Pylons/cluegun) ⭐ 30 | 🐛 0 | 🌐 Python | 📅 2012-02-15 - A simple pastebin application
@@ -513,4 +513,4 @@ or neighboring rights to this work.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-24._
