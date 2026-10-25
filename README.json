@@ -968,7 +968,7 @@
             "open_issues": 160,
             "owner": "marshmallow-code",
             "repo": "marshmallow",
-            "stars": 7245,
+            "stars": 7246,
             "topics": [
               "deserialization",
               "marshalling",
@@ -1595,8 +1595,8 @@
             "id": 7895139,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2025-11-25T07:02:49Z",
-            "open_issues": 9,
+            "last_commit": "2026-10-25T16:52:46Z",
+            "open_issues": 10,
             "owner": "zopefoundation",
             "repo": "zope.sqlalchemy",
             "stars": 35,
@@ -2306,11 +2306,11 @@
                 "id": 9120498,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-24T21:38:11Z",
+                "last_commit": "2026-10-25T21:28:46Z",
                 "open_issues": 552,
                 "owner": "pypi",
                 "repo": "warehouse",
-                "stars": 4174,
+                "stars": 4175,
                 "topics": [
                   "package-registry",
                   "package-repository",
@@ -2436,7 +2436,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T23:56:48.550Z",
+    "last_updated": "2026-10-25T23:43:52.211Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Pyramid apps, projects and resources.",
