@@ -997,7 +997,7 @@
             "open_issues": 24,
             "owner": "pallets-eco",
             "repo": "wtforms",
-            "stars": 1583,
+            "stars": 1584,
             "topics": [
               "forms",
               "html",
@@ -1151,7 +1151,7 @@
             "id": 16899445,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-24T02:05:15Z",
+            "last_commit": "2026-10-26T04:46:24Z",
             "open_issues": 7,
             "owner": "marshmallow-code",
             "repo": "webargs",
@@ -2306,8 +2306,8 @@
                 "id": 9120498,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-25T21:28:46Z",
-                "open_issues": 552,
+                "last_commit": "2026-10-26T20:41:44Z",
+                "open_issues": 554,
                 "owner": "pypi",
                 "repo": "warehouse",
                 "stars": 4175,
@@ -2436,7 +2436,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-25T23:43:52.211Z",
+    "last_updated": "2026-10-27T01:03:23.157Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Pyramid apps, projects and resources.",
