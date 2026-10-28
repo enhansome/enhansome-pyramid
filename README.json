@@ -968,7 +968,7 @@
             "open_issues": 160,
             "owner": "marshmallow-code",
             "repo": "marshmallow",
-            "stars": 7246,
+            "stars": 7244,
             "topics": [
               "deserialization",
               "marshalling",
@@ -2306,11 +2306,11 @@
                 "id": 9120498,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-26T20:41:44Z",
-                "open_issues": 554,
+                "last_commit": "2026-10-27T23:21:23Z",
+                "open_issues": 550,
                 "owner": "pypi",
                 "repo": "warehouse",
-                "stars": 4175,
+                "stars": 4177,
                 "topics": [
                   "package-registry",
                   "package-repository",
@@ -2436,7 +2436,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-27T01:03:23.157Z",
+    "last_updated": "2026-10-28T00:54:46.220Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Pyramid apps, projects and resources.",
