@@ -163,7 +163,7 @@
             "open_issues": 103,
             "owner": "abourget",
             "repo": "gevent-socketio",
-            "stars": 1204,
+            "stars": 1203,
             "topics": []
           },
           "first_seen": "2026-08-28T05:54:53.954Z"
@@ -997,7 +997,7 @@
             "open_issues": 25,
             "owner": "pallets-eco",
             "repo": "wtforms",
-            "stars": 1584,
+            "stars": 1583,
             "topics": [
               "forms",
               "html",
@@ -1151,8 +1151,8 @@
             "id": 16899445,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-29T21:29:26Z",
-            "open_issues": 7,
+            "last_commit": "2026-10-30T21:05:25Z",
+            "open_issues": 8,
             "owner": "marshmallow-code",
             "repo": "webargs",
             "stars": 1411,
@@ -2306,11 +2306,11 @@
                 "id": 9120498,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-29T23:08:17Z",
-                "open_issues": 555,
+                "last_commit": "2026-10-30T20:40:49Z",
+                "open_issues": 553,
                 "owner": "pypi",
                 "repo": "warehouse",
-                "stars": 4180,
+                "stars": 4181,
                 "topics": [
                   "package-registry",
                   "package-repository",
@@ -2436,7 +2436,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-30T01:30:11.133Z",
+    "last_updated": "2026-10-31T01:22:48.129Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Pyramid apps, projects and resources.",
