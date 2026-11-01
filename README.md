@@ -1,11 +1,11 @@
 # Awesome Pyramid with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 527,536 | 🐛 105 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 528,038 | 🐛 105 | 📅 2026-09-02
 [![IRC
 Freenode](https://img.shields.io/badge/irc-freenode-blue.svg)](https://webchat.freenode.net/?channels=pyramid)
 
 A curated list of awesome Pyramid apps, projects and resources. Inspired by and
-based on [awesome-python](https://github.com/vinta/awesome-python/) ⭐ 331,420 | 🐛 23 | 🌐 Python | 📅 2026-10-29.
+based on [awesome-python](https://github.com/vinta/awesome-python/) ⭐ 331,613 | 🐛 23 | 🌐 Python | 📅 2026-10-31.
 
 * [Awesome Pyramid](#awesome-pyramid)
   * [Admin Interface](#admin-interface)
@@ -200,7 +200,7 @@ based on [awesome-python](https://github.com/vinta/awesome-python/) ⭐ 331,420 
 * [colander](https://github.com/Pylons/colander) ⭐ 459 | 🐛 39 | 🌐 Python | 📅 2026-08-02 - A
   serialization/deserialization/validation library for strings, mappings and
   lists.
-* [deform](https://github.com/Pylons/deform) ⭐ 423 | 🐛 44 | 🌐 JavaScript | 📅 2026-09-16 - is a Python HTML form generation
+* [deform](https://github.com/Pylons/deform) ⭐ 423 | 🐛 44 | 🌐 JavaScript | 📅 2026-10-31 - is a Python HTML form generation
   library.
 * [ColanderAlchemy](https://github.com/stefanofontanelli/ColanderAlchemy) ⭐ 65 | 🐛 17 | 🌐 Python | 📅 2023-07-11 -
   helps you to auto-generate Colander schemas that are based on SQLAlchemy
@@ -216,7 +216,7 @@ based on [awesome-python](https://github.com/vinta/awesome-python/) ⭐ 331,420 
 
 *Packages for developing RESTful APIs.*
 
-* [webargs](https://github.com/sloria/webargs) ⭐ 1,411 | 🐛 8 | 🌐 Python | 📅 2026-10-30 - A friendly library for parsing
+* [webargs](https://github.com/sloria/webargs) ⭐ 1,411 | 🐛 7 | 🌐 Python | 📅 2026-10-31 - A friendly library for parsing
   HTTP request arguments, with built-in support for popular web frameworks.
 * [cornice](https://github.com/Cornices/cornice) ⭐ 389 | 🐛 56 | 🌐 Python | 📅 2026-10-12 - provides helpers to
   build & document REST-ish Web Services with Pyramid, with decent default
@@ -336,7 +336,7 @@ provide new storage backends.*
 
 ## Web frontend integration
 
-* [PyramidVue](https://github.com/eddyekofo94/pyramidVue) ⭐ 37 | 🐛 17 | 🌐 Python | 📅 2022-12-08 - Pyramid and VueJs (JavaScript) template with Hot-Module-Replacement starter template.
+* [PyramidVue](https://github.com/eddyekofo94/pyramidVue) - Pyramid and VueJs (JavaScript) template with Hot-Module-Replacement starter template.
 
 ## Workflows
 
@@ -344,7 +344,7 @@ provide new storage backends.*
 
 ## Other
 
-* [waitress](https://github.com/Pylons/waitress) ⭐ 1,602 | 🐛 31 | 🌐 Python | 📅 2026-09-27 - Waitress is meant to be a
+* [waitress](https://github.com/Pylons/waitress) ⭐ 1,602 | 🐛 30 | 🌐 Python | 📅 2026-09-27 - Waitress is meant to be a
   production-quality pure-Python WSGI server with very acceptable performance.
   It has no dependencies except ones which live in the Python standard library.
 * [paginate](https://github.com/Pylons/paginate) ⭐ 80 | 🐛 1 | 🌐 Python | 📅 2024-08-25 - Python pagination module.
@@ -376,7 +376,7 @@ provide new storage backends.*
 
 ## Framework
 
-* [cone.app](https://github.com/conestack/cone.app) ⭐ 10 | 🐛 9 | 🌐 Python | 📅 2026-10-24 - A comprehensive web application stub on top of Pyramid.
+* [cone.app](https://github.com/conestack/cone.app) ⭐ 10 | 🐛 9 | 🌐 Python | 📅 2026-10-31 - A comprehensive web application stub on top of Pyramid.
 * [Ringo](http://www.ringo-framework.org/) - Ringo is a Python based high level
   web application framework build on top of Pyramid. The framework can be used
   to build form based management or administration software.
@@ -417,7 +417,7 @@ provide new storage backends.*
 
 ## Other
 
-* [warehouse](https://github.com/pypa/warehouse) ⭐ 4,181 | 🐛 553 | 🌐 Python | 📅 2026-10-30 - Warehouse is a next
+* [warehouse](https://github.com/pypa/warehouse) ⭐ 4,182 | 🐛 553 | 🌐 Python | 📅 2026-10-30 - Warehouse is a next
   generation Python Package Repository designed to replace the legacy code base
   that currently powers PyPI.
 * [shootout](https://github.com/Pylons/shootout) ⭐ 105 | 🐛 1 | 🌐 Python | 📅 2013-10-03 - An example “idea
@@ -513,4 +513,4 @@ or neighboring rights to this work.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-31._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-01._
