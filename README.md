@@ -1,11 +1,11 @@
 # Awesome Pyramid with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 528,730 | 🐛 105 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 529,744 | 🐛 104 | 📅 2026-09-02
 [![IRC
 Freenode](https://img.shields.io/badge/irc-freenode-blue.svg)](https://webchat.freenode.net/?channels=pyramid)
 
 A curated list of awesome Pyramid apps, projects and resources. Inspired by and
-based on [awesome-python](https://github.com/vinta/awesome-python/) ⭐ 331,818 | 🐛 24 | 🌐 Python | 📅 2026-11-01.
+based on [awesome-python](https://github.com/vinta/awesome-python/) ⭐ 332,045 | 🐛 24 | 🌐 Python | 📅 2026-11-02.
 
 * [Awesome Pyramid](#awesome-pyramid)
   * [Admin Interface](#admin-interface)
@@ -96,9 +96,9 @@ based on [awesome-python](https://github.com/vinta/awesome-python/) ⭐ 331,818 
   [providers](https://github.com/omab/python-social-auth#auth-providers) ⭐ 2,801 | 🐛 24 | 🌐 Python | 📅 2022-07-01.
 * [Authomatic](https://github.com/authomatic/authomatic) ⭐ 1,054 | 🐛 65 | 🌐 Python | 📅 2025-12-12 -  Simple yet powerful
   authorization / authentication client library for Python web applications.
-* [velruse](https://github.com/bbangert/velruse) ⭐ 251 | 🐛 38 | 🌐 Python | 📅 2024-01-16 - Simplifying third-party
+* [velruse](https://github.com/bbangert/velruse) ⭐ 250 | 🐛 38 | 🌐 Python | 📅 2024-01-16 - Simplifying third-party
   authentication for web applications. it supports most of auth
-  [providers](https://github.com/bbangert/velruse/tree/master/velruse/providers) ⭐ 251 | 🐛 38 | 🌐 Python | 📅 2024-01-16.
+  [providers](https://github.com/bbangert/velruse/tree/master/velruse/providers) ⭐ 250 | 🐛 38 | 🌐 Python | 📅 2024-01-16.
 * [apex](https://github.com/cd34/apex) ⚠️ Archived - Toolkit for Pyramid, a Pylons Project,
   to add Authentication and Authorization using Velruse (OAuth) and/or a local
   database, CSRF, ReCaptcha, Sessions, Flash messages and I18N.
@@ -146,7 +146,7 @@ based on [awesome-python](https://github.com/vinta/awesome-python/) ⭐ 331,818 
 
 *Packages that help with caching and session.*
 
-* [pyramid\_beaker](https://github.com/Pylons/pyramid_beaker) ⭐ 49 | 🐛 12 | 🌐 Python | 📅 2024-04-05 - A Beaker session
+* [pyramid\_beaker](https://github.com/Pylons/pyramid_beaker) ⭐ 48 | 🐛 12 | 🌐 Python | 📅 2024-04-05 - A Beaker session
   factory backend for Pyramid, also cache configurator.
   * [Why You'll Want to Switch to
     dogpile.cache](http://techspot.zzzeek.org/2012/04/19/using-beaker-for-caching-why-you-ll-want-to-switch-to-dogpile.cache/)
@@ -165,10 +165,10 @@ based on [awesome-python](https://github.com/vinta/awesome-python/) ⭐ 331,818 
 
 *Packages that help hunt down bugs.*
 
-* [pyramid\_debugtoolbar](https://github.com/Pylons/pyramid_debugtoolbar) ⭐ 96 | 🐛 44 | 🌐 Python | 📅 2026-08-02 -
+* [pyramid\_debugtoolbar](https://github.com/Pylons/pyramid_debugtoolbar) ⭐ 95 | 🐛 44 | 🌐 Python | 📅 2026-08-02 -
   provides a debug toolbar useful while you're developing your Pyramid
   application.
-* [pyramid\_exclog](https://github.com/Pylons/pyramid_exclog) ⭐ 21 | 🐛 1 | 🌐 Python | 📅 2026-08-02 - a package which
+* [pyramid\_exclog](https://github.com/Pylons/pyramid_exclog) ⭐ 20 | 🐛 1 | 🌐 Python | 📅 2026-08-02 - a package which
   logs exceptions from Pyramid applications.
 * [pyramid\_ipython](https://github.com/Pylons/pyramid_ipython) ⭐ 8 | 🐛 0 | 🌐 Python | 📅 2017-04-11 - IPython
   bindings for Pyramid's pshell
@@ -182,7 +182,7 @@ based on [awesome-python](https://github.com/vinta/awesome-python/) ⭐ 331,818 
 
 *Packages that help manage email sending.*
 
-* [pyramid\_mailer](https://github.com/Pylons/pyramid_mailer) ⭐ 51 | 🐛 13 | 🌐 Python | 📅 2026-08-02 - A package for
+* [pyramid\_mailer](https://github.com/Pylons/pyramid_mailer) ⭐ 50 | 🐛 13 | 🌐 Python | 📅 2026-08-02 - A package for
   sending email from your Pyramid application.
 * [pyramid\_marrowmailer](https://github.com/domenkozar/pyramid_marrowmailer) ⭐ 5 | 🐛 1 | 🌐 Python | 📅 2020-03-30 -
   Pyramid integration package for marrow\.mailer, formerly known as TurboMail
@@ -192,15 +192,15 @@ based on [awesome-python](https://github.com/vinta/awesome-python/) ⭐ 331,818 
 
 *Packages that extend the functionality of forms or add new types of forms.*
 
-* [marshmallow](https://github.com/marshmallow-code/marshmallow) ⭐ 7,245 | 🐛 162 | 🌐 Python | 📅 2026-11-01 - A
+* [marshmallow](https://github.com/marshmallow-code/marshmallow) ⭐ 7,245 | 🐛 162 | 🌐 Python | 📅 2026-11-02 - A
   lightweight library for converting complex objects to and from simple Python
   datatypes (i.e. (de)serialization and validation).
 * [WTForms](https://github.com/wtforms/wtforms) ⭐ 1,583 | 🐛 24 | 🌐 Python | 📅 2026-11-01 - is a flexible forms
   validation and rendering library for python web development.
-* [colander](https://github.com/Pylons/colander) ⭐ 459 | 🐛 38 | 🌐 Python | 📅 2026-08-02 - A
+* [colander](https://github.com/Pylons/colander) ⭐ 458 | 🐛 38 | 🌐 Python | 📅 2026-08-02 - A
   serialization/deserialization/validation library for strings, mappings and
   lists.
-* [deform](https://github.com/Pylons/deform) ⭐ 423 | 🐛 44 | 🌐 JavaScript | 📅 2026-10-31 - is a Python HTML form generation
+* [deform](https://github.com/Pylons/deform) ⭐ 422 | 🐛 44 | 🌐 JavaScript | 📅 2026-10-31 - is a Python HTML form generation
   library.
 * [ColanderAlchemy](https://github.com/stefanofontanelli/ColanderAlchemy) ⭐ 65 | 🐛 17 | 🌐 Python | 📅 2023-07-11 -
   helps you to auto-generate Colander schemas that are based on SQLAlchemy
@@ -216,15 +216,15 @@ based on [awesome-python](https://github.com/vinta/awesome-python/) ⭐ 331,818 
 
 *Packages for developing RESTful APIs.*
 
-* [webargs](https://github.com/sloria/webargs) ⭐ 1,411 | 🐛 7 | 🌐 Python | 📅 2026-11-01 - A friendly library for parsing
+* [webargs](https://github.com/sloria/webargs) ⭐ 1,411 | 🐛 8 | 🌐 Python | 📅 2026-11-02 - A friendly library for parsing
   HTTP request arguments, with built-in support for popular web frameworks.
-* [cornice](https://github.com/Cornices/cornice) ⭐ 389 | 🐛 56 | 🌐 Python | 📅 2026-10-12 - provides helpers to
+* [cornice](https://github.com/Cornices/cornice) ⭐ 388 | 🐛 56 | 🌐 Python | 📅 2026-10-12 - provides helpers to
   build & document REST-ish Web Services with Pyramid, with decent default
   behaviors. It takes care of following the HTTP specification in an automated
   way where possible.
 * [ramses](https://github.com/ramses-tech/ramses) ⚠️ Archived - Generate a RESTful API using
   RAML. It uses Nefertari which provides ElasticSearch-powered views.
-* [pyramid-openapi3](https://github.com/niteoweb/pyramid_openapi3) ⭐ 84 | 🐛 19 | 🌐 Python | 📅 2026-11-01 - Validate Pyramid views against an OpenAPI 3.0 document. Similar to pyramid\_swagger but for OpenAPI 3.0.
+* [pyramid-openapi3](https://github.com/niteoweb/pyramid_openapi3) ⭐ 84 | 🐛 16 | 🌐 Python | 📅 2026-11-02 - Validate Pyramid views against an OpenAPI 3.0 document. Similar to pyramid\_swagger but for OpenAPI 3.0.
 * [cliquet](https://github.com/mozilla-services/cliquet) ⚠️ Archived - Cliquet is a toolkit
   to ease the implementation of HTTP microservices, such as data-driven REST
   APIs.
@@ -248,7 +248,7 @@ based on [awesome-python](https://github.com/vinta/awesome-python/) ⭐ 331,818 
 
 *Packages that provide search capabilities to projects.*
 
-* [hypatia](https://github.com/Pylons/hypatia) ⭐ 32 | 🐛 4 | 🌐 Python | 📅 2026-08-02 - A Python indexing and
+* [hypatia](https://github.com/Pylons/hypatia) ⭐ 31 | 🐛 4 | 🌐 Python | 📅 2026-08-02 - A Python indexing and
   searching system.
 
 ## Security
@@ -279,7 +279,7 @@ provide new storage backends.*
 
 * [pyramid\_mongodb](https://github.com/niallo/pyramid_mongodb) ⭐ 44 | 🐛 5 | 🌐 Python | 📅 2020-03-31 -
   Basic Pyramid Scaffold to easily use MongoDB for persistence with the Pyramid Web framework
-* [pyramid\_tm](https://github.com/Pylons/pyramid_tm) ⭐ 36 | 🐛 4 | 🌐 Python | 📅 2026-08-02 - Centralized transaction
+* [pyramid\_tm](https://github.com/Pylons/pyramid_tm) ⭐ 35 | 🐛 4 | 🌐 Python | 📅 2026-08-02 - Centralized transaction
   management for Pyramid applications (without middleware).
 * [zope.sqlalchemy](https://github.com/zopefoundation/zope.sqlalchemy) ⭐ 35 | 🐛 10 | 🌐 Python | 📅 2026-10-25 -
   Integration of SQLAlchemy with transaction management.
@@ -306,12 +306,12 @@ provide new storage backends.*
 
 ## Templates
 
-* [pyramid\_jinja2](https://github.com/Pylons/pyramid_jinja2) ⭐ 72 | 🐛 8 | 🌐 Python | 📅 2026-08-02 - Jinja2
+* [pyramid\_jinja2](https://github.com/Pylons/pyramid_jinja2) ⭐ 71 | 🐛 8 | 🌐 Python | 📅 2026-08-02 - Jinja2
   templating system bindings for the Pyramid web framework.
 * [Kajiki](https://github.com/nandoflorestan/kajiki) ⭐ 51 | 🐛 9 | 🌐 Python | 📅 2025-05-05 - provides fast well-formed XML templates, with [Pyramid integration](https://github.com/nandoflorestan/kajiki/blob/master/kajiki/integration/pyramid.py) ⭐ 51 | 🐛 9 | 🌐 Python | 📅 2025-05-05
-* [pyramid\_mako](https://github.com/Pylons/pyramid_mako) ⭐ 23 | 🐛 5 | 🌐 Python | 📅 2026-08-02 - Mako templating
+* [pyramid\_mako](https://github.com/Pylons/pyramid_mako) ⭐ 22 | 🐛 5 | 🌐 Python | 📅 2026-08-02 - Mako templating
   system bindings for the Pyramid web framework.
-* [pyramid\_chameleon](https://github.com/Pylons/pyramid_chameleon) ⭐ 9 | 🐛 9 | 🌐 Python | 📅 2026-08-02 - Chameleon
+* [pyramid\_chameleon](https://github.com/Pylons/pyramid_chameleon) ⭐ 8 | 🐛 9 | 🌐 Python | 📅 2026-08-02 - Chameleon
   template compiler for pyramid.
 * [Tonnikala](https://github.com/ztane/Tonnikala) ⭐ 1 | 🐛 0 | 🌐 Python | 📅 2015-07-22 - Python templating engine
   with Pyramid integration
@@ -320,7 +320,7 @@ provide new storage backends.*
 
 *Packages that help test code or generate test data.*
 
-* [webtest](https://github.com/Pylons/webtest) ⭐ 346 | 🐛 32 | 🌐 Python | 📅 2026-09-07 - Wraps any WSGI application and
+* [webtest](https://github.com/Pylons/webtest) ⭐ 345 | 🐛 32 | 🌐 Python | 📅 2026-09-07 - Wraps any WSGI application and
   makes it easy to send test requests to that application, without starting up
   an HTTP server.
 
@@ -344,7 +344,7 @@ provide new storage backends.*
 
 ## Other
 
-* [waitress](https://github.com/Pylons/waitress) ⭐ 1,602 | 🐛 30 | 🌐 Python | 📅 2026-09-27 - Waitress is meant to be a
+* [waitress](https://github.com/Pylons/waitress) ⭐ 1,600 | 🐛 30 | 🌐 Python | 📅 2026-09-27 - Waitress is meant to be a
   production-quality pure-Python WSGI server with very acceptable performance.
   It has no dependencies except ones which live in the Python standard library.
 * [paginate](https://github.com/Pylons/paginate) ⭐ 80 | 🐛 1 | 🌐 Python | 📅 2024-08-25 - Python pagination module.
@@ -417,7 +417,7 @@ provide new storage backends.*
 
 ## Other
 
-* [warehouse](https://github.com/pypa/warehouse) ⭐ 4,182 | 🐛 554 | 🌐 Python | 📅 2026-11-01 - Warehouse is a next
+* [warehouse](https://github.com/pypa/warehouse) ⭐ 4,182 | 🐛 554 | 🌐 Python | 📅 2026-11-03 - Warehouse is a next
   generation Python Package Repository designed to replace the legacy code base
   that currently powers PyPI.
 * [shootout](https://github.com/Pylons/shootout) ⭐ 105 | 🐛 1 | 🌐 Python | 📅 2013-10-03 - An example “idea
@@ -513,4 +513,4 @@ or neighboring rights to this work.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-03._

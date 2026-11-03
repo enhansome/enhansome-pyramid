@@ -319,7 +319,7 @@
             "open_issues": 38,
             "owner": "bbangert",
             "repo": "velruse",
-            "stars": 251,
+            "stars": 250,
             "topics": []
           },
           "first_seen": "2026-08-28T05:54:53.954Z"
@@ -656,7 +656,7 @@
             "open_issues": 12,
             "owner": "Pylons",
             "repo": "pyramid_beaker",
-            "stars": 49,
+            "stars": 48,
             "topics": []
           },
           "first_seen": "2026-08-28T05:54:53.954Z"
@@ -767,7 +767,7 @@
             "open_issues": 44,
             "owner": "Pylons",
             "repo": "pyramid_debugtoolbar",
-            "stars": 96,
+            "stars": 95,
             "topics": []
           },
           "first_seen": "2026-08-28T05:54:53.954Z"
@@ -788,7 +788,7 @@
             "open_issues": 1,
             "owner": "Pylons",
             "repo": "pyramid_exclog",
-            "stars": 21,
+            "stars": 20,
             "topics": []
           },
           "first_seen": "2026-08-28T05:54:53.954Z"
@@ -899,7 +899,7 @@
             "open_issues": 13,
             "owner": "Pylons",
             "repo": "pyramid_mailer",
-            "stars": 51,
+            "stars": 50,
             "topics": []
           },
           "first_seen": "2026-08-28T05:54:53.954Z"
@@ -964,7 +964,7 @@
             "id": 14284859,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-01T13:24:55Z",
+            "last_commit": "2026-11-02T21:53:05Z",
             "open_issues": 162,
             "owner": "marshmallow-code",
             "repo": "marshmallow",
@@ -1024,7 +1024,7 @@
             "open_issues": 38,
             "owner": "Pylons",
             "repo": "colander",
-            "stars": 459,
+            "stars": 458,
             "topics": [
               "deserialization",
               "forms",
@@ -1050,7 +1050,7 @@
             "open_issues": 44,
             "owner": "Pylons",
             "repo": "deform",
-            "stars": 423,
+            "stars": 422,
             "topics": [
               "bootstrap",
               "chameleon",
@@ -1151,8 +1151,8 @@
             "id": 16899445,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-01T13:25:32Z",
-            "open_issues": 7,
+            "last_commit": "2026-11-02T20:02:33Z",
+            "open_issues": 8,
             "owner": "marshmallow-code",
             "repo": "webargs",
             "stars": 1411,
@@ -1188,7 +1188,7 @@
             "open_issues": 56,
             "owner": "Cornices",
             "repo": "cornice",
-            "stars": 389,
+            "stars": 388,
             "topics": []
           },
           "first_seen": "2026-08-28T05:54:53.954Z"
@@ -1229,8 +1229,8 @@
             "id": 138299589,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-01T16:30:01Z",
-            "open_issues": 19,
+            "last_commit": "2026-11-02T20:41:00Z",
+            "open_issues": 16,
             "owner": "Pylons",
             "repo": "pyramid_openapi3",
             "stars": 84,
@@ -1423,7 +1423,7 @@
             "open_issues": 4,
             "owner": "Pylons",
             "repo": "hypatia",
-            "stars": 32,
+            "stars": 31,
             "topics": []
           },
           "first_seen": "2026-08-28T05:54:53.954Z"
@@ -1574,7 +1574,7 @@
             "open_issues": 4,
             "owner": "Pylons",
             "repo": "pyramid_tm",
-            "stars": 36,
+            "stars": 35,
             "topics": [
               "pyramid-framework",
               "python",
@@ -1771,7 +1771,7 @@
             "open_issues": 8,
             "owner": "Pylons",
             "repo": "pyramid_jinja2",
-            "stars": 72,
+            "stars": 71,
             "topics": []
           },
           "first_seen": "2026-08-28T05:54:53.954Z"
@@ -1818,7 +1818,7 @@
             "open_issues": 5,
             "owner": "Pylons",
             "repo": "pyramid_mako",
-            "stars": 23,
+            "stars": 22,
             "topics": []
           },
           "first_seen": "2026-08-28T05:54:53.954Z"
@@ -1839,7 +1839,7 @@
             "open_issues": 9,
             "owner": "Pylons",
             "repo": "pyramid_chameleon",
-            "stars": 9,
+            "stars": 8,
             "topics": []
           },
           "first_seen": "2026-08-28T05:54:53.954Z"
@@ -1935,7 +1935,7 @@
             "open_issues": 30,
             "owner": "Pylons",
             "repo": "waitress",
-            "stars": 1602,
+            "stars": 1600,
             "topics": [
               "http-server",
               "python",
@@ -2306,7 +2306,7 @@
                 "id": 9120498,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-01T07:01:28Z",
+                "last_commit": "2026-11-03T00:05:07Z",
                 "open_issues": 554,
                 "owner": "pypi",
                 "repo": "warehouse",
@@ -2436,7 +2436,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-02T01:11:37.784Z",
+    "last_updated": "2026-11-03T03:15:39.913Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Pyramid apps, projects and resources.",
