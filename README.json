@@ -964,11 +964,11 @@
             "id": 14284859,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-02T21:53:05Z",
-            "open_issues": 162,
+            "last_commit": "2026-11-04T00:08:21Z",
+            "open_issues": 161,
             "owner": "marshmallow-code",
             "repo": "marshmallow",
-            "stars": 7245,
+            "stars": 7244,
             "topics": [
               "deserialization",
               "marshalling",
@@ -1151,11 +1151,11 @@
             "id": 16899445,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-02T20:02:33Z",
-            "open_issues": 8,
+            "last_commit": "2026-11-04T01:20:18Z",
+            "open_issues": 11,
             "owner": "marshmallow-code",
             "repo": "webargs",
-            "stars": 1411,
+            "stars": 1410,
             "topics": [
               "aiohttp",
               "bottlepy",
@@ -1229,8 +1229,8 @@
             "id": 138299589,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-02T20:41:00Z",
-            "open_issues": 16,
+            "last_commit": "2026-11-03T23:53:07Z",
+            "open_issues": 17,
             "owner": "Pylons",
             "repo": "pyramid_openapi3",
             "stars": 84,
@@ -2212,7 +2212,7 @@
                 "open_issues": 51,
                 "owner": "Kotti",
                 "repo": "Kotti",
-                "stars": 410,
+                "stars": 409,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:54:53.954Z"
@@ -2306,11 +2306,11 @@
                 "id": 9120498,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-03T00:05:07Z",
-                "open_issues": 554,
+                "last_commit": "2026-11-03T16:41:21Z",
+                "open_issues": 561,
                 "owner": "pypi",
                 "repo": "warehouse",
-                "stars": 4182,
+                "stars": 4183,
                 "topics": [
                   "package-registry",
                   "package-repository",
@@ -2436,7 +2436,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-03T03:15:39.913Z",
+    "last_updated": "2026-11-04T01:50:14.186Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Pyramid apps, projects and resources.",
