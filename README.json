@@ -965,7 +965,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-11-04T00:08:21Z",
-            "open_issues": 161,
+            "open_issues": 163,
             "owner": "marshmallow-code",
             "repo": "marshmallow",
             "stars": 7244,
@@ -1151,7 +1151,7 @@
             "id": 16899445,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-04T01:20:18Z",
+            "last_commit": "2026-11-04T21:11:23Z",
             "open_issues": 11,
             "owner": "marshmallow-code",
             "repo": "webargs",
@@ -2306,11 +2306,11 @@
                 "id": 9120498,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-03T16:41:21Z",
-                "open_issues": 561,
+                "last_commit": "2026-11-04T21:37:52Z",
+                "open_issues": 560,
                 "owner": "pypi",
                 "repo": "warehouse",
-                "stars": 4183,
+                "stars": 4184,
                 "topics": [
                   "package-registry",
                   "package-repository",
@@ -2436,7 +2436,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-04T01:50:14.186Z",
+    "last_updated": "2026-11-05T01:57:35.934Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Pyramid apps, projects and resources.",
