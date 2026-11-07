@@ -1,11 +1,11 @@
 # Awesome Pyramid with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 531,793 | 🐛 103 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 532,535 | 🐛 103 | 📅 2026-09-02
 [![IRC
 Freenode](https://img.shields.io/badge/irc-freenode-blue.svg)](https://webchat.freenode.net/?channels=pyramid)
 
 A curated list of awesome Pyramid apps, projects and resources. Inspired by and
-based on [awesome-python](https://github.com/vinta/awesome-python/) ⭐ 332,777 | 🐛 20 | 🌐 Python | 📅 2026-11-05.
+based on [awesome-python](https://github.com/vinta/awesome-python/) ⭐ 333,020 | 🐛 19 | 🌐 Python | 📅 2026-11-06.
 
 * [Awesome Pyramid](#awesome-pyramid)
   * [Admin Interface](#admin-interface)
@@ -192,7 +192,7 @@ based on [awesome-python](https://github.com/vinta/awesome-python/) ⭐ 332,777 
 
 *Packages that extend the functionality of forms or add new types of forms.*
 
-* [marshmallow](https://github.com/marshmallow-code/marshmallow) ⭐ 7,243 | 🐛 164 | 🌐 Python | 📅 2026-11-04 - A
+* [marshmallow](https://github.com/marshmallow-code/marshmallow) ⭐ 7,243 | 🐛 165 | 🌐 Python | 📅 2026-11-04 - A
   lightweight library for converting complex objects to and from simple Python
   datatypes (i.e. (de)serialization and validation).
 * [WTForms](https://github.com/wtforms/wtforms) ⭐ 1,583 | 🐛 24 | 🌐 Python | 📅 2026-11-01 - is a flexible forms
@@ -208,7 +208,7 @@ based on [awesome-python](https://github.com/vinta/awesome-python/) ⭐ 332,777 
 
 ## Media-Management
 
-* [pyramid\_storage](https://github.com/danjac/pyramid_storage) ⭐ 17 | 🐛 5 | 🌐 Python | 📅 2026-06-09 - This is a package for handling file uploads in your Pyramid framework application.
+* [pyramid\_storage](https://github.com/danjac/pyramid_storage) ⭐ 16 | 🐛 5 | 🌐 Python | 📅 2026-06-09 - This is a package for handling file uploads in your Pyramid framework application.
 * [pyramid\_elfinder](https://github.com/uralbash/pyramid_elfinder) ⭐ 2 | 🐛 3 | 🌐 JavaScript | 📅 2020-03-14 - This is
   conector for elfinder file manager, written for pyramid framework.
 
@@ -216,9 +216,9 @@ based on [awesome-python](https://github.com/vinta/awesome-python/) ⭐ 332,777 
 
 *Packages for developing RESTful APIs.*
 
-* [webargs](https://github.com/sloria/webargs) ⭐ 1,410 | 🐛 9 | 🌐 Python | 📅 2026-11-05 - A friendly library for parsing
+* [webargs](https://github.com/sloria/webargs) ⭐ 1,410 | 🐛 10 | 🌐 Python | 📅 2026-11-05 - A friendly library for parsing
   HTTP request arguments, with built-in support for popular web frameworks.
-* [cornice](https://github.com/Cornices/cornice) ⭐ 388 | 🐛 56 | 🌐 Python | 📅 2026-10-12 - provides helpers to
+* [cornice](https://github.com/Cornices/cornice) ⭐ 387 | 🐛 56 | 🌐 Python | 📅 2026-10-12 - provides helpers to
   build & document REST-ish Web Services with Pyramid, with decent default
   behaviors. It takes care of following the HTTP specification in an automated
   way where possible.
@@ -417,7 +417,7 @@ provide new storage backends.*
 
 ## Other
 
-* [warehouse](https://github.com/pypa/warehouse) ⭐ 4,186 | 🐛 559 | 🌐 Python | 📅 2026-11-05 - Warehouse is a next
+* [warehouse](https://github.com/pypa/warehouse) ⭐ 4,186 | 🐛 553 | 🌐 Python | 📅 2026-11-06 - Warehouse is a next
   generation Python Package Repository designed to replace the legacy code base
   that currently powers PyPI.
 * [shootout](https://github.com/Pylons/shootout) ⭐ 105 | 🐛 1 | 🌐 Python | 📅 2013-10-03 - An example “idea
@@ -513,4 +513,4 @@ or neighboring rights to this work.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-07._

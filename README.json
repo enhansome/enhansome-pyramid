@@ -965,7 +965,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-11-04T00:08:21Z",
-            "open_issues": 164,
+            "open_issues": 165,
             "owner": "marshmallow-code",
             "repo": "marshmallow",
             "stars": 7243,
@@ -1107,7 +1107,7 @@
             "open_issues": 5,
             "owner": "danjac",
             "repo": "pyramid_storage",
-            "stars": 17,
+            "stars": 16,
             "topics": []
           },
           "first_seen": "2026-08-28T05:54:53.954Z"
@@ -1152,7 +1152,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-11-05T07:52:26Z",
-            "open_issues": 9,
+            "open_issues": 10,
             "owner": "marshmallow-code",
             "repo": "webargs",
             "stars": 1410,
@@ -1188,7 +1188,7 @@
             "open_issues": 56,
             "owner": "Cornices",
             "repo": "cornice",
-            "stars": 388,
+            "stars": 387,
             "topics": []
           },
           "first_seen": "2026-08-28T05:54:53.954Z"
@@ -2306,8 +2306,8 @@
                 "id": 9120498,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-05T21:00:05Z",
-                "open_issues": 559,
+                "last_commit": "2026-11-06T22:49:22Z",
+                "open_issues": 553,
                 "owner": "pypi",
                 "repo": "warehouse",
                 "stars": 4186,
@@ -2436,7 +2436,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-06T01:57:46.297Z",
+    "last_updated": "2026-11-07T01:31:59.459Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Pyramid apps, projects and resources.",
@@ -2448,7 +2448,7 @@
       "open_issues": 0,
       "owner": "uralbash",
       "repo": "awesome-pyramid",
-      "stars": 572,
+      "stars": 571,
       "topics": []
     },
     "original_repository_sha": "b27d8b3ca5d8d5e0a0b9237da79e5fdbb262d542",
