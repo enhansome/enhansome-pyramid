@@ -1,11 +1,11 @@
 # Awesome Pyramid with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 534,354 | 🐛 103 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 534,900 | 🐛 103 | 📅 2026-09-02
 [![IRC
 Freenode](https://img.shields.io/badge/irc-freenode-blue.svg)](https://webchat.freenode.net/?channels=pyramid)
 
 A curated list of awesome Pyramid apps, projects and resources. Inspired by and
-based on [awesome-python](https://github.com/vinta/awesome-python/) ⭐ 333,641 | 🐛 20 | 🌐 Python | 📅 2026-11-08.
+based on [awesome-python](https://github.com/vinta/awesome-python/) ⭐ 333,863 | 🐛 21 | 🌐 Python | 📅 2026-11-08.
 
 * [Awesome Pyramid](#awesome-pyramid)
   * [Admin Interface](#admin-interface)
@@ -130,7 +130,7 @@ based on [awesome-python](https://github.com/vinta/awesome-python/) ⭐ 333,641 
 
 *Packages related to authorization infrastructure and permissions.*
 
-* [ziggurat\_foundations](https://github.com/ergo/ziggurat_foundations) ⭐ 71 | 🐛 5 | 🌐 Python | 📅 2026-10-04 -
+* [ziggurat\_foundations](https://github.com/ergo/ziggurat_foundations) ⭐ 71 | 🐛 4 | 🌐 Python | 📅 2026-11-10 -
   Framework agnostic set of sqlalchemy classes that make building applications
   that require permissions an easy task.
 * [pyramid\_multiauth](https://github.com/mozilla-services/pyramid_multiauth) ⭐ 41 | 🐛 1 | 🌐 Python | 📅 2026-10-08 -
@@ -192,7 +192,7 @@ based on [awesome-python](https://github.com/vinta/awesome-python/) ⭐ 333,641 
 
 *Packages that extend the functionality of forms or add new types of forms.*
 
-* [marshmallow](https://github.com/marshmallow-code/marshmallow) ⭐ 7,242 | 🐛 167 | 🌐 Python | 📅 2026-11-04 - A
+* [marshmallow](https://github.com/marshmallow-code/marshmallow) ⭐ 7,243 | 🐛 169 | 🌐 Python | 📅 2026-11-04 - A
   lightweight library for converting complex objects to and from simple Python
   datatypes (i.e. (de)serialization and validation).
 * [WTForms](https://github.com/wtforms/wtforms) ⭐ 1,583 | 🐛 24 | 🌐 Python | 📅 2026-11-01 - is a flexible forms
@@ -200,7 +200,7 @@ based on [awesome-python](https://github.com/vinta/awesome-python/) ⭐ 333,641 
 * [colander](https://github.com/Pylons/colander) ⭐ 459 | 🐛 38 | 🌐 Python | 📅 2026-08-02 - A
   serialization/deserialization/validation library for strings, mappings and
   lists.
-* [deform](https://github.com/Pylons/deform) ⭐ 422 | 🐛 44 | 🌐 JavaScript | 📅 2026-10-31 - is a Python HTML form generation
+* [deform](https://github.com/Pylons/deform) ⭐ 423 | 🐛 44 | 🌐 JavaScript | 📅 2026-10-31 - is a Python HTML form generation
   library.
 * [ColanderAlchemy](https://github.com/stefanofontanelli/ColanderAlchemy) ⭐ 65 | 🐛 17 | 🌐 Python | 📅 2023-07-11 -
   helps you to auto-generate Colander schemas that are based on SQLAlchemy
@@ -216,7 +216,7 @@ based on [awesome-python](https://github.com/vinta/awesome-python/) ⭐ 333,641 
 
 *Packages for developing RESTful APIs.*
 
-* [webargs](https://github.com/sloria/webargs) ⭐ 1,410 | 🐛 10 | 🌐 Python | 📅 2026-11-08 - A friendly library for parsing
+* [webargs](https://github.com/sloria/webargs) ⭐ 1,410 | 🐛 9 | 🌐 Python | 📅 2026-11-08 - A friendly library for parsing
   HTTP request arguments, with built-in support for popular web frameworks.
 * [cornice](https://github.com/Cornices/cornice) ⭐ 387 | 🐛 56 | 🌐 Python | 📅 2026-10-12 - provides helpers to
   build & document REST-ish Web Services with Pyramid, with decent default
@@ -224,7 +224,7 @@ based on [awesome-python](https://github.com/vinta/awesome-python/) ⭐ 333,641 
   way where possible.
 * [ramses](https://github.com/ramses-tech/ramses) ⚠️ Archived - Generate a RESTful API using
   RAML. It uses Nefertari which provides ElasticSearch-powered views.
-* [pyramid-openapi3](https://github.com/niteoweb/pyramid_openapi3) ⭐ 84 | 🐛 17 | 🌐 Python | 📅 2026-11-03 - Validate Pyramid views against an OpenAPI 3.0 document. Similar to pyramid\_swagger but for OpenAPI 3.0.
+* [pyramid-openapi3](https://github.com/niteoweb/pyramid_openapi3) ⭐ 84 | 🐛 18 | 🌐 Python | 📅 2026-11-11 - Validate Pyramid views against an OpenAPI 3.0 document. Similar to pyramid\_swagger but for OpenAPI 3.0.
 * [cliquet](https://github.com/mozilla-services/cliquet) ⚠️ Archived - Cliquet is a toolkit
   to ease the implementation of HTTP microservices, such as data-driven REST
   APIs.
@@ -264,7 +264,7 @@ based on [awesome-python](https://github.com/vinta/awesome-python/) ⭐ 333,641 
 
 *Packages that help manage the configurability of projects.*
 
-* [hupper](https://github.com/Pylons/hupper) ⭐ 223 | 🐛 10 | 🌐 Python | 📅 2026-08-02 - A process monitor/reloader for developers
+* [hupper](https://github.com/Pylons/hupper) ⭐ 223 | 🐛 11 | 🌐 Python | 📅 2026-08-02 - A process monitor/reloader for developers
   that can watch files for changes and restart the process.
 * [pyramid\_services](https://github.com/mmerickel/pyramid_services) ⭐ 83 | 🐛 2 | 🌐 Python | 📅 2025-11-20 - defines a
   pattern and helper methods for accessing a pluggable service layer from
@@ -285,7 +285,7 @@ provide new storage backends.*
   Integration of SQLAlchemy with transaction management.
   * [What the Zope Transaction Manager Means To Me (and
     you)](https://metaclassical.com/what-the-zope-transaction-manager-means-to-me-and-you/)
-* [pyramid\_sqlalchemy](https://github.com/wichert/pyramid_sqlalchemy) ⭐ 26 | 🐛 3 | 🌐 Python | 📅 2020-03-31 -
+* [pyramid\_sqlalchemy](https://github.com/wichert/pyramid_sqlalchemy) ⭐ 27 | 🐛 3 | 🌐 Python | 📅 2020-03-31 -
   provides some basic glue to facilitate using SQLAlchemy with Pyramid.
 * [pyramid\_mongoengine](https://github.com/marioidival/pyramid_mongoengine) ⭐ 13 | 🐛 0 | 🌐 Python | 📅 2020-03-31 -
   pyramid-mongoengine package based on flask-mongoengine
@@ -344,7 +344,7 @@ provide new storage backends.*
 
 ## Other
 
-* [waitress](https://github.com/Pylons/waitress) ⭐ 1,599 | 🐛 29 | 🌐 Python | 📅 2026-09-27 - Waitress is meant to be a
+* [waitress](https://github.com/Pylons/waitress) ⭐ 1,599 | 🐛 30 | 🌐 Python | 📅 2026-09-27 - Waitress is meant to be a
   production-quality pure-Python WSGI server with very acceptable performance.
   It has no dependencies except ones which live in the Python standard library.
 * [paginate](https://github.com/Pylons/paginate) ⭐ 80 | 🐛 1 | 🌐 Python | 📅 2024-08-25 - Python pagination module.
@@ -383,7 +383,7 @@ provide new storage backends.*
 
 ## CMS
 
-* [Kotti](https://github.com/Kotti/Kotti) ⭐ 409 | 🐛 51 | 🌐 Python | 📅 2025-11-27 - A user-friendly, light-weight and
+* [Kotti](https://github.com/Kotti/Kotti) ⭐ 410 | 🐛 51 | 🌐 Python | 📅 2025-11-27 - A user-friendly, light-weight and
   extensible web content management system. Based on Pyramid and SQLAlchemy.
 * [substanced](https://github.com/Pylons/substanced) ⭐ 160 | 🐛 53 | 🌐 Python | 📅 2025-06-23 - An application server
   built upon the Pyramid web framework. It provides a user interface for
@@ -417,7 +417,7 @@ provide new storage backends.*
 
 ## Other
 
-* [warehouse](https://github.com/pypa/warehouse) ⭐ 4,186 | 🐛 554 | 🌐 Python | 📅 2026-11-09 - Warehouse is a next
+* [warehouse](https://github.com/pypa/warehouse) ⭐ 4,187 | 🐛 553 | 🌐 Python | 📅 2026-11-10 - Warehouse is a next
   generation Python Package Repository designed to replace the legacy code base
   that currently powers PyPI.
 * [shootout](https://github.com/Pylons/shootout) ⭐ 105 | 🐛 1 | 🌐 Python | 📅 2013-10-03 - An example “idea
@@ -513,4 +513,4 @@ or neighboring rights to this work.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-10._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-11._
