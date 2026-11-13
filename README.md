@@ -1,11 +1,11 @@
 # Awesome Pyramid with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 535,410 | 🐛 103 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 535,984 | 🐛 103 | 📅 2026-09-02
 [![IRC
 Freenode](https://img.shields.io/badge/irc-freenode-blue.svg)](https://webchat.freenode.net/?channels=pyramid)
 
 A curated list of awesome Pyramid apps, projects and resources. Inspired by and
-based on [awesome-python](https://github.com/vinta/awesome-python/) ⭐ 334,121 | 🐛 22 | 🌐 Python | 📅 2026-11-08.
+based on [awesome-python](https://github.com/vinta/awesome-python/) ⭐ 334,352 | 🐛 24 | 🌐 Python | 📅 2026-11-08.
 
 * [Awesome Pyramid](#awesome-pyramid)
   * [Admin Interface](#admin-interface)
@@ -173,7 +173,7 @@ based on [awesome-python](https://github.com/vinta/awesome-python/) ⭐ 334,121 
 * [pyramid\_ipython](https://github.com/Pylons/pyramid_ipython) ⭐ 8 | 🐛 0 | 🌐 Python | 📅 2017-04-11 - IPython
   bindings for Pyramid's pshell
 * [pyramid\_pycallgraph](https://github.com/disko/pyramid_pycallgraph) ⭐ 5 | 🐛 0 | 🌐 Python | 📅 2015-12-21 - Pyramid tween to generate a callgraph image for every request
-* [pyramid\_debugtoolbar\_dogpile](https://github.com/jvanasco/pyramid_debugtoolbar_dogpile) ⭐ 2 | 🐛 1 | 🌐 Python | 📅 2023-09-21 -
+* [pyramid\_debugtoolbar\_dogpile](https://github.com/jvanasco/pyramid_debugtoolbar_dogpile) ⭐ 2 | 🐛 1 | 🌐 Python | 📅 2026-11-13 -
   dogpile caching support for pyramid\_debugtoolbar
 * [pyramid\_bpython](https://github.com/Pylons/pyramid_bpython) ⭐ 0 | 🐛 0 | 🌐 Python | 📅 2017-04-11 - bpython
   bindings for Pyramid's pshell
@@ -192,7 +192,7 @@ based on [awesome-python](https://github.com/vinta/awesome-python/) ⭐ 334,121 
 
 *Packages that extend the functionality of forms or add new types of forms.*
 
-* [marshmallow](https://github.com/marshmallow-code/marshmallow) ⭐ 7,243 | 🐛 169 | 🌐 Python | 📅 2026-11-04 - A
+* [marshmallow](https://github.com/marshmallow-code/marshmallow) ⭐ 7,242 | 🐛 170 | 🌐 Python | 📅 2026-11-04 - A
   lightweight library for converting complex objects to and from simple Python
   datatypes (i.e. (de)serialization and validation).
 * [WTForms](https://github.com/wtforms/wtforms) ⭐ 1,583 | 🐛 24 | 🌐 Python | 📅 2026-11-01 - is a flexible forms
@@ -344,7 +344,7 @@ provide new storage backends.*
 
 ## Other
 
-* [waitress](https://github.com/Pylons/waitress) ⭐ 1,599 | 🐛 29 | 🌐 Python | 📅 2026-09-27 - Waitress is meant to be a
+* [waitress](https://github.com/Pylons/waitress) ⭐ 1,598 | 🐛 29 | 🌐 Python | 📅 2026-09-27 - Waitress is meant to be a
   production-quality pure-Python WSGI server with very acceptable performance.
   It has no dependencies except ones which live in the Python standard library.
 * [paginate](https://github.com/Pylons/paginate) ⭐ 80 | 🐛 1 | 🌐 Python | 📅 2024-08-25 - Python pagination module.
@@ -417,7 +417,7 @@ provide new storage backends.*
 
 ## Other
 
-* [warehouse](https://github.com/pypa/warehouse) ⭐ 4,188 | 🐛 557 | 🌐 Python | 📅 2026-11-11 - Warehouse is a next
+* [warehouse](https://github.com/pypa/warehouse) ⭐ 4,189 | 🐛 556 | 🌐 Python | 📅 2026-11-12 - Warehouse is a next
   generation Python Package Repository designed to replace the legacy code base
   that currently powers PyPI.
 * [shootout](https://github.com/Pylons/shootout) ⭐ 105 | 🐛 1 | 🌐 Python | 📅 2013-10-03 - An example “idea
@@ -513,4 +513,4 @@ or neighboring rights to this work.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-12._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-13._
