@@ -2307,10 +2307,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-11-13T21:53:47Z",
-                "open_issues": 556,
+                "open_issues": 558,
                 "owner": "pypi",
                 "repo": "warehouse",
-                "stars": 4190,
+                "stars": 4193,
                 "topics": [
                   "package-registry",
                   "package-repository",
@@ -2436,7 +2436,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T01:56:45.745Z",
+    "last_updated": "2026-11-15T01:28:58.816Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Pyramid apps, projects and resources.",
