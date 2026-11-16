@@ -1,11 +1,11 @@
 # Awesome Pyramid with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 536,967 | 🐛 104 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 537,524 | 🐛 104 | 📅 2026-09-02
 [![IRC
 Freenode](https://img.shields.io/badge/irc-freenode-blue.svg)](https://webchat.freenode.net/?channels=pyramid)
 
 A curated list of awesome Pyramid apps, projects and resources. Inspired by and
-based on [awesome-python](https://github.com/vinta/awesome-python/) ⭐ 334,788 | 🐛 23 | 🌐 Python | 📅 2026-11-14.
+based on [awesome-python](https://github.com/vinta/awesome-python/) ⭐ 335,031 | 🐛 24 | 🌐 Python | 📅 2026-11-14.
 
 * [Awesome Pyramid](#awesome-pyramid)
   * [Admin Interface](#admin-interface)
@@ -192,10 +192,10 @@ based on [awesome-python](https://github.com/vinta/awesome-python/) ⭐ 334,788 
 
 *Packages that extend the functionality of forms or add new types of forms.*
 
-* [marshmallow](https://github.com/marshmallow-code/marshmallow) ⭐ 7,242 | 🐛 171 | 🌐 Python | 📅 2026-11-13 - A
+* [marshmallow](https://github.com/marshmallow-code/marshmallow) ⭐ 7,243 | 🐛 171 | 🌐 Python | 📅 2026-11-13 - A
   lightweight library for converting complex objects to and from simple Python
   datatypes (i.e. (de)serialization and validation).
-* [WTForms](https://github.com/wtforms/wtforms) ⭐ 1,583 | 🐛 24 | 🌐 Python | 📅 2026-11-01 - is a flexible forms
+* [WTForms](https://github.com/wtforms/wtforms) ⭐ 1,584 | 🐛 24 | 🌐 Python | 📅 2026-11-01 - is a flexible forms
   validation and rendering library for python web development.
 * [colander](https://github.com/Pylons/colander) ⭐ 459 | 🐛 38 | 🌐 Python | 📅 2026-08-02 - A
   serialization/deserialization/validation library for strings, mappings and
@@ -216,7 +216,7 @@ based on [awesome-python](https://github.com/vinta/awesome-python/) ⭐ 334,788 
 
 *Packages for developing RESTful APIs.*
 
-* [webargs](https://github.com/sloria/webargs) ⭐ 1,410 | 🐛 10 | 🌐 Python | 📅 2026-11-13 - A friendly library for parsing
+* [webargs](https://github.com/sloria/webargs) ⭐ 1,411 | 🐛 13 | 🌐 Python | 📅 2026-11-13 - A friendly library for parsing
   HTTP request arguments, with built-in support for popular web frameworks.
 * [cornice](https://github.com/Cornices/cornice) ⭐ 387 | 🐛 56 | 🌐 Python | 📅 2026-10-12 - provides helpers to
   build & document REST-ish Web Services with Pyramid, with decent default
@@ -264,7 +264,7 @@ based on [awesome-python](https://github.com/vinta/awesome-python/) ⭐ 334,788 
 
 *Packages that help manage the configurability of projects.*
 
-* [hupper](https://github.com/Pylons/hupper) ⭐ 223 | 🐛 10 | 🌐 Python | 📅 2026-08-02 - A process monitor/reloader for developers
+* [hupper](https://github.com/Pylons/hupper) ⭐ 224 | 🐛 10 | 🌐 Python | 📅 2026-08-02 - A process monitor/reloader for developers
   that can watch files for changes and restart the process.
 * [pyramid\_services](https://github.com/mmerickel/pyramid_services) ⭐ 83 | 🐛 2 | 🌐 Python | 📅 2025-11-20 - defines a
   pattern and helper methods for accessing a pluggable service layer from
@@ -289,7 +289,7 @@ provide new storage backends.*
   provides some basic glue to facilitate using SQLAlchemy with Pyramid.
 * [pyramid\_mongoengine](https://github.com/marioidival/pyramid_mongoengine) ⭐ 13 | 🐛 0 | 🌐 Python | 📅 2020-03-31 -
   pyramid-mongoengine package based on flask-mongoengine
-* [pyramid-excel](https://github.com/pyexcel-webwares/pyramid-excel) ⭐ 8 | 🐛 0 | 🌐 Python | 📅 2024-11-23 - pyramid-excel is based on [pyexcel](https://github.com/pyexcel/pyexcel) ⭐ 1,294 | 🐛 14 | 🌐 Python | 📅 2026-09-13 and makes it easy to consume/produce information stored in excel files over HTTP protocol as well as on file system. This library can turn the excel data into a list of lists, a list of records(dictionaries), dictionaries of lists. And vice versa. Hence it lets you focus on data in Pyramid based web development, instead of file formats.
+* [pyramid-excel](https://github.com/pyexcel-webwares/pyramid-excel) ⭐ 8 | 🐛 0 | 🌐 Python | 📅 2024-11-23 - pyramid-excel is based on [pyexcel](https://github.com/pyexcel/pyexcel) ⭐ 1,295 | 🐛 14 | 🌐 Python | 📅 2026-09-13 and makes it easy to consume/produce information stored in excel files over HTTP protocol as well as on file system. This library can turn the excel data into a list of lists, a list of records(dictionaries), dictionaries of lists. And vice versa. Hence it lets you focus on data in Pyramid based web development, instead of file formats.
 * [pyramid\_zodbconn](https://github.com/Pylons/pyramid_zodbconn) ⭐ 4 | 🐛 1 | 🌐 Python | 📅 2020-04-01 - ZODB
   Database connection management for Pyramid.
 
@@ -344,7 +344,7 @@ provide new storage backends.*
 
 ## Other
 
-* [waitress](https://github.com/Pylons/waitress) ⭐ 1,598 | 🐛 29 | 🌐 Python | 📅 2026-09-27 - Waitress is meant to be a
+* [waitress](https://github.com/Pylons/waitress) ⭐ 1,599 | 🐛 29 | 🌐 Python | 📅 2026-09-27 - Waitress is meant to be a
   production-quality pure-Python WSGI server with very acceptable performance.
   It has no dependencies except ones which live in the Python standard library.
 * [paginate](https://github.com/Pylons/paginate) ⭐ 80 | 🐛 1 | 🌐 Python | 📅 2024-08-25 - Python pagination module.
@@ -417,7 +417,7 @@ provide new storage backends.*
 
 ## Other
 
-* [warehouse](https://github.com/pypa/warehouse) ⭐ 4,193 | 🐛 558 | 🌐 Python | 📅 2026-11-13 - Warehouse is a next
+* [warehouse](https://github.com/pypa/warehouse) ⭐ 4,194 | 🐛 559 | 🌐 Python | 📅 2026-11-15 - Warehouse is a next
   generation Python Package Repository designed to replace the legacy code base
   that currently powers PyPI.
 * [shootout](https://github.com/Pylons/shootout) ⭐ 105 | 🐛 1 | 🌐 Python | 📅 2013-10-03 - An example “idea
@@ -513,4 +513,4 @@ or neighboring rights to this work.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-16._
