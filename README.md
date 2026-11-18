@@ -1,11 +1,11 @@
 # Awesome Pyramid with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 538,075 | 🐛 104 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 538,602 | 🐛 104 | 📅 2026-09-02
 [![IRC
 Freenode](https://img.shields.io/badge/irc-freenode-blue.svg)](https://webchat.freenode.net/?channels=pyramid)
 
 A curated list of awesome Pyramid apps, projects and resources. Inspired by and
-based on [awesome-python](https://github.com/vinta/awesome-python/) ⭐ 335,287 | 🐛 20 | 🌐 Python | 📅 2026-11-17.
+based on [awesome-python](https://github.com/vinta/awesome-python/) ⭐ 335,511 | 🐛 19 | 🌐 Python | 📅 2026-11-17.
 
 * [Awesome Pyramid](#awesome-pyramid)
   * [Admin Interface](#admin-interface)
@@ -192,7 +192,7 @@ based on [awesome-python](https://github.com/vinta/awesome-python/) ⭐ 335,287 
 
 *Packages that extend the functionality of forms or add new types of forms.*
 
-* [marshmallow](https://github.com/marshmallow-code/marshmallow) ⭐ 7,243 | 🐛 175 | 🌐 Python | 📅 2026-11-17 - A
+* [marshmallow](https://github.com/marshmallow-code/marshmallow) ⭐ 7,243 | 🐛 171 | 🌐 Python | 📅 2026-11-18 - A
   lightweight library for converting complex objects to and from simple Python
   datatypes (i.e. (de)serialization and validation).
 * [WTForms](https://github.com/wtforms/wtforms) ⭐ 1,584 | 🐛 24 | 🌐 Python | 📅 2026-11-01 - is a flexible forms
@@ -218,7 +218,7 @@ based on [awesome-python](https://github.com/vinta/awesome-python/) ⭐ 335,287 
 
 * [webargs](https://github.com/sloria/webargs) ⭐ 1,411 | 🐛 13 | 🌐 Python | 📅 2026-11-17 - A friendly library for parsing
   HTTP request arguments, with built-in support for popular web frameworks.
-* [cornice](https://github.com/Cornices/cornice) ⭐ 387 | 🐛 56 | 🌐 Python | 📅 2026-10-12 - provides helpers to
+* [cornice](https://github.com/Cornices/cornice) ⭐ 387 | 🐛 57 | 🌐 Python | 📅 2026-10-12 - provides helpers to
   build & document REST-ish Web Services with Pyramid, with decent default
   behaviors. It takes care of following the HTTP specification in an automated
   way where possible.
@@ -281,7 +281,7 @@ provide new storage backends.*
   Basic Pyramid Scaffold to easily use MongoDB for persistence with the Pyramid Web framework
 * [pyramid\_tm](https://github.com/Pylons/pyramid_tm) ⭐ 35 | 🐛 4 | 🌐 Python | 📅 2026-08-02 - Centralized transaction
   management for Pyramid applications (without middleware).
-* [zope.sqlalchemy](https://github.com/zopefoundation/zope.sqlalchemy) ⭐ 35 | 🐛 9 | 🌐 Python | 📅 2026-11-16 -
+* [zope.sqlalchemy](https://github.com/zopefoundation/zope.sqlalchemy) ⭐ 35 | 🐛 10 | 🌐 Python | 📅 2026-11-17 -
   Integration of SQLAlchemy with transaction management.
   * [What the Zope Transaction Manager Means To Me (and
     you)](https://metaclassical.com/what-the-zope-transaction-manager-means-to-me-and-you/)
@@ -289,7 +289,7 @@ provide new storage backends.*
   provides some basic glue to facilitate using SQLAlchemy with Pyramid.
 * [pyramid\_mongoengine](https://github.com/marioidival/pyramid_mongoengine) ⭐ 13 | 🐛 0 | 🌐 Python | 📅 2020-03-31 -
   pyramid-mongoengine package based on flask-mongoengine
-* [pyramid-excel](https://github.com/pyexcel-webwares/pyramid-excel) ⭐ 8 | 🐛 0 | 🌐 Python | 📅 2024-11-23 - pyramid-excel is based on [pyexcel](https://github.com/pyexcel/pyexcel) ⭐ 1,295 | 🐛 14 | 🌐 Python | 📅 2026-09-13 and makes it easy to consume/produce information stored in excel files over HTTP protocol as well as on file system. This library can turn the excel data into a list of lists, a list of records(dictionaries), dictionaries of lists. And vice versa. Hence it lets you focus on data in Pyramid based web development, instead of file formats.
+* [pyramid-excel](https://github.com/pyexcel-webwares/pyramid-excel) ⭐ 8 | 🐛 0 | 🌐 Python | 📅 2024-11-23 - pyramid-excel is based on [pyexcel](https://github.com/pyexcel/pyexcel) ⭐ 1,294 | 🐛 14 | 🌐 Python | 📅 2026-09-13 and makes it easy to consume/produce information stored in excel files over HTTP protocol as well as on file system. This library can turn the excel data into a list of lists, a list of records(dictionaries), dictionaries of lists. And vice versa. Hence it lets you focus on data in Pyramid based web development, instead of file formats.
 * [pyramid\_zodbconn](https://github.com/Pylons/pyramid_zodbconn) ⭐ 4 | 🐛 1 | 🌐 Python | 📅 2020-04-01 - ZODB
   Database connection management for Pyramid.
 
@@ -376,7 +376,7 @@ provide new storage backends.*
 
 ## Framework
 
-* [cone.app](https://github.com/conestack/cone.app) ⭐ 10 | 🐛 9 | 🌐 Python | 📅 2026-11-09 - A comprehensive web application stub on top of Pyramid.
+* [cone.app](https://github.com/conestack/cone.app) ⭐ 10 | 🐛 9 | 🌐 Python | 📅 2026-11-17 - A comprehensive web application stub on top of Pyramid.
 * [Ringo](http://www.ringo-framework.org/) - Ringo is a Python based high level
   web application framework build on top of Pyramid. The framework can be used
   to build form based management or administration software.
@@ -417,7 +417,7 @@ provide new storage backends.*
 
 ## Other
 
-* [warehouse](https://github.com/pypa/warehouse) ⭐ 4,195 | 🐛 558 | 🌐 Python | 📅 2026-11-16 - Warehouse is a next
+* [warehouse](https://github.com/pypa/warehouse) ⭐ 4,195 | 🐛 559 | 🌐 Python | 📅 2026-11-17 - Warehouse is a next
   generation Python Package Repository designed to replace the legacy code base
   that currently powers PyPI.
 * [shootout](https://github.com/Pylons/shootout) ⭐ 105 | 🐛 1 | 🌐 Python | 📅 2013-10-03 - An example “idea
@@ -513,4 +513,4 @@ or neighboring rights to this work.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-18._
