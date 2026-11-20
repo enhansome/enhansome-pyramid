@@ -270,7 +270,7 @@
             "open_issues": 24,
             "owner": "omab",
             "repo": "python-social-auth",
-            "stars": 2800,
+            "stars": 2799,
             "topics": []
           },
           "first_seen": "2026-08-28T05:54:53.954Z"
@@ -291,7 +291,7 @@
             "open_issues": 65,
             "owner": "authomatic",
             "repo": "authomatic",
-            "stars": 1054,
+            "stars": 1053,
             "topics": [
               "authentication",
               "authorization",
@@ -965,10 +965,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-11-18T20:09:44Z",
-            "open_issues": 169,
+            "open_issues": 165,
             "owner": "marshmallow-code",
             "repo": "marshmallow",
-            "stars": 7243,
+            "stars": 7242,
             "topics": [
               "deserialization",
               "marshalling",
@@ -997,7 +997,7 @@
             "open_issues": 24,
             "owner": "pallets-eco",
             "repo": "wtforms",
-            "stars": 1584,
+            "stars": 1583,
             "topics": [
               "forms",
               "html",
@@ -1024,7 +1024,7 @@
             "open_issues": 38,
             "owner": "Pylons",
             "repo": "colander",
-            "stars": 459,
+            "stars": 458,
             "topics": [
               "deserialization",
               "forms",
@@ -1050,7 +1050,7 @@
             "open_issues": 44,
             "owner": "Pylons",
             "repo": "deform",
-            "stars": 423,
+            "stars": 422,
             "topics": [
               "bootstrap",
               "chameleon",
@@ -1151,11 +1151,11 @@
             "id": 16899445,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-17T06:19:25Z",
+            "last_commit": "2026-11-20T02:37:42Z",
             "open_issues": 13,
             "owner": "marshmallow-code",
             "repo": "webargs",
-            "stars": 1411,
+            "stars": 1410,
             "topics": [
               "aiohttp",
               "bottlepy",
@@ -1209,7 +1209,7 @@
             "open_issues": 13,
             "owner": "ramses-tech",
             "repo": "ramses",
-            "stars": 303,
+            "stars": 302,
             "topics": [
               "pyramid",
               "python"
@@ -1595,7 +1595,7 @@
             "id": 7895139,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-18T16:44:17Z",
+            "last_commit": "2026-11-19T08:02:37Z",
             "open_issues": 8,
             "owner": "zopefoundation",
             "repo": "zope.sqlalchemy",
@@ -1935,7 +1935,7 @@
             "open_issues": 29,
             "owner": "Pylons",
             "repo": "waitress",
-            "stars": 1599,
+            "stars": 1598,
             "topics": [
               "http-server",
               "python",
@@ -2212,7 +2212,7 @@
                 "open_issues": 51,
                 "owner": "Kotti",
                 "repo": "Kotti",
-                "stars": 410,
+                "stars": 409,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:54:53.954Z"
@@ -2306,11 +2306,11 @@
                 "id": 9120498,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-18T23:10:29Z",
+                "last_commit": "2026-11-19T21:32:35Z",
                 "open_issues": 562,
                 "owner": "pypi",
                 "repo": "warehouse",
-                "stars": 4198,
+                "stars": 4197,
                 "topics": [
                   "package-registry",
                   "package-repository",
@@ -2436,7 +2436,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T02:54:54.670Z",
+    "last_updated": "2026-11-20T02:48:05.379Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Pyramid apps, projects and resources.",
