@@ -488,7 +488,7 @@
           "repo_info": {
             "archived": false,
             "description": "LDAP authentication policy for Pyramid",
-            "homepage": null,
+            "homepage": "https://docs.pylonsproject.org/projects/pyramid_ldap/en/latest/",
             "id": 3875401,
             "language": "Python",
             "license": "NOASSERTION",
@@ -690,7 +690,7 @@
           "repo_info": {
             "archived": false,
             "description": "Encrypting, pickle-based cookie serializer using PyNaCl",
-            "homepage": "https://docs.pylonsproject.org/projects/pyramid-nacl-session/en/latest/",
+            "homepage": "https://docs.pylonsproject.org/projects/pyramid_nacl_session/en/latest/",
             "id": 46366766,
             "language": "Python",
             "license": "NOASSERTION",
@@ -780,11 +780,11 @@
           "repo_info": {
             "archived": false,
             "description": "Exception logging tween for Pyramid",
-            "homepage": "https://docs.pylonsproject.org/projects/pyramid-exclog/en/latest/",
+            "homepage": "https://docs.pylonsproject.org/projects/pyramid_exclog/en/latest/",
             "id": 2195991,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-20T07:19:32Z",
+            "last_commit": "2026-11-22T06:38:04Z",
             "open_issues": 0,
             "owner": "Pylons",
             "repo": "pyramid_exclog",
@@ -891,7 +891,7 @@
           "repo_info": {
             "archived": false,
             "description": "A package for sending email from your Pyramid application",
-            "homepage": "https://docs.pylonsproject.org/projects/pyramid-mailer/en/latest/",
+            "homepage": "https://docs.pylonsproject.org/projects/pyramid_mailer/en/latest/",
             "id": 2457443,
             "language": "Python",
             "license": "NOASSERTION",
@@ -1155,7 +1155,7 @@
             "open_issues": 14,
             "owner": "marshmallow-code",
             "repo": "webargs",
-            "stars": 1409,
+            "stars": 1410,
             "topics": [
               "aiohttp",
               "bottlepy",
@@ -1566,12 +1566,12 @@
           "repo_info": {
             "archived": false,
             "description": "Centralized transaction management for Pyramid applications (without middleware)",
-            "homepage": "https://docs.pylonsproject.org/projects/pyramid-tm/en/latest/",
+            "homepage": "https://docs.pylonsproject.org/projects/pyramid_tm/en/latest/",
             "id": 1394730,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-21T21:42:58Z",
-            "open_issues": 1,
+            "last_commit": "2026-11-22T06:43:11Z",
+            "open_issues": 0,
             "owner": "Pylons",
             "repo": "pyramid_tm",
             "stars": 35,
@@ -1688,7 +1688,7 @@
           "repo_info": {
             "archived": false,
             "description": "ZODB/Pyramid integration package",
-            "homepage": null,
+            "homepage": "https://docs.pylonsproject.org/projects/pyramid_zodbconn/en/latest/",
             "id": 2207511,
             "language": "Python",
             "license": "NOASSERTION",
@@ -1763,7 +1763,7 @@
           "repo_info": {
             "archived": false,
             "description": "Jinja2 templating system bindings for the Pyramid web framework",
-            "homepage": "https://docs.pylonsproject.org/projects/pyramid-jinja2/en/latest/",
+            "homepage": "https://docs.pylonsproject.org/projects/pyramid_jinja2/en/latest/",
             "id": 1039711,
             "language": "Python",
             "license": "NOASSERTION",
@@ -1810,7 +1810,7 @@
           "repo_info": {
             "archived": false,
             "description": "Mako templating system bindings for the Pyramid web framework",
-            "homepage": "https://docs.pylonsproject.org/projects/pyramid-mako/en/latest/",
+            "homepage": "https://docs.pylonsproject.org/projects/pyramid_mako/en/latest/",
             "id": 3703169,
             "language": "Python",
             "license": "NOASSERTION",
@@ -1973,7 +1973,7 @@
           "repo_info": {
             "archived": false,
             "description": "RPC plugins for pyramid. XML-RPC, JSON-RPC, etc.",
-            "homepage": "https://docs.pylonsproject.org/projects/pyramid-rpc/en/latest/",
+            "homepage": "https://docs.pylonsproject.org/projects/pyramid_rpc/en/latest/",
             "id": 1052886,
             "language": "Python",
             "license": "NOASSERTION",
@@ -2084,7 +2084,7 @@
           "repo_info": {
             "archived": false,
             "description": "An execution policy for pyramid that handles retryable errors.",
-            "homepage": "https://docs.pylonsproject.org/projects/pyramid-retry/en/latest/",
+            "homepage": "https://docs.pylonsproject.org/projects/pyramid_retry/en/latest/",
             "id": 83520970,
             "language": "Python",
             "license": "MIT",
@@ -2307,10 +2307,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-11-22T00:18:26Z",
-                "open_issues": 568,
+                "open_issues": 569,
                 "owner": "pypi",
                 "repo": "warehouse",
-                "stars": 4199,
+                "stars": 4202,
                 "topics": [
                   "package-registry",
                   "package-repository",
@@ -2436,7 +2436,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-22T01:51:47.105Z",
+    "last_updated": "2026-11-23T02:08:20.413Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Pyramid apps, projects and resources.",

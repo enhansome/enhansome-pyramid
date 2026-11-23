@@ -1,11 +1,11 @@
 # Awesome Pyramid with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 540,551 | 🐛 103 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 541,140 | 🐛 103 | 📅 2026-09-02
 [![IRC
 Freenode](https://img.shields.io/badge/irc-freenode-blue.svg)](https://webchat.freenode.net/?channels=pyramid)
 
 A curated list of awesome Pyramid apps, projects and resources. Inspired by and
-based on [awesome-python](https://github.com/vinta/awesome-python/) ⭐ 336,286 | 🐛 22 | 🌐 Python | 📅 2026-11-17.
+based on [awesome-python](https://github.com/vinta/awesome-python/) ⭐ 336,497 | 🐛 22 | 🌐 Python | 📅 2026-11-17.
 
 * [Awesome Pyramid](#awesome-pyramid)
   * [Admin Interface](#admin-interface)
@@ -168,7 +168,7 @@ based on [awesome-python](https://github.com/vinta/awesome-python/) ⭐ 336,286 
 * [pyramid\_debugtoolbar](https://github.com/Pylons/pyramid_debugtoolbar) ⭐ 95 | 🐛 44 | 🌐 Python | 📅 2026-08-02 -
   provides a debug toolbar useful while you're developing your Pyramid
   application.
-* [pyramid\_exclog](https://github.com/Pylons/pyramid_exclog) ⭐ 20 | 🐛 0 | 🌐 Python | 📅 2026-11-20 - a package which
+* [pyramid\_exclog](https://github.com/Pylons/pyramid_exclog) ⭐ 20 | 🐛 0 | 🌐 Python | 📅 2026-11-22 - a package which
   logs exceptions from Pyramid applications.
 * [pyramid\_ipython](https://github.com/Pylons/pyramid_ipython) ⭐ 8 | 🐛 0 | 🌐 Python | 📅 2017-04-11 - IPython
   bindings for Pyramid's pshell
@@ -216,7 +216,7 @@ based on [awesome-python](https://github.com/vinta/awesome-python/) ⭐ 336,286 
 
 *Packages for developing RESTful APIs.*
 
-* [webargs](https://github.com/sloria/webargs) ⭐ 1,409 | 🐛 14 | 🌐 Python | 📅 2026-11-21 - A friendly library for parsing
+* [webargs](https://github.com/sloria/webargs) ⭐ 1,410 | 🐛 14 | 🌐 Python | 📅 2026-11-21 - A friendly library for parsing
   HTTP request arguments, with built-in support for popular web frameworks.
 * [cornice](https://github.com/Cornices/cornice) ⭐ 387 | 🐛 57 | 🌐 Python | 📅 2026-10-12 - provides helpers to
   build & document REST-ish Web Services with Pyramid, with decent default
@@ -279,7 +279,7 @@ provide new storage backends.*
 
 * [pyramid\_mongodb](https://github.com/niallo/pyramid_mongodb) ⭐ 44 | 🐛 5 | 🌐 Python | 📅 2020-03-31 -
   Basic Pyramid Scaffold to easily use MongoDB for persistence with the Pyramid Web framework
-* [pyramid\_tm](https://github.com/Pylons/pyramid_tm) ⭐ 35 | 🐛 1 | 🌐 Python | 📅 2026-11-21 - Centralized transaction
+* [pyramid\_tm](https://github.com/Pylons/pyramid_tm) ⭐ 35 | 🐛 0 | 🌐 Python | 📅 2026-11-22 - Centralized transaction
   management for Pyramid applications (without middleware).
 * [zope.sqlalchemy](https://github.com/zopefoundation/zope.sqlalchemy) ⭐ 35 | 🐛 8 | 🌐 Python | 📅 2026-11-19 -
   Integration of SQLAlchemy with transaction management.
@@ -417,7 +417,7 @@ provide new storage backends.*
 
 ## Other
 
-* [warehouse](https://github.com/pypa/warehouse) ⭐ 4,199 | 🐛 568 | 🌐 Python | 📅 2026-11-22 - Warehouse is a next
+* [warehouse](https://github.com/pypa/warehouse) ⭐ 4,202 | 🐛 569 | 🌐 Python | 📅 2026-11-22 - Warehouse is a next
   generation Python Package Repository designed to replace the legacy code base
   that currently powers PyPI.
 * [shootout](https://github.com/Pylons/shootout) ⭐ 105 | 🐛 1 | 🌐 Python | 📅 2013-10-03 - An example “idea
@@ -513,4 +513,4 @@ or neighboring rights to this work.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-23._
