@@ -1,11 +1,11 @@
 # Awesome Pyramid with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 543,513 | 🐛 103 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 544,006 | 🐛 103 | 📅 2026-09-02
 [![IRC
 Freenode](https://img.shields.io/badge/irc-freenode-blue.svg)](https://webchat.freenode.net/?channels=pyramid)
 
 A curated list of awesome Pyramid apps, projects and resources. Inspired by and
-based on [awesome-python](https://github.com/vinta/awesome-python/) ⭐ 337,383 | 🐛 26 | 🌐 Python | 📅 2026-11-17.
+based on [awesome-python](https://github.com/vinta/awesome-python/) ⭐ 337,589 | 🐛 19 | 🌐 Python | 📅 2026-11-28.
 
 * [Awesome Pyramid](#awesome-pyramid)
   * [Admin Interface](#admin-interface)
@@ -165,10 +165,10 @@ based on [awesome-python](https://github.com/vinta/awesome-python/) ⭐ 337,383 
 
 *Packages that help hunt down bugs.*
 
-* [pyramid\_debugtoolbar](https://github.com/Pylons/pyramid_debugtoolbar) ⭐ 95 | 🐛 40 | 🌐 Python | 📅 2026-11-25 -
+* [pyramid\_debugtoolbar](https://github.com/Pylons/pyramid_debugtoolbar) ⭐ 95 | 🐛 40 | 🌐 Python | 📅 2026-11-27 -
   provides a debug toolbar useful while you're developing your Pyramid
   application.
-* [pyramid\_exclog](https://github.com/Pylons/pyramid_exclog) ⭐ 20 | 🐛 1 | 🌐 Python | 📅 2026-11-26 - a package which
+* [pyramid\_exclog](https://github.com/Pylons/pyramid_exclog) ⭐ 20 | 🐛 1 | 🌐 Python | 📅 2026-11-27 - a package which
   logs exceptions from Pyramid applications.
 * [pyramid\_ipython](https://github.com/Pylons/pyramid_ipython) ⭐ 8 | 🐛 0 | 🌐 Python | 📅 2017-04-11 - IPython
   bindings for Pyramid's pshell
@@ -192,7 +192,7 @@ based on [awesome-python](https://github.com/vinta/awesome-python/) ⭐ 337,383 
 
 *Packages that extend the functionality of forms or add new types of forms.*
 
-* [marshmallow](https://github.com/marshmallow-code/marshmallow) ⭐ 7,242 | 🐛 164 | 🌐 Python | 📅 2026-11-26 - A
+* [marshmallow](https://github.com/marshmallow-code/marshmallow) ⭐ 7,242 | 🐛 164 | 🌐 Python | 📅 2026-11-27 - A
   lightweight library for converting complex objects to and from simple Python
   datatypes (i.e. (de)serialization and validation).
 * [WTForms](https://github.com/wtforms/wtforms) ⭐ 1,583 | 🐛 24 | 🌐 Python | 📅 2026-11-01 - is a flexible forms
@@ -279,7 +279,7 @@ provide new storage backends.*
 
 * [pyramid\_mongodb](https://github.com/niallo/pyramid_mongodb) ⭐ 44 | 🐛 5 | 🌐 Python | 📅 2020-03-31 -
   Basic Pyramid Scaffold to easily use MongoDB for persistence with the Pyramid Web framework
-* [pyramid\_tm](https://github.com/Pylons/pyramid_tm) ⭐ 35 | 🐛 1 | 🌐 Python | 📅 2026-11-25 - Centralized transaction
+* [pyramid\_tm](https://github.com/Pylons/pyramid_tm) ⭐ 35 | 🐛 1 | 🌐 Python | 📅 2026-11-27 - Centralized transaction
   management for Pyramid applications (without middleware).
 * [zope.sqlalchemy](https://github.com/zopefoundation/zope.sqlalchemy) ⭐ 35 | 🐛 8 | 🌐 Python | 📅 2026-11-19 -
   Integration of SQLAlchemy with transaction management.
@@ -306,10 +306,10 @@ provide new storage backends.*
 
 ## Templates
 
-* [pyramid\_jinja2](https://github.com/Pylons/pyramid_jinja2) ⭐ 71 | 🐛 6 | 🌐 Python | 📅 2026-11-25 - Jinja2
+* [pyramid\_jinja2](https://github.com/Pylons/pyramid_jinja2) ⭐ 71 | 🐛 6 | 🌐 Python | 📅 2026-11-27 - Jinja2
   templating system bindings for the Pyramid web framework.
 * [Kajiki](https://github.com/nandoflorestan/kajiki) ⭐ 51 | 🐛 10 | 🌐 Python | 📅 2025-05-05 - provides fast well-formed XML templates, with [Pyramid integration](https://github.com/nandoflorestan/kajiki/blob/master/kajiki/integration/pyramid.py) ⭐ 51 | 🐛 10 | 🌐 Python | 📅 2025-05-05
-* [pyramid\_mako](https://github.com/Pylons/pyramid_mako) ⭐ 22 | 🐛 5 | 🌐 Python | 📅 2026-11-26 - Mako templating
+* [pyramid\_mako](https://github.com/Pylons/pyramid_mako) ⭐ 22 | 🐛 5 | 🌐 Python | 📅 2026-11-27 - Mako templating
   system bindings for the Pyramid web framework.
 * [pyramid\_chameleon](https://github.com/Pylons/pyramid_chameleon) ⭐ 8 | 🐛 9 | 🌐 Python | 📅 2026-08-02 - Chameleon
   template compiler for pyramid.
@@ -320,7 +320,7 @@ provide new storage backends.*
 
 *Packages that help test code or generate test data.*
 
-* [webtest](https://github.com/Pylons/webtest) ⭐ 345 | 🐛 31 | 🌐 Python | 📅 2026-09-07 - Wraps any WSGI application and
+* [webtest](https://github.com/Pylons/webtest) ⭐ 345 | 🐛 33 | 🌐 Python | 📅 2026-09-07 - Wraps any WSGI application and
   makes it easy to send test requests to that application, without starting up
   an HTTP server.
 
@@ -360,7 +360,7 @@ provide new storage backends.*
 * [pyramid\_extdirect](https://github.com/jenner/pyramid_extdirect) ⭐ 10 | 🐛 0 | 🌐 Python | 📅 2021-03-09 - This pyramid plugin provides a router for the ExtDirect Sencha API included in ExtJS. ExtDirect allows to run server-side callbacks directly through JavaScript without the extra AJAX boilerplate.
 * [pyramid\_handlers](https://github.com/Pylons/pyramid_handlers) ⭐ 8 | 🐛 4 | 🌐 Python | 📅 2026-08-02 - analogue of
   Pylons-style “controllers” for Pyramid.
-* [pyramid\_retry](https://github.com/Pylons/pyramid_retry) ⭐ 6 | 🐛 2 | 🌐 Python | 📅 2026-11-25 - pyramid\_retry is an execution policy for Pyramid that wraps requests and can retry them a configurable number of times under certain "retryable" error conditions before indicating a failure to the client.
+* [pyramid\_retry](https://github.com/Pylons/pyramid_retry) ⭐ 6 | 🐛 2 | 🌐 Python | 📅 2026-11-27 - pyramid\_retry is an execution policy for Pyramid that wraps requests and can retry them a configurable number of times under certain "retryable" error conditions before indicating a failure to the client.
 * [pyramid\_tablib](https://github.com/lxneng/pyramid_tablib) ⭐ 5 | 🐛 0 | 🌐 Python | 📅 2015-03-12 - tablib renderer
   (xlsx, xls, csv) for pyramid
 * [pyramid\_skins](https://github.com/Pylons/pyramid_skins) ⭐ 2 | 🐛 1 | 🌐 Python | 📅 2022-08-04 - This package
@@ -417,7 +417,7 @@ provide new storage backends.*
 
 ## Other
 
-* [warehouse](https://github.com/pypa/warehouse) ⭐ 4,204 | 🐛 570 | 🌐 Python | 📅 2026-11-26 - Warehouse is a next
+* [warehouse](https://github.com/pypa/warehouse) ⭐ 4,203 | 🐛 571 | 🌐 Python | 📅 2026-11-27 - Warehouse is a next
   generation Python Package Repository designed to replace the legacy code base
   that currently powers PyPI.
 * [shootout](https://github.com/Pylons/shootout) ⭐ 105 | 🐛 1 | 🌐 Python | 📅 2013-10-03 - An example “idea
@@ -513,4 +513,4 @@ or neighboring rights to this work.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-28._
